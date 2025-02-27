@@ -1,0 +1,11 @@
+<meta>
+	<!-- Codes -->
+	<script src="codeServer.lua" type="server" />
+	<script src="codeClient.lua" type="client" />
+	<script src="codeOthers.lua" type="shared" />
+	
+	<!-- Fonts -->
+	<file src="files/fonts/Roboto-BoldCondensed.ttf" />
+	<file src="files/fonts/Roboto-Condensed.ttf" />
+	<file src="files/fonts/Roboto-Thin.ttf" />
+</meta>

@@ -22,7 +22,6 @@
         <acl name="RPC"></acl>
         <object name="user.misi"></object>
         <object name="user.misi1"></object>
-        <object name="user.zeat"></object>
         <object name="user.dzseki"></object>
         <object name="resource.*"></object>
     </group>

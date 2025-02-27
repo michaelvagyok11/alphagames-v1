@@ -93,26 +93,6 @@ local TexturesToBeLoaded = {
 }
 
 local FileKeys = {
-	["1"] = "7pyfXItt",
-	["2"] = "6GOwjE0r",
-	["3"] = "F3ZhGZC3",
-	["4"] = "jornIIgL",
-	["bg"] = "o0k2hCzs",
-	["ear"] = "ba3llnB1",
-	["body"] = "lWjzY8M8",
-	["eye"] = "mCEaMj4g",
-	["eyebg"] = "6mOJCpPL",
-	["eyeshut"] = "rmHanc28",
-	["head"] = "M4APqTyt",
-	["ibg"] = "SC0JWcTy",
-	["itemHover"] = "tvbA78vn",
-	["mouth"] = "ujOeKo9g",
-	["mouth2"] = "9zXor04W",
-	["shadow_body"] = "WJvtjWps",
-	["shadow_ear"] = "kwb72a27",
-	["shadow_head"] = "I2xBCbAI",
-	["win"] = "ce8K5Mhl",
-	["zzz"] = "mkW0UyJb",
 }
 
 

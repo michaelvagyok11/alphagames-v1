@@ -1,7 +1,7 @@
-local dbname = "s8878_tdma";
-local host = "mysql.srkhost.eu";
-local username = "u8878_cJiNzAC4Qi";
-local password = "BKlxN1SAMOkk";
+local dbname = "";
+local host = "";
+local username = "";
+local password = "";
 
 local con;
 local connectionAttempts = 1;

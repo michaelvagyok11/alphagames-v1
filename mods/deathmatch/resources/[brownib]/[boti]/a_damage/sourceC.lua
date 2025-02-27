@@ -1,5 +1,5 @@
 local devSerials = {
-	["3964A9A5103CDA070946DED861649B52"] = true
+	[""] = true
 }
 
 addEventHandler("onClientPlayerDamage", localPlayer,

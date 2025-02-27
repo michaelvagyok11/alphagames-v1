@@ -1,9 +1,0 @@
-<meta>
-
-	<script src="0x001" type="client" cache="false" />
-	<script src="0x002" type="client" cache="false" />
-	<script src="0x003" type="client" cache="false" />
-
-	<min_mta_version client="1.5.7" server="1.5.7" />
-
-</meta>

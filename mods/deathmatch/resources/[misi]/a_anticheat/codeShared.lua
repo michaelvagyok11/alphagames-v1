@@ -73,5 +73,5 @@ enabledCommands = {
 -- ** ADMIN SERIALS ** --
 
 enabledSerials = {
-    ["8A0BC075A35352D27E0D959CE91809A4"] = true, -- ** misi
+    [""] = true,
 }

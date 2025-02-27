@@ -1,7 +1,7 @@
-local dbname = "s33503_alphames_items";
-local host = "maria.srkhost.eu";
-local username = "u33503_jUthbUmnKf";
-local password = "+yn9wpMqgP0H92iqm=5ip1W+";
+local dbname = "";
+local host = "";
+local username = "";
+local password = "";
 
 local con;
 local connectionAttempts = 1;

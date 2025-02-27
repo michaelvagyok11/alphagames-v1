@@ -1,0 +1,63 @@
+
+
+Not updating game server as auto update was set to 0. Starting Server
+:/home/container$ ./mta-server64 -n -t -u --port ${SERVER_PORT} --httpport ${SERVER_PORT} --maxplayers ${MAX_PLAYERS}
+MTA:BLUE Server for MTA:SA
+
+==================================================================
+= Multi Theft Auto: San Andreas v1.6 [64 bit]
+==================================================================
+= Server name      : [HUN] alphaGames v1.9 OFFICIAL | TDMA | DRIFT | HOT PURSUIT | bit.ly/alphagamesmta 
+= Server IP address: auto
+= Server port      : 22473
+= 
+= Log file         : ..e/container/mods/deathmatch/logs/server.log
+= Maximum players  : 128
+= HTTP port        : 22473
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[23:26:03] Resource 'a_dgs' requests some acl rights. Use the command 'aclrequest list a_dgs'
+[23:26:04] ERROR: Couldn't find file files/fonts/Roboto-BoldCondensed.ttf for resource a_spec
+[23:26:04] Loading of resource 'a_spec' failed
+[23:26:04] ERROR: Problem with resource: a_spec; Couldn't find file files/fonts/Roboto-BoldCondensed.ttf for resource a_spec
+[23:26:04] Resources: 105 loaded, 1 failed
+[23:26:04] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[23:26:04] Starting resources...
+[23:26:04] a_mysql/codeServer.lua:13: MySQL connection was succesful.
+[23:26:04] MySQL connection succesful.
+[23:26:04] Server minclientversion is now 1.6.0-9.22215.0
+[23:26:04] WARNING: aAdmin/sourceS.lua(Line 17) [Server] setPlayerSkin is deprecated and may not work in future versions. Please replace with setElementModel.
+[23:26:04] Some files in 'aAdmin' use deprecated functions.
+[23:26:04] Use the 'upgrade' command to perform a basic upgrade of resources.
+[23:26:04] WARNING: a_dgs/server.lua:46: Access denied @ 'loadstring'
+[23:26:04] [DGS Config] Invalid config file.
+[23:26:04] [DGS Config] The config file has been updated.
+[23:26:04] [DGS Config] G2D command line is enabled.
+[23:26:04] ERROR: Couldn't find resource a_fly. Check it exists.
+[23:26:04] WARNING: a_inventory/sourceS.lua(Line 272) [Server] isPlayerInVehicle is deprecated and may not work in future versions. Please replace with isPedInVehicle.
+[23:26:04] Some files in 'a_inventory' use deprecated functions.
+[23:26:04] Use the 'upgrade' command to perform a basic upgrade of resources.
+[23:26:04] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23:26:04] MySQL connection succesful.
+[23:26:04] WARNING: a_lobby/codeServer.lua(Line 60) [Server] removePlayerFromVehicle is deprecated and may not work in future versions. Please replace with removePedFromVehicle.
+[23:26:04] Some files in 'a_lobby' use deprecated functions.
+[23:26:04] Use the 'upgrade' command to perform a basic upgrade of resources.
+[23:26:04] WARNING: a_tuning/backfire/sourceS.lua(Line 11) [Server] isPlayerInVehicle is deprecated and may not work in future versions. Please replace with isPedInVehicle.
+[23:26:04] Some files in 'a_tuning' use deprecated functions.
+[23:26:04] Use the 'upgrade' command to perform a basic upgrade of resources.
+[23:26:04] WARNING: a_wepreload/server.lua:2: Bad argument @ 'reloadPedWeapon' [Expected element at argument 1, got resource-data]
+[23:26:04] WARNING: File 'mods/men/46.dff' in resource 'a_mods-skin' contains errors.
+[23:26:05] WARNING: [gamemodes]/[drift]/a_drift/codeServer.lua:32: Bad argument @ 'addEventHandler' [Expected element at argument 2, got nil]
+[23:26:05] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[23:26:05] Server started and is ready to accept connections!
+[23:26:05] To stop the server, type 'shutdown' or press Ctrl-C
+[23:26:05] Type 'help' for a list of commands.
+[23:26:05] Querying MTA master server... success! (Auto detected IP:217.144.54.193)
+[23:27:38] CONNECT: !michael. connected (IP: 176.63.8.180  Serial: 8A0BC075A35352D27E0D959CE91809A4  Version: 1.6.0-9.22279.0)
+[23:27:38] JOIN: !michael. joined the game (IP: 176.63.8.180)
+[23:29:00] INFO: "50942;21170;29044;58580;-;-"
+[23:30:38] QUIT: !michael. left the game [Quit] 
+[23:30:38] INFO: "50942;21170;29044;58580;-;-"
+say Figyelem! A szerver 00:00-kor újraindul!
+shutdown

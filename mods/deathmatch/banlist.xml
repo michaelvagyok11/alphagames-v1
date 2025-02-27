@@ -1,0 +1,69 @@
+<banlist>
+    <ban serial="825A0BFE461D8DBFF59FA7F7FD126953" banner="brownib" reason="szioka" time="1688218853" unban="1719754853"></ban>
+    <ban nick="Maffiozo" ip="89.132.249.7" serial="CBD6C355E9F111969134F2504AAB71A1" banner="brownib" reason="Buggoltatás felt." time="1688237014" unban="1719773014"></ban>
+    <ban serial="983F8CACB680D483A525152AAC23F8E4" banner="brownib" reason="Véletlen kapott item elzsákmányolása, illetve visszaadás elkerülése." time="1688293498" unban="1719829498"></ban>
+    <ban nick="Tomesz." ip="176.63.13.202" serial="1075D7BA9BB94E3662BDCF0D4FBF89E4" banner="brownib" reason="nem muszaj itt jatszani brothercheese" time="1688679728" unban="1720215728"></ban>
+    <ban nick="MKAY" ip="81.183.166.231" serial="3DAA41EE9806A4308C3719CF8486BA02" banner="voxelll" reason="Nem vagy érdekes, közösségromboló magaviselet" time="1689162991" unban="1720698991"></ban>
+    <ban nick="bluecold" ip="78.92.64.172" serial="F518C7A71B74A5BE3FCD0B3B284D2684" banner="[cP]toby??+" reason="folyamatos derby, db" time="1689190614" unban="1720726614"></ban>
+    <ban nick="Szillykeee" ip="86.120.100.102" serial="AA6699F62ECCFEE08D1B920BE19A5A44" banner="[1&apos;SK]toby" reason="db, derby" time="1689705408" unban="2049701808"></ban>
+    <ban nick="Milan" ip="212.102.99.212" serial="9B7580FB9CAC019EE67E11E20F22CBA4" banner="zoli" reason="." time="1690826414" unban="1726822814"></ban>
+    <ban nick=".Fl1ppY_x_BL3SSED_P1" ip="81.182.12.139" serial="C3D57AB6CEECB3D793E7D8C5083C1783" banner="zoli" reason="Ne itt hirdesd a Pursuit szervereteket" time="1690904505" unban="1726900905"></ban>
+    <ban nick="NektarBumblebee156" ip="37.35.9.110" serial="D648E1763A0A3571495EFB622892D334" banner="voxel." reason="Gondolkozz el, kinek beszélsz. Admin szidalmazás." time="1690909332" unban="1722445332"></ban>
+    <ban nick="PoisedVegetables94" ip="84.21.181.83" banner="Console" time="1691435448"></ban>
+    <ban nick="Knew" ip="46.35.192.44" banner="Console" time="1691444624"></ban>
+    <ban nick="[gK]Picsa" ip="46.35.202.129" banner="Console" time="1691444697"></ban>
+    <ban serial="348D859AB93FCAE0386B7886317A2D12" banner="[hP]enemy" reason="agyhalott" time="1691457929" unban="1722993929"></ban>
+    <ban serial="5F3EC2E3F907FB1755D51348DBA58D53" banner="voxel." reason="Folyamatos teamderby, nincs szükségünk rád." time="1692110194" unban="1723646194"></ban>
+    <ban nick="randomuser" serial="3D82FF283A595A642B458F2967567EB4" banner="Console" reason="." time="1692119182"></ban>
+    <ban nick="enemy" serial="A9D86084C49812DD047949EFCB1DCA84" banner="Console" reason="viszlagy" time="1692119182"></ban>
+    <ban ip="91.150.110.247" serial="C50E8A46C702BA3CC99DC5B86E02BD02" banner="!michael." reason="cs" time="1692752211" unban="1724288211"></ban>
+    <ban nick="yasomm" ip="5.38.137.143" serial="7CBC7E6FD093653A456F797F5981BD12" banner="Pingu" reason="Teamelés, Teammatehátráltatás, Közösségrombolás" time="1693054272" unban="1729050672"></ban>
+    <ban nick="HeavySpurs51" ip="87.229.56.173" serial="F9433FD7D0134DCBAB801B1E95D28BB4" banner="!michael." reason="oké" time="1693477789" unban="1725013789"></ban>
+    <ban nick="arab" ip="46.107.94.73" serial="85B46CC28C7E55E3AF9D10FAC94B1C53" banner="Console" reason="@everyone spam" time="1693769573"></ban>
+    <ban nick="rozikaneni" ip="91.137.147.130" serial="23A283FE0B62B73314966F8BC3D101E3" banner="Pingu" reason="Admin szidás [Anyázás] Közösség rombolás" time="1694193293" unban="2054189693"></ban>
+    <ban nick="kuss" ip="89.186.103.13" serial="7120951B31BA91C57FAF6CC7F3277854" banner="Pingu" reason="Ugyanaz mint az előző [Admin szidás/Anyázás]" time="1694193503" unban="1730189903"></ban>
+    <ban nick="Martin" ip="94.27.134.193" serial="E360580868A8882F09C65F7211587794" banner="____" reason="Elviselhetetlen stílus chaten, vezetőségi tag szidalmazása" time="1696025223" unban="1727561223"></ban>
+    <ban serial="49492EBD885304B3DE23A988885BC0E3" banner="____" reason="Elviselhetetlen, gyerekes stílus chaten, vezetőségi tag szidalmazása, nem megfelelő névvel való regisztráció." time="1696025530" unban="1727561530"></ban>
+    <ban nick="Aurelio" ip="176.63.0.23" serial="956A26F93D8E892F5B0C26CD09880291" banner="crudo" reason="vezetőség szidalmazása" time="1696443417" unban="1727979417"></ban>
+    <ban nick="mi_az_az_Ukrajna?" ip="149.200.15.182" serial="6C5F9A2245070B9B14A214171C11F6E3" banner="HelplessHydrofoil33" reason="csa" time="1696787579" unban="1728323579"></ban>
+    <ban nick="sweetgirl" ip="149.200.6.51" serial="3D93BE6014C36D4C31C2A955F0C69FF4" banner="HelplessHydrofoil33" reason="csa" time="1696787786" unban="1728323786"></ban>
+    <ban nick="genyo" ip="82.76.154.70" serial="EB97F02C4701003A10C08C721547A343" banner="balazs" reason="Köszönöm" time="1697397047" unban="1728933047"></ban>
+    <ban nick="ManyJeep63" ip="79.114.211.54" serial="0E2F7070AA65D341026BD8A3BF3C1391" banner="balazs" reason="Köszönöm" time="1697397098" unban="1728933098"></ban>
+    <ban nick="penis" ip="194.36.25.27" serial="770D69CD345CA1D14994DB8AD9D029A3" banner="-" reason="." time="1697467302" unban="1729003302"></ban>
+    <ban nick="fxx" ip="79.121.20.222" serial="562B7AEA7F7367EE8798149237E8B2A2" banner="Roli." reason="Pejoratív név használata. Dc-n kérj Névváltást ha az NV megtörtént megkapod az UB-t. Discord: discord.gg/XnekZVvXf7" time="1697981524" unban="1729517524"></ban>
+    <ban nick="AbsurdBrute42" serial="AD3F9EC2E82202AE6ADE2ED2E3630FF4" banner="Nxmrod" reason="kys" time="1697982811" unban="1729518811"></ban>
+    <ban nick="marcibosspepemegbaszva" ip="92.249.240.240" serial="7517B931B607EC2D0123F4C2C2D543F4" banner="!michael." reason="Játékos szidalmazása liveban." time="1698003980" unban="1700595980"></ban>
+    <ban nick="szoszko" ip="104.28.159.31" serial="BACC18E77BD38D36143D5814646A46A1" banner="!michael." reason="Játékos szidalmazása" time="1698005196" unban="1729541196"></ban>
+    <ban nick="csicskakutyavagy" ip="94.44.100.183" serial="88D65B82E01F1D9172FCF027BA316FF4" banner="voxel" reason="teamderby" time="1698080988" unban="1699808988"></ban>
+    <ban nick="zsoltiboss" ip="87.242.2.109" serial="33159484F005C19866C014DD5002BC81" banner="balazs" reason="Moderáld magad" time="1698177778" unban="1700769778"></ban>
+    <ban nick="jezus" ip="88.212.43.144" serial="A34BE138A8325CAA07196D89B38DD3E4" banner="voxel" reason="Csapattárs hátráltatása." time="1698262234" unban="1700854234"></ban>
+    <ban serial="8AB34C5C8730FF9107C824941F7C144F" banner="balazs" reason="Keress fel DC-n!" time="1698492819"></ban>
+    <ban nick="Khayr" ip="85.238.80.205" serial="FCA457CD91C708E58E92FE1CF1044083" banner="voxel" reason="csapattárs hátráltatása" time="1698500470" unban="1701092470"></ban>
+    <ban nick="Csempe" ip="78.131.108.111" serial="856E1501C5F4598F94D6FC471D48B794" banner="voxel" reason="csapattárs hátráltatása" time="1698500486" unban="1701092486"></ban>
+    <ban nick="[Sca]Lacikutyam" ip="188.173.238.194" serial="3EB6884D76A7118C22F1FCB88CCAD893" banner="voxel" reason="nem kötelező játszani itt, ha 10 éves a vezetőség." time="1698573169" unban="1730109169"></ban>
+    <ban nick="tumorangol" ip="82.40.48.166" serial="B5EEDDFFDBDB973739212DEF10FCAC54" banner="AheadBrushes88" reason="Szerverszidás" time="1698596788" unban="1730132788"></ban>
+    <ban nick="delwyn." ip="134.255.107.88" serial="F0C2D45479F0A335E8ACE44A1DC0AFA1" banner="AheadBrushes88" reason="Gyerekes videlkedés" time="1698668723" unban="1730204723"></ban>
+    <ban nick="EvasiveCradle78" ip="94.27.217.244" serial="19C28D87309AF40D36711374CA9165B2" banner="AheadBrushes88" reason="ok" time="1698684757" unban="1730220757"></ban>
+    <ban nick="DAMDAMDMAM" ip="45.10.94.195" serial="7BEB18D07B1484CB6877099D73491843" banner="MTA" reason="stop playing alphagames" time="1698777998" unban="1730313998"></ban>
+    <ban nick="unkillable" ip="78.92.86.151" serial="70D6CA4FFD6487E0B6DAF5B6B5BF9212" banner="voxel" reason="Csapattárs hátráltatása, Chat nem megfelelő használata." time="1698843915" unban="1730379915"></ban>
+    <ban nick="Fronyesz_" ip="37.76.50.163" serial="D1CD78A2DD341DE45A1519A9A6A5DFA2" banner="voxel" reason="SK" time="1698947468" unban="1701539468"></ban>
+    <ban nick="FlashyWitch91" ip="89.133.119.249" serial="D1BA408070268999AC3E22DD6A3E3434" banner="voxel" reason="SK" time="1698961333" unban="1701553333"></ban>
+    <ban nick="Nagata" ip="195.228.219.139" serial="ACC75E748CE91DE38D30FA089D2405F2" banner="voxel" reason="SK" time="1698961380" unban="1701553380"></ban>
+    <ban nick="#d5ff34Ricky" ip="92.52.198.30" serial="4A8C12A8EBAF974EFAD0B5D9A0A313F2" banner="lowas" reason="400 400" time="1699042389" unban="1713442389"></ban>
+    <ban nick="lowas" ip="84.0.227.1" serial="86571CF5AF0F8E36419E40B7DD050B44" banner="InitLibary" reason="anyad" time="1699042390" unban="1701634390"></ban>
+    <ban nick="ebredezem" ip="45.10.94.195" serial="7BEB18D07B1484CB6877099D73491843" banner="voxel" reason="Cheat." time="1699045640"></ban>
+    <ban nick="UnusualDuststorm65" ip="46.107.87.40" serial="01738901ED29924BA104BA00AC879224" banner="Console" reason="kurva anyatokat mar" time="1699045642"></ban>
+    <ban nick="AwareForest66" ip="91.104.26.76" serial="CACA4E1F0B89AD1A2E4D2B404B872BB2" banner="Console" reason="kurva anyatokat mar" time="1699045642"></ban>
+    <ban nick="SzekelySkeeter" ip="146.70.124.198" serial="6E38A73CE425BC45B12A7B7FBD330993" banner="Console" reason="kurva anyatokat mar" time="1699045642"></ban>
+    <ban serial="65279422EDA986C08F18EB5190A1D282" banner="voxel" reason="YouTube videóban való tulajdonos, admin, játékos szidás. Unbanra lehetőség nem adott." time="1699126472"></ban>
+    <ban nick="StatuesqueAneroid60" ip="176.63.17.229" serial="513EA5E8D7AB6DBC614490ADE6E9AB94" banner="atex" reason="Adminszidás." time="1699150201" unban="1699755001"></ban>
+    <ban serial="5420DA0D9B250204B08E0F0D3E333752" banner="voxel" reason="Buggoltatás." time="1699302073" unban="1730838073"></ban>
+    <ban serial="70B6258B12274D966D3A6B6A0F322284" banner="EnterUsername" reason="valszeg vmi olcso alap cheattel" time="1699392931" unban="1730928931"></ban>
+    <ban nick="Kevinn" ip="81.182.58.166" serial="D5261AF8F596F16528533114EA55A520" banner="atex" reason="PM-ben való szidás, spamelés." time="1699464443" unban="1700069243"></ban>
+    <ban serial="B6CE8C56BD802D751761F7C7E72DB042" banner="voxel" reason="Keress fel Discordon! [Rossz item adása, Halloween M4-et kapott, Halloween Desert Eagle-t kellett volna!]" time="1699540978" unban="1731076978"></ban>
+    <ban nick="FemaleMontero62" ip="91.120.143.201" serial="15C450173D4F92E49090461E7716C8E4" banner="voxel" reason="Keress fel discordon!" time="1699549113" unban="1731085113"></ban>
+    <ban nick="LowFlashflood3" ip="92.249.194.237" serial="9F7AA7025D163806C8C33BE54CD63C12" banner="voxel" reason="Keress fel discordon!" time="1699549116" unban="1731085116"></ban>
+    <ban nick="kulaa" ip="37.76.35.29" serial="DD05C147D08672800CB958EB699C2374" banner="atex" reason="SK" time="1699553793" unban="1699640193"></ban>
+    <ban nick="voxel" ip="78.92.215.113" serial="E41E6A84C48072DB3561096EDCE297E2" banner="BluntEldor21" reason="cry" time="1699560120" unban="1731096120"></ban>
+    <ban serial="7020DC167F1DDF95C1CF960C1AA18944" banner="BluntEldor21" reason="cry" time="1699560204" unban="1731096204"></ban>
+</banlist>

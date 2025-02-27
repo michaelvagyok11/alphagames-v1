@@ -1,0 +1,577 @@
+[SRK] Konzol log létrehozásának pontos ideje: 3/1/2023, 6:12:38 PM
+
+
+
+Not updating game server as auto update was set to 0. Starting Server
+First launch will throw some errors. Ignore them
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+:/home/container$ ./mta-server64 -n -t -u --port ${SERVER_PORT} --httpport ${SERVER_PORT} --maxplayers ${MAX_PLAYERS}
+MTA:BLUE Server for MTA:SA
+
+Please wait...
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : [DEV] alphaGames - developer server | dc.alphatdma.com
+= Server IP address: auto
+= Server port      : 22420
+= 
+= Log file         : ..e/container/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22420
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[16:55:45] Compacting accounts database 'internal.db' ...
+[16:55:45] ERROR: Couldn't find file wg_l_a_l.dff for resource a_mods-tuningparts
+[16:55:45] Loading of resource 'a_mods-tuningparts' failed
+[16:55:45] ERROR: Couldn't find file files/fonts/Roboto-BoldCondensed.ttf for resource a_spec
+[16:55:45] Loading of resource 'a_spec' failed
+[16:55:45] ERROR: Problem with resource: a_mods-tuningparts; Couldn't find file wg_l_a_l.dff for resource a_mods-tuningparts
+[16:55:45] ERROR: Problem with resource: a_spec; Couldn't find file files/fonts/Roboto-BoldCondensed.ttf for resource a_spec
+[16:55:45] Resources: 66 loaded, 2 failed
+[16:55:45] Compacting database 'registry.db' ...
+[16:55:45] Server password set to 'ciganypina'
+[16:55:45] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[16:55:45] Starting resources...
+[16:55:45] a_mysql/codeServer.lua:13: MySQL connection was succesful.
+[16:55:45] MySQL connection succesful.
+[16:55:45] startResource: Resource 'aAccount' started
+[16:55:45] a_core/codeServer.lua:46: aAccount started. (0 ms)
+[16:55:45] WARNING: aAdmin/sourceS.lua(Line 17) [Server] setPlayerSkin is deprecated and may not work in future versions. Please replace with setElementModel.
+[16:55:45] Some files in 'aAdmin' use deprecated functions.
+[16:55:45] Use the 'upgrade' command to perform a basic upgrade of resources.
+[16:55:45] startResource: Resource 'aAdmin' started
+[16:55:45] a_core/codeServer.lua:46: aAdmin started. (0 ms)
+[16:55:45] startResource: Resource 'aCore' started
+[16:55:45] a_core/codeServer.lua:46: aCore started. (0 ms)
+[16:55:45] [.ÚJ_CUCCOK]/aDatabase/codeServer.lua:13: MySQL connection was succesful.
+[16:55:45] MySQL connection succesful.
+[16:55:45] startResource: Resource 'aDatabase' started
+[16:55:45] a_core/codeServer.lua:46: aDatabase started. (0 ms)
+[16:55:45] Server minclientversion is now 1.5.9-9.21554.0
+[16:55:45] startResource: Resource 'aDx' started
+[16:55:45] a_core/codeServer.lua:46: aDx started. (0 ms)
+[16:55:45] ERROR: [.ÚJ_CUCCOK]/aInterface/codeOthers.lua:1: attempt to call global 'guiGetScreenSize' (a nil value)
+[16:55:45] startResource: Resource 'aInterface' started
+[16:55:45] a_core/codeServer.lua:46: aInterface started. (0 ms)
+[16:55:45] startResource: Resource 'aInteriors' started
+[16:55:45] a_core/codeServer.lua:46: aInteriors started. (0 ms)
+[16:55:45] startResource: Resource 'aNametag' started
+[16:55:45] a_core/codeServer.lua:46: aNametag started. (0 ms)
+[16:55:45] startResource: Resource 'aShop' started
+[16:55:45] a_core/codeServer.lua:46: aShop started. (0 ms)
+[16:55:45] startResource: Resource 'a_3dview' started
+[16:55:45] a_core/codeServer.lua:46: a_3dview started. (0 ms)
+[16:55:45] startResource: Resource 'a_account' started
+[16:55:45] a_core/codeServer.lua:46: a_account started. (0 ms)
+[16:55:45] startResource: Resource 'a_admin' started
+[16:55:45] a_core/codeServer.lua:46: a_admin started. (0 ms)
+[16:55:45] startResource: Resource 'a_adminpanel' started
+[16:55:45] a_core/codeServer.lua:46: a_adminpanel started. (0 ms)
+[16:55:45] startResource: Resource 'a_anticheat' started
+[16:55:45] a_core/codeServer.lua:46: a_anticheat started. (0 ms)
+[16:55:45] startResource: Resource 'a_anticheatOLD' started
+[16:55:45] a_core/codeServer.lua:46: a_anticheatOLD started. (0 ms)
+[16:55:45] startResource: Resource 'a_blur' started
+[16:55:45] a_core/codeServer.lua:46: a_blur started. (0 ms)
+[16:55:45] startResource: Resource 'a_bone' started
+[16:55:45] a_core/codeServer.lua:46: a_bone started. (0 ms)
+[16:55:45] startResource: Resource 'a_chat' started
+[16:55:45] a_core/codeServer.lua:46: a_chat started. (0 ms)
+[16:55:45] startResource: Resource 'a_chests' started
+[16:55:45] a_core/codeServer.lua:46: a_chests started. (0 ms)
+[16:55:45] startResource: Resource 'a_cpu' started
+[16:55:45] a_core/codeServer.lua:46: a_cpu started. (0 ms)
+[16:55:45] startResource: Resource 'a_dashboard' started
+[16:55:45] a_core/codeServer.lua:46: a_dashboard started. (0 ms)
+[16:55:46] startResource: Resource 'a_dead' started
+[16:55:46] a_core/codeServer.lua:46: a_dead started. (0 ms)
+[16:55:46] startResource: Resource 'a_deathmatch' started
+[16:55:46] a_core/codeServer.lua:46: a_deathmatch started. (0 ms)
+[16:55:46] INFO: [DGS]Config File Loaded!
+[16:55:46] INFO: [DGS]G2D is enabled!
+[16:55:46] startResource: Resource 'a_dgs' started
+[16:55:46] a_core/codeServer.lua:46: a_dgs started. (0 ms)
+[16:55:46] WARNING: [gamemodes]/[drift]/a_drift/codeServer.lua:32: Bad argument @ 'addEventHandler' [Expected element at argument 2, got nil]
+[16:55:46] startResource: Resource 'a_drift' started
+[16:55:46] a_core/codeServer.lua:46: a_drift started. (0 ms)
+[16:55:46] startResource: Resource 'a_duel' started
+[16:55:46] a_core/codeServer.lua:46: a_duel started. (0 ms)
+[16:55:46] startResource: Resource 'a_dx' started
+[16:55:46] a_core/codeServer.lua:46: a_dx started. (0 ms)
+[16:55:46] startResource: Resource 'a_extras' started
+[16:55:46] a_core/codeServer.lua:46: a_extras started. (0 ms)
+[16:55:46] startResource: Resource 'a_fly' started
+[16:55:46] a_core/codeServer.lua:46: a_fly started. (0 ms)
+[16:55:46] startResource: Resource 'a_freeroam' started
+[16:55:46] a_core/codeServer.lua:46: a_freeroam started. (0 ms)
+[16:55:46] startResource: Resource 'a_handlings' started
+[16:55:46] a_core/codeServer.lua:46: a_handlings started. (0 ms)
+[16:55:46] startResource: Resource 'a_helpdesk' started
+[16:55:46] a_core/codeServer.lua:46: a_helpdesk started. (0 ms)
+[16:55:46] startResource: Resource 'a_hotpursuit' started
+[16:55:46] a_core/codeServer.lua:46: a_hotpursuit started. (0 ms)
+[16:55:46] startResource: Resource 'a_hud' started
+[16:55:46] a_core/codeServer.lua:46: a_hud started. (0 ms)
+[16:55:46] startResource: Resource 'a_interface' started
+[16:55:46] a_core/codeServer.lua:46: a_interface started. (0 ms)
+[16:55:46] startResource: Resource 'a_inventory' started
+[16:55:46] a_core/codeServer.lua:46: a_inventory started. (0 ms)
+[16:55:46] startResource: Resource 'a_items' started
+[16:55:46] a_core/codeServer.lua:46: a_items started. (0 ms)
+[16:55:46] startResource: Resource 'a_loader' started
+[16:55:46] a_core/codeServer.lua:46: a_loader started. (0 ms)
+[16:55:46] startResource: Resource 'a_lobby' started
+[16:55:46] a_core/codeServer.lua:46: a_lobby started. (0 ms)
+[16:55:46] startResource: Resource 'a_logs' started
+[16:55:46] a_core/codeServer.lua:46: a_logs started. (0 ms)
+[16:55:46] startResource: Resource 'a_maintenance' started
+[16:55:46] a_core/codeServer.lua:46: a_maintenance started. (0 ms)
+[16:55:46] startResource: Resource 'a_maps' started
+[16:55:46] a_core/codeServer.lua:46: a_maps started. (0 ms)
+[16:55:46] WARNING: File 'mods/men/46.dff' in resource 'a_mods-skin' contains errors.
+[16:55:46] startResource: Resource 'a_mods-skin' started
+[16:55:46] a_core/codeServer.lua:46: a_mods-skin started. (0 ms)
+[16:55:46] a_core/codeServer.lua:48: a_mods-tuningparts failed to start.
+[16:55:46] WARNING: File 'mods/supergt.dff' in resource 'a_mods-veh' contains errors.
+[16:55:46] startResource: Resource 'a_mods-veh' started
+[16:55:46] a_core/codeServer.lua:46: a_mods-veh started. (0 ms)
+[16:55:46] startResource: Resource 'a_mods-wep' started
+[16:55:46] a_core/codeServer.lua:46: a_mods-wep started. (0 ms)
+[16:55:46] startResource: Resource 'a_mods-wheel' started
+[16:55:46] a_core/codeServer.lua:46: a_mods-wheel started. (0 ms)
+[16:55:46] startResource: Resource 'a_music' started
+[16:55:46] a_core/codeServer.lua:46: a_music started. (0 ms)
+[16:55:46] startResource: Resource 'a_nick' started
+[16:55:46] a_core/codeServer.lua:46: a_nick started. (0 ms)
+[16:55:46] startResource: Resource 'a_op' started
+[16:55:46] a_core/codeServer.lua:46: a_op started. (0 ms)
+[16:55:46] startResource: Resource 'a_panel' started
+[16:55:46] a_core/codeServer.lua:46: a_panel started. (0 ms)
+[16:55:46] startResource: Resource 'a_plate' started
+[16:55:46] a_core/codeServer.lua:46: a_plate started. (0 ms)
+[16:55:46] startResource: Resource 'a_player' started
+[16:55:46] a_core/codeServer.lua:46: a_player started. (0 ms)
+[16:55:46] startResource: Resource 'a_radar' started
+[16:55:46] a_core/codeServer.lua:46: a_radar started. (0 ms)
+[16:55:46] startResource: Resource 'a_shootingrange' started
+[16:55:46] a_core/codeServer.lua:46: a_shootingrange started. (0 ms)
+[16:55:46] startResource: Resource 'a_skinshop' started
+[16:55:46] a_core/codeServer.lua:46: a_skinshop started. (0 ms)
+[16:55:46] a_core/codeServer.lua:48: a_spec failed to start.
+[16:55:46] startResource: Resource 'a_speedo' started
+[16:55:46] a_core/codeServer.lua:46: a_speedo started. (0 ms)
+[16:55:46] startResource: Resource 'a_texture' started
+[16:55:46] a_core/codeServer.lua:46: a_texture started. (0 ms)
+[16:55:46] startResource: Resource 'a_toplist' started
+[16:55:46] a_core/codeServer.lua:46: a_toplist started. (0 ms)
+[16:55:46] startResource: Resource 'a_tp' started
+[16:55:46] a_core/codeServer.lua:46: a_tp started. (0 ms)
+[16:55:46] ERROR: a_tuning/codeServer.lua:5: bad argument #1 to 'ipairs' (table expected, got nil)
+[16:55:46] startResource: Resource 'a_tuning' started
+[16:55:46] a_core/codeServer.lua:46: a_tuning started. (0 ms)
+[16:55:46] startResource: Resource 'a_vehicles' started
+[16:55:46] a_core/codeServer.lua:46: a_vehicles started. (0 ms)
+[16:55:46] startResource: Resource 'a_weaponsounds' started
+[16:55:46] a_core/codeServer.lua:46: a_weaponsounds started. (0 ms)
+[16:55:46] WARNING: a_wepreload/server.lua:2: Bad argument @ 'reloadPedWeapon' [Expected element at argument 1, got resource-data]
+[16:55:46] startResource: Resource 'a_wepreload' started
+[16:55:46] a_core/codeServer.lua:46: a_wepreload started. (0 ms)
+[16:55:46] startResource: Resource 'a_xmas' started
+[16:55:46] a_core/codeServer.lua:46: a_xmas started. (0 ms)
+[16:55:46] Querying MTA master server... success! (Auto detected IP:217.144.54.195)
+[16:55:46] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[16:55:46] Server started and is ready to accept connections!
+[16:55:46] To stop the server, type 'shutdown' or press Ctrl-C
+[16:55:46] Type 'help' for a list of commands.
+[16:56:06] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[16:56:07] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[16:56:15] DIAGNOSTIC: dzseki #1013 HTTP server file mismatch! (a_radar) Roboto-Condensed.ttf [CRC could not open file: Permission denied]
+[16:56:15] KICK: dzseki was kicked from the game by System (Incorrectly downloaded file.)
+[16:56:15] WARNING: a_anticheatOLD/codeServer.lua:55: Access denied @ 'kickPlayer'
+[16:57:14] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[16:57:15] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[16:57:27] restart: Requested by dzseki(guest)
+[16:57:27] Stopping a_account
+[16:57:27] Starting a_account
+[16:57:27] a_account restarted successfully
+[16:57:30] stop: Requested by dzseki(guest)
+[16:57:30] Stopping a_player
+[16:57:32] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:43: attempt to perform arithmetic on local 'oVal' (a nil value)
+[16:57:32] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:27: attempt to perform arithmetic on local 'oVal' (a nil value)
+[16:57:32] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:35: attempt to perform arithmetic on local 'oVal' (a nil value)
+[16:57:34] stop: Requested by dzseki(guest)
+[16:57:34] Stopping aInterface
+[16:57:37] ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:416: Invalid value type @ isValueInTable (table expected, got number)
+[16:57:52] stop: Requested by dzseki(guest)
+[16:57:52] Stopping a_helpdesk
+[16:58:18] SCRIPT: dzseki(guest) set their script debug mode to 1
+[16:59:22] restart: Requested by dzseki(guest)
+[16:59:22] Stopping a_hotpursuit
+[16:59:22] Resource 'a_hotpursuit' changed, reloading and starting
+[16:59:22] Starting a_hotpursuit
+[16:59:22] a_hotpursuit restarted successfully
+[16:59:30] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[16:59:36] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)  [DUP x2]
+[16:59:37] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[16:59:41] QUIT: dzseki left the game [Quit]
+[17:00:16] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[17:00:16] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[17:00:23] SCRIPT: dzseki(guest) set their script debug mode to 1
+[17:00:26] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:43: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:00:26] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:27: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:00:26] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:35: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:00:31] ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:431: Invalid value type @ isValueInTable (table expected, got number)
+[17:01:33] restart: Requested by dzseki(guest)
+[17:01:33] Stopping a_hotpursuit
+[17:01:33] Resource 'a_hotpursuit' changed, reloading and starting
+[17:01:33] Starting a_hotpursuit
+[17:01:33] a_hotpursuit restarted successfully
+[17:01:40] QUIT: dzseki left the game [Quit]
+[17:01:41] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[17:01:41] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[17:01:50] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:43: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:01:50] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:27: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:01:50] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:35: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:01:58] SCRIPT: dzseki(guest) set their script debug mode to 1
+[17:03:56] restart: Requested by dzseki(guest)
+[17:03:56] Stopping a_hotpursuit
+[17:03:56] Resource 'a_hotpursuit' changed, reloading and starting
+[17:03:56] Starting a_hotpursuit
+[17:03:56] a_hotpursuit restarted successfully
+[17:04:34] a_core/runcode/codeServer.lua:69: [SRUN] dzseki executed: outputChatBox(tostring(getElementData(localPlayer, "a.HPVehicle")))
+[17:04:34] ERROR: a_core/runcode/codeServer.lua:20: attempt to compare number with boolean
+[17:04:37] a_core/runcode/codeServer.lua:69: [SRUN] dzseki executed: outputChatBox(tostring(getElementData(localPlayer, "a.HPVehicle")[1]))
+[17:04:39] ERROR: a_core/runcode/codeServer.lua:20: attempt to compare number with boolean
+[17:04:39] a_core/runcode/codeServer.lua:69: [SRUN] dzseki executed: outputChatBox(tostring(getElementData(localPlayer, "a.HPVehicle")[2]))
+[17:04:39] ERROR: a_core/runcode/codeServer.lua:20: attempt to compare number with boolean
+[17:05:00] restart: Requested by dzseki(guest)
+[17:05:00] Stopping a_hotpursuit
+[17:05:00] Resource 'a_hotpursuit' changed, reloading and starting
+[17:05:00] Starting a_hotpursuit
+[17:05:00] INFO: lefut 1
+[17:05:00] a_hotpursuit restarted successfully
+[17:05:06] INFO: lefut 1  [DUP x13]
+[17:05:13] restart: Requested by dzseki(guest)
+[17:05:13] Stopping a_hotpursuit
+[17:05:13] Resource 'a_hotpursuit' changed, reloading and starting
+[17:05:13] Starting a_hotpursuit
+[17:05:13] a_hotpursuit restarted successfully
+[17:07:16] restart: Requested by dzseki(guest)
+[17:07:16] Stopping a_hotpursuit
+[17:07:16] Resource 'a_hotpursuit' changed, reloading and starting
+[17:07:16] Starting a_hotpursuit
+[17:07:16] SCRIPT ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:458: 'end' expected (to close 'function' at line 400) near '<eof>'
+[17:07:16] ERROR: Loading script failed: [gamemodes]/a_hotpursuit/codeServer.lua:458: 'end' expected (to close 'function' at line 400) near '<eof>'
+[17:07:16] a_hotpursuit restarted successfully
+[17:07:57] restart: Requested by dzseki(guest)
+[17:07:57] Stopping a_hotpursuit
+[17:07:57] Resource 'a_hotpursuit' changed, reloading and starting
+[17:07:57] Starting a_hotpursuit
+[17:07:57] SCRIPT ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:459: 'end' expected (to close 'function' at line 400) near '<eof>'
+[17:07:57] ERROR: Loading script failed: [gamemodes]/a_hotpursuit/codeServer.lua:459: 'end' expected (to close 'function' at line 400) near '<eof>'
+[17:07:57] a_hotpursuit restarted successfully
+[17:08:23] restart: Requested by dzseki(guest)
+[17:08:23] Stopping a_hotpursuit
+[17:08:23] Resource 'a_hotpursuit' changed, reloading and starting
+[17:08:23] Starting a_hotpursuit
+[17:08:23] SCRIPT ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:459: 'end' expected (to close 'function' at line 400) near '<eof>'
+[17:08:23] ERROR: Loading script failed: [gamemodes]/a_hotpursuit/codeServer.lua:459: 'end' expected (to close 'function' at line 400) near '<eof>'
+[17:08:23] a_hotpursuit restarted successfully
+[17:08:24] restart: Requested by dzseki(guest)
+[17:08:24] Stopping a_hotpursuit
+[17:08:24] Starting a_hotpursuit
+[17:08:24] SCRIPT ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:459: 'end' expected (to close 'function' at line 400) near '<eof>'
+[17:08:24] ERROR: Loading script failed: [gamemodes]/a_hotpursuit/codeServer.lua:459: 'end' expected (to close 'function' at line 400) near '<eof>'
+[17:08:24] a_hotpursuit restarted successfully
+[17:08:39] restart: Requested by dzseki(guest)
+[17:08:39] Stopping a_hotpursuit
+[17:08:39] Resource 'a_hotpursuit' changed, reloading and starting
+[17:08:39] Starting a_hotpursuit
+[17:08:39] ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:414: attempt to index local 'v' (a number value)
+[17:08:39] a_hotpursuit restarted successfully
+[17:09:20] restart: Requested by dzseki(guest)
+[17:09:20] Stopping a_hotpursuit
+[17:09:20] Resource 'a_hotpursuit' changed, reloading and starting
+[17:09:20] Starting a_hotpursuit
+[17:09:20] ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:413: attempt to index local 'v' (a number value)
+[17:09:20] a_hotpursuit restarted successfully
+[17:10:36] restart: Requested by dzseki(guest)
+[17:10:36] Stopping a_hotpursuit
+[17:10:36] Resource 'a_hotpursuit' changed, reloading and starting
+[17:10:36] Starting a_hotpursuit
+[17:10:36] ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:414: attempt to index local 'result' (a boolean value)
+[17:10:36] a_hotpursuit restarted successfully
+[17:11:00] restart: Requested by dzseki(guest)
+[17:11:00] Stopping a_hotpursuit
+[17:11:00] Resource 'a_hotpursuit' changed, reloading and starting
+[17:11:00] Starting a_hotpursuit
+[17:11:00] ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:412: attempt to index a boolean value
+[17:11:00] a_hotpursuit restarted successfully
+[17:11:19] restart: Requested by dzseki(guest)
+[17:11:19] Stopping a_hotpursuit
+[17:11:19] Starting a_hotpursuit
+[17:11:19] ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:412: attempt to index a boolean value
+[17:11:19] a_hotpursuit restarted successfully
+[17:12:58] restart: Requested by dzseki(guest)
+[17:12:58] Stopping a_hotpursuit
+[17:12:58] Resource 'a_hotpursuit' changed, reloading and starting
+[17:12:58] Starting a_hotpursuit
+[17:12:58] ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:412: attempt to index local 'v' (a number value)
+[17:12:58] a_hotpursuit restarted successfully
+[17:13:00] restart: Requested by dzseki(guest)
+[17:13:00] Stopping a_hotpursuit
+[17:13:00] Starting a_hotpursuit
+[17:13:00] a_hotpursuit restarted successfully
+[17:13:04] ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:412: attempt to index local 'v' (a number value)
+[17:13:14] restart: Requested by dzseki(guest)
+[17:13:14] Stopping a_hotpursuit
+[17:13:14] Resource 'a_hotpursuit' changed, reloading and starting
+[17:13:14] Starting a_hotpursuit
+[17:13:14] ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:415: attempt to index field '?' (a nil value)
+[17:13:14] a_hotpursuit restarted successfully
+[17:13:31] restart: Requested by dzseki(guest)
+[17:13:31] Stopping a_hotpursuit
+[17:13:31] Resource 'a_hotpursuit' changed, reloading and starting
+[17:13:31] Starting a_hotpursuit
+[17:13:31] ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:414: attempt to index local 'result' (a boolean value)
+[17:13:31] a_hotpursuit restarted successfully
+[17:14:08] restart: Requested by dzseki(guest)
+[17:14:08] Stopping a_hotpursuit
+[17:14:08] Resource 'a_hotpursuit' changed, reloading and starting
+[17:14:08] Starting a_hotpursuit
+[17:14:08] SCRIPT ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:453: 'end' expected (to close 'if' at line 451) near 'outputChatBox'
+[17:14:08] ERROR: Loading script failed: [gamemodes]/a_hotpursuit/codeServer.lua:453: 'end' expected (to close 'if' at line 451) near 'outputChatBox'
+[17:14:08] a_hotpursuit restarted successfully
+[17:14:15] restart: Requested by dzseki(guest)
+[17:14:15] Stopping a_hotpursuit
+[17:14:15] Resource 'a_hotpursuit' changed, reloading and starting
+[17:14:15] Starting a_hotpursuit
+[17:14:15] ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:414: attempt to index field '?' (a nil value)
+[17:14:15] a_hotpursuit restarted successfully
+[17:15:11] restart: Requested by dzseki(guest)
+[17:15:11] Stopping a_hotpursuit
+[17:15:11] Resource 'a_hotpursuit' changed, reloading and starting
+[17:15:11] Starting a_hotpursuit
+[17:15:11] a_hotpursuit restarted successfully
+[17:15:24] restart: Requested by dzseki(guest)
+[17:15:24] Stopping a_hotpursuit
+[17:15:24] Resource 'a_hotpursuit' changed, reloading and starting
+[17:15:24] Starting a_hotpursuit
+[17:15:24] a_hotpursuit restarted successfully
+[17:15:39] restart: Requested by dzseki(guest)
+[17:15:39] Stopping a_hotpursuit
+[17:15:39] Resource 'a_hotpursuit' changed, reloading and starting
+[17:15:39] Starting a_hotpursuit
+[17:15:39] a_hotpursuit restarted successfully
+[17:15:40] restart: Requested by dzseki(guest)
+[17:15:40] Stopping a_hotpursuit
+[17:15:40] Starting a_hotpursuit
+[17:15:40] a_hotpursuit restarted successfully
+[17:15:57] restart: Requested by dzseki(guest)
+[17:15:57] Stopping a_hotpursuit
+[17:15:57] Resource 'a_hotpursuit' changed, reloading and starting
+[17:15:57] Starting a_hotpursuit
+[17:15:57] a_hotpursuit restarted successfully
+[17:16:02] restart: Requested by dzseki(guest)
+[17:16:02] Stopping a_hotpursuit
+[17:16:02] Resource 'a_hotpursuit' changed, reloading and starting
+[17:16:02] Starting a_hotpursuit
+[17:16:02] WARNING: [gamemodes]/a_hotpursuit/codeServer.lua:414: Bad argument @ 'outputChatBox' [Expected string at argument 1, got boolean (true)]
+[17:16:02] a_hotpursuit restarted successfully
+[17:16:03] restart: Requested by dzseki(guest)
+[17:16:03] Stopping a_hotpursuit
+[17:16:03] Starting a_hotpursuit
+[17:16:03] a_hotpursuit restarted successfully
+[17:16:08] WARNING: [gamemodes]/a_hotpursuit/codeServer.lua:414: Bad argument @ 'outputChatBox' [Expected string at argument 1, got boolean (true)]  [DUP x3]
+[17:16:11] restart: Requested by dzseki(guest)
+[17:16:11] Stopping a_hotpursuit
+[17:16:11] Resource 'a_hotpursuit' changed, reloading and starting
+[17:16:11] Starting a_hotpursuit
+[17:16:11] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:16:11] a_hotpursuit restarted successfully
+[17:16:57] restart: Requested by dzseki(guest)
+[17:16:57] Stopping a_hotpursuit
+[17:16:57] Resource 'a_hotpursuit' changed, reloading and starting
+[17:16:57] Starting a_hotpursuit
+[17:16:57] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:16:57] a_hotpursuit restarted successfully
+[17:18:46] restart: Requested by dzseki(guest)
+[17:18:46] Stopping a_hotpursuit
+[17:18:46] Resource 'a_hotpursuit' changed, reloading and starting
+[17:18:46] Starting a_hotpursuit
+[17:18:46] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:18:46] a_hotpursuit restarted successfully
+[17:18:52] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:19:54] restart: Requested by dzseki(guest)
+[17:19:54] Stopping a_hotpursuit
+[17:19:54] Starting a_hotpursuit
+[17:19:54] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:20:13] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:20:15] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:20:21] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)  [DUP x2]
+[17:20:21] QUIT: dzseki left the game [Quit]
+[17:20:39] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[17:20:39] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[17:20:46] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:43: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:20:46] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:27: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:20:46] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:35: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:20:51] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:20:57] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)  [DUP x3]
+[17:22:43] restart: Requested by dzseki(guest)
+[17:22:43] Stopping a_hotpursuit
+[17:22:43] Resource 'a_hotpursuit' changed, reloading and starting
+[17:22:43] Starting a_hotpursuit
+[17:22:43] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:22:43] a_hotpursuit restarted successfully
+[17:22:49] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:22:56] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:23:02] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)  [DUP x3]
+[17:23:03] QUIT: dzseki left the game [Quit]
+[17:23:19] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[17:23:19] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[17:23:32] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:43: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:23:32] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:27: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:23:32] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:35: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:23:37] WARNING: [gamemodes]/a_hotpursuit/codeServer.lua:408: Bad argument @ 'getElementData' [Expected element at argument 1, got nil]
+[17:23:37] ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:286: [gamemodes]/a_hotpursuit/codeServer.lua:410: bad argument #1 to 'ipairs' (table expected, got boolean) [string "?"]
+[17:23:44] SCRIPT: dzseki(guest) set their script debug mode to 1
+[17:23:50] restart: Requested by dzseki(guest)
+[17:23:50] Stopping a_hotpursuit
+[17:23:50] Starting a_hotpursuit
+[17:23:50] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:23:50] a_hotpursuit restarted successfully
+[17:23:56] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)  [DUP x3]
+[17:24:34] restart: Requested by dzseki(guest)
+[17:24:34] Stopping a_hotpursuit
+[17:24:34] Resource 'a_hotpursuit' changed, reloading and starting
+[17:24:34] Starting a_hotpursuit
+[17:24:34] ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:286: [gamemodes]/a_hotpursuit/codeServer.lua:408: bad argument #1 to 'ipairs' (table expected, got nil) [string "?"]
+[17:24:34] a_hotpursuit restarted successfully
+[17:24:41] QUIT: dzseki left the game [Quit]
+[17:24:55] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[17:24:55] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[17:25:03] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:43: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:25:03] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:27: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:25:03] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:35: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:25:09] ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:286: [gamemodes]/a_hotpursuit/codeServer.lua:408: bad argument #1 to 'ipairs' (table expected, got nil) [string "?"]
+[17:25:17] SCRIPT: dzseki(guest) set their script debug mode to 1
+[17:25:21] QUIT: dzseki left the game [Quit]
+[17:25:28] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[17:25:28] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[17:25:42] QUIT: dzseki left the game [Quit]
+restart a_hotpursuit
+[17:25:53] restart: Requested by Console
+[17:25:53] restart: Resource restarting...
+[17:25:53] Stopping a_hotpursuit
+[17:25:53] Resource 'a_hotpursuit' changed, reloading and starting
+[17:25:53] Starting a_hotpursuit
+[17:25:53] a_hotpursuit restarted successfully
+[17:25:56] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[17:25:56] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[17:26:03] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:43: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:26:03] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:27: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:26:03] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:35: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:26:08] ERROR: [gamemodes]/a_hotpursuit/codeServer.lua:286: [gamemodes]/a_hotpursuit/codeServer.lua:408: bad argument #1 to 'ipairs' (table expected, got nil) [string "?"]
+[17:26:41] QUIT: dzseki left the game [Quit]
+restart a_hotpursuit
+[17:26:44] restart: Requested by Console
+[17:26:44] restart: Resource restarting...
+[17:26:44] Stopping a_hotpursuit
+[17:26:44] Resource 'a_hotpursuit' changed, reloading and starting
+[17:26:44] Starting a_hotpursuit
+[17:26:44] a_hotpursuit restarted successfully
+[17:26:47] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[17:26:47] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[17:26:54] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:43: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:26:54] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:27: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:26:54] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:35: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:26:59] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:27:05] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)  [DUP x3]
+[17:29:16] restart: Requested by dzseki(guest)
+[17:29:16] Stopping a_hotpursuit
+[17:29:16] Resource 'a_hotpursuit' changed, reloading and starting
+[17:29:16] Starting a_hotpursuit
+[17:29:16] a_hotpursuit restarted successfully
+[17:29:23] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:29:29] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)  [DUP x3]
+[17:29:31] QUIT: dzseki left the game [Quit]
+[17:29:49] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[17:29:49] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[17:29:59] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:43: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:29:59] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:27: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:29:59] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:35: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:30:04] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:30:10] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)  [DUP x3]
+[17:30:12] SCRIPT: dzseki(guest) set their script debug mode to 1
+[17:31:10] QUIT: dzseki left the game [Quit]
+[17:31:11] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[17:31:11] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[17:31:17] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:43: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:31:17] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:27: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:31:17] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:35: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:32:31] restart: Requested by dzseki(guest)
+[17:32:31] Stopping a_mods-skin
+[17:32:32] Starting a_mods-skin
+[17:32:33] a_mods-skin restarted successfully
+[17:33:19] restart: Requested by dzseki(guest)
+[17:33:19] Stopping a_mods-skin
+[17:33:20] Resource 'a_mods-skin' changed, reloading and starting
+[17:33:21] WARNING: File 'mods/men/46.dff' in resource 'a_mods-skin' contains errors.
+[17:33:21] Starting a_mods-skin
+[17:33:22] a_mods-skin restarted successfully
+[17:35:05] CONNECT: dzsordzs connected (IP: 176.63.30.243  Serial: CD7416B6E424CF8FBB1D20C9ADE8B702  Version: 1.5.9-9.21554.0)
+[17:35:06] JOIN: dzsordzs joined the game (IP: 176.63.30.243)
+[17:35:10] stop: Requested by dzseki(guest)
+[17:35:10] Stopping aNametag
+[17:35:26] stop: Requested by dzseki(guest)
+[17:35:26] Stopping a_inventory
+[17:35:27] stop: Requested by dzseki(guest)
+[17:35:29] start: Requested by dzseki(guest)
+[17:35:29] Starting a_inventory
+[17:35:31] stop: Requested by dzseki(guest)
+[17:35:31] Stopping a_items
+[17:35:44] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:43: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:35:44] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:27: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:35:44] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:35: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:35:49] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:35:55] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:39:55] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:40:01] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)  [DUP x3]
+[17:40:02] QUIT: dzseki left the game [Quit]
+[17:40:19] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[17:40:19] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[17:40:25] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:43: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:40:25] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:27: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:40:25] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:35: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:40:31] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:40:37] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)  [DUP x3]
+[17:41:08] SCRIPT: dzseki(guest) set their script debug mode to 1
+[17:41:15] QUIT: dzseki left the game [Quit]
+[17:41:16] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[17:41:16] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[17:41:22] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:43: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:41:22] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:27: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:41:22] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:35: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:41:58] restart: Requested by dzseki(guest)
+[17:41:58] Stopping a_hotpursuit
+[17:41:58] Resource 'a_hotpursuit' changed, reloading and starting
+[17:41:58] Starting a_hotpursuit
+[17:41:58] a_hotpursuit restarted successfully
+[17:42:04] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:42:10] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)  [DUP x2]
+[17:42:11] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:42:13] QUIT: dzseki left the game [Quit]
+[17:42:30] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[17:42:30] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[17:42:36] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:43: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:42:36] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:27: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:42:36] ERROR: [.WORKSHOP]/a_anticheat/codeServer.lua:35: attempt to perform arithmetic on local 'oVal' (a nil value)
+[17:42:41] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:42:41] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)
+[17:42:47] ERROR: a_logs/codeServer.lua:57: attempt to concatenate local 'nValue' (a table value)  [DUP x2]
+[17:43:15] QUIT: dzseki left the game [Quit]
+[17:44:06] QUIT: dzsordzs left the game [Quit]
+shutdown

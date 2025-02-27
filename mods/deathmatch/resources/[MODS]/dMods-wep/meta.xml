@@ -1,0 +1,36 @@
+<meta>
+    <file src="files/ak.txd" />
+    <file src="files/ak.dff" />
+    <file src="files/sawnoff.txd" />
+    <file src="files/sawnoff.dff" />
+    <file src="files/m4.txd" />
+    <file src="files/m4.dff" />
+    <file src="files/glock.txd" />
+    <file src="files/glock.dff" />
+    <file src="files/desert.txd" />
+    <file src="files/desert.dff" />
+    <file src="files/katana.txd" />
+    <file src="files/katana.dff" />
+    <file src="files/uzi.txd" />
+    <file src="files/uzi.dff" />
+    <file src="files/p90.txd" />
+    <file src="files/p90.dff" />
+    <file src="files/spaz.txd" />
+    <file src="files/spaz.dff" />
+    <file src="files/silenced.txd" />
+    <file src="files/silenced.dff" />
+    <file src="files/sniper.txd" />
+    <file src="files/sniper.dff" />
+    <file src="files/tec9.txd" />
+    <file src="files/tec9.dff" />
+    <file src="files/knife.txd" />
+    <file src="files/knife.dff" />
+    <file src="files/shotgun.txd" />
+    <file src="files/shotgun.dff" />
+    <file src="files/rifle.txd" />
+    <file src="files/rifle.dff" />
+    
+    <script type="client" src="sourceC.lua" cache="false" />
+    
+    <download_priority_group>-15</download_priority_group>
+</meta>

@@ -1,0 +1,9 @@
+<luacosmeta>
+    <script src="codeClient.lua" type="client" cache="false" />
+    <script src="codeServer.lua" type="server" />
+    <file src="files/siren.txd" />
+    <file src="files/siren.dff" />
+    <export function="createSiren" type="client" />
+    
+    <oop>true</oop>
+</luacosmeta>

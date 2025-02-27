@@ -1,0 +1,52 @@
+<meta>
+    <script src="codeClient.lua" type="client" cache="false" />
+    <script src="codeServer.lua" type="server" />    
+
+    <file src="files/fonts/font.otf" /> 
+    <file src="files/fonts/Roboto-Condensed.otf" />
+    <file src="files/fonts/Roboto-BoldCondensed.otf" /> 
+    <file src="files/fonts/Roboto-Thin.ttf" />  
+
+    <file src="files/fx/texture.fx" />
+
+    <file src="files/img/char.png" />       
+    <file src="files/img/loading.png" />  
+    <file src="files/img/feather.dds" />
+	<file src="files/img/featherTop.dds" />
+	<file src="files/img/corner.dds" />
+
+    <file src="files/icons/user.png" />       
+    <file src="files/icons/users.png" />
+    <file src="files/icons/lines.png" />  
+    <file src="files/icons/arrow.png" />  
+
+    <file src="files/icons/chs/1.png" />
+    <file src="files/icons/chs/2.png" />
+    <file src="files/icons/chs/3.png" />
+    <file src="files/icons/chs/4.png" />
+    <file src="files/icons/chs/5.png" />
+    <file src="files/icons/chs/6.png" />
+    <file src="files/icons/chs/7.png" />
+    <file src="files/icons/chs/8.png" />
+    <file src="files/icons/chs/9.png" />
+    <file src="files/icons/chs/10.png" />
+    <file src="files/icons/chs/11.png" />
+
+    <file src="files/icons/chs/allcrosshair/0.png" />
+    <file src="files/icons/chs/allcrosshair/1.png" />
+    <file src="files/icons/chs/allcrosshair/2.png" />
+    <file src="files/icons/chs/allcrosshair/3.png" />
+    <file src="files/icons/chs/allcrosshair/4.png" />
+    <file src="files/icons/chs/allcrosshair/5.png" />
+    <file src="files/icons/chs/allcrosshair/6.png" />
+    <file src="files/icons/chs/allcrosshair/7.png" />
+    <file src="files/icons/chs/allcrosshair/8.png" />
+    <file src="files/icons/chs/allcrosshair/9.png" />
+    <file src="files/icons/chs/allcrosshair/10.png" />                
+    <file src="files/icons/chs/allcrosshair/11.png" /> 
+
+    <export function="getLastGroupID" type="server" />
+    <export function="checkForSameGroupName" type="server" />    
+    <export function="doesGroupExist" type="server" />    
+    <export function="isPlayerInGroup" type="server" />    
+</meta>

@@ -1,0 +1,19 @@
+<meta>
+    <script src="codeClient.lua" type="client" cache="false"/>
+    
+	<file src="files/fonts/Poppins-Light.ttf" />
+	<file src="files/fonts/Poppins-Regular.ttf" />
+	<file src="files/fonts/Poppins-SemiBold.ttf" />
+
+    <file src="files/img/heart.png" />
+    <file src="files/img/armor.png" />
+    <file src="files/img/money.png" />
+    <file src="files/img/premium.png" />
+    <file src="files/img/experience.png" />
+    <file src="files/img/clock.png" />
+    <file src="files/img/blur.png" />
+
+    <file src="files/img/featherTop.dds" />
+    <file src="files/img/feather.dds" />
+    <file src="files/img/corner.dds" />
+</meta>

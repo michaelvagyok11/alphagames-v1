@@ -1,0 +1,17 @@
+<meta>
+    <script src="codeClient.lua" type="client" cache="false" />
+    <script src="codeServer.lua" type="server" />
+
+    <file src="files/fonts/Barlow-Bold.ttf" />
+    <file src="files/fonts/Barlow-Regular.ttf" />
+    <file src="files/fonts/Barlow-Light.ttf" />
+
+    <file src="files/images/shadow.png" />
+    <file src="files/images/username.png" />
+    <file src="files/images/password.png" />
+    <file src="files/images/email.png" />
+    <file src="files/images/playername.png" />
+    <file src="files/images/logo.png" />
+    <file src="files/images/tiktok.png" />
+    <file src="files/images/discord.png" />
+</meta>

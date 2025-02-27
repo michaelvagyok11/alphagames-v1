@@ -1,0 +1,6 @@
+
+<meta>
+    <script src="mapData.lua" type="server"/>
+    <script src="codeServer.lua" type="server"/> 
+    <export function="createMapToDimension" type="server" />
+</meta>

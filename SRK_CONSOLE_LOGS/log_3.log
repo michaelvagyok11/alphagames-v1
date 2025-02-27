@@ -1,0 +1,672 @@
+[SRK] Konzol log létrehozásának pontos ideje: 3/1/2023, 4:55:41 PM
+
+[14:33:26] Starting aInfobox
+[14:33:26] aInfobox restarted successfully
+[14:33:33] restart: Requested by dzseki(guest)
+[14:33:33] Stopping aInfobox
+[14:33:33] Starting aInfobox
+[14:33:33] aInfobox restarted successfully
+[14:33:44] restart: Requested by dzseki(guest)
+[14:33:44] Stopping aInfobox
+[14:33:44] Resource 'aInfobox' changed, reloading and starting
+[14:33:44] Starting aInfobox
+[14:33:44] aInfobox restarted successfully
+[14:33:47] start: Requested by dzseki(guest)
+[14:33:47] Starting aNames
+[14:34:20] restart: Requested by dzseki(guest)
+[14:34:20] Stopping aNames
+[14:34:20] Resource 'aNames' changed, reloading and starting
+[14:34:20] Starting aNames
+[14:34:20] aNames restarted successfully
+[14:35:10] restart: Requested by dzseki(guest)
+[14:35:10] Stopping aInfobox
+[14:35:10] Resource 'aInfobox' changed, reloading and starting
+[14:35:10] Starting aInfobox
+[14:35:10] aInfobox restarted successfully
+[14:35:13] restart: Requested by dzseki(guest)
+[14:35:13] Stopping aNames
+[14:35:13] Starting aNames
+[14:35:13] aNames restarted successfully
+[14:36:10] restart: Requested by dzseki(guest)
+[14:36:10] Stopping aInfobox
+[14:36:10] Resource 'aInfobox' changed, reloading and starting
+[14:36:10] Starting aInfobox
+[14:36:10] aInfobox restarted successfully
+[14:36:12] restart: Requested by dzseki(guest)
+[14:36:12] Stopping aNames
+[14:36:12] Starting aNames
+[14:36:12] aNames restarted successfully
+[14:36:30] restart: Requested by dzseki(guest)
+[14:36:30] Stopping aNames
+[14:36:30] Starting aNames
+[14:36:30] aNames restarted successfully
+[14:36:33] restart: Requested by dzseki(guest)
+[14:36:33] Stopping aInfobox
+[14:36:33] Resource 'aInfobox' changed, reloading and starting
+[14:36:33] Starting aInfobox
+[14:36:33] aInfobox restarted successfully
+[14:36:34] restart: Requested by dzseki(guest)
+[14:36:34] Stopping aNames
+[14:36:34] Starting aNames
+[14:36:34] aNames restarted successfully
+[14:40:28] restart: Requested by dzseki(guest)
+[14:40:28] Stopping aNames
+[14:40:28] Resource 'aNames' changed, reloading and starting
+[14:40:28] Starting aNames
+[14:40:28] aNames restarted successfully
+[14:41:29] restart: Requested by dzseki(guest)
+[14:41:29] Stopping aNames
+[14:41:29] Resource 'aNames' changed, reloading and starting
+[14:41:29] Starting aNames
+[14:41:29] aNames restarted successfully
+[14:42:09] restart: Requested by dzseki(guest)
+[14:42:09] Stopping aNames
+[14:42:09] Resource 'aNames' changed, reloading and starting
+[14:42:09] Starting aNames
+[14:42:09] aNames restarted successfully
+[14:42:30] restart: Requested by dzseki(guest)
+[14:42:30] Stopping aNames
+[14:42:30] Resource 'aNames' changed, reloading and starting
+[14:42:30] Starting aNames
+[14:42:30] aNames restarted successfully
+[14:42:57] restart: Requested by dzseki(guest)
+[14:42:57] Stopping aDx
+[14:42:57] Resource 'aDx' changed, reloading and starting
+[14:42:57] Starting aDx
+[14:42:57] aDx restarted successfully
+[14:43:51] restart: Requested by dzseki(guest)
+[14:43:51] Stopping aDx
+[14:43:51] Starting aDx
+[14:43:51] aDx restarted successfully
+[14:43:53] restart: Requested by dzseki(guest)
+[14:43:53] Stopping aNames
+[14:43:53] Resource 'aNames' changed, reloading and starting
+[14:43:53] Starting aNames
+[14:43:53] aNames restarted successfully
+[14:43:55] QUIT: dzseki left the game [Quit]
+[14:43:56] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[14:43:56] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[14:44:03] restart: Requested by dzseki(guest)
+[14:44:03] Stopping aAccount
+[14:44:03] Starting aAccount
+[14:44:03] aAccount restarted successfully
+[14:44:14] SCRIPT: dzseki(guest) set their script debug mode to 3
+[14:45:23] restart: Requested by dzseki(guest)
+[14:45:23] Stopping aAccount
+[14:45:23] Resource 'aAccount' changed, reloading and starting
+[14:45:23] Starting aAccount
+[14:45:23] aAccount restarted successfully
+[14:45:28] ERROR: aAccount/codeServer.lua:59: attempt to index global 'v' (a nil value)
+[14:46:26] restart: Requested by dzseki(guest)
+[14:46:26] Stopping aAccount
+[14:46:26] Resource 'aAccount' changed, reloading and starting
+[14:46:26] Starting aAccount
+[14:46:26] aAccount restarted successfully
+[14:47:17] restart: Requested by dzseki(guest)
+[14:47:17] Stopping aAccount
+[14:47:17] Resource 'aAccount' changed, reloading and starting
+[14:47:17] Starting aAccount
+[14:47:17] aAccount restarted successfully
+[14:47:18] restart: Requested by dzseki(guest)
+[14:47:18] Stopping aAccount
+[14:47:18] Starting aAccount
+[14:47:18] restart: Requested by dzseki(guest)
+[14:47:18] Stopping aAccount
+[14:47:18] Starting aAccount
+[14:47:18] aAccount restarted successfully
+[14:47:35] restart: Requested by dzseki(guest)
+[14:47:35] Stopping aHud
+[14:47:35] Starting aHud
+[14:47:35] aHud restarted successfully
+[14:47:42] restart: Requested by dzseki(guest)
+[14:47:42] Stopping aHud
+[14:47:42] Resource 'aHud' changed, reloading and starting
+[14:47:42] Starting aHud
+[14:47:42] aHud restarted successfully
+[14:47:59] restart: Requested by dzseki(guest)
+[14:47:59] Stopping aHud
+[14:47:59] Resource 'aHud' changed, reloading and starting
+[14:47:59] Starting aHud
+[14:47:59] aHud restarted successfully
+[14:49:21] New resource 'aScore' loaded
+[14:49:21] Resources: 9 loaded, 0 failed
+[14:49:23] start: Requested by dzseki(guest)
+[14:49:23] Starting aScore
+[14:49:41] restart: Requested by dzseki(guest)
+[14:49:41] Stopping aScore
+[14:49:41] Resource 'aScore' changed, reloading and starting
+[14:49:41] Starting aScore
+[14:49:41] aScore restarted successfully
+[14:50:04] restart: Requested by dzseki(guest)
+[14:50:04] Stopping aScore
+[14:50:04] Resource 'aScore' changed, reloading and starting
+[14:50:04] Starting aScore
+[14:50:04] aScore restarted successfully
+[14:50:54] restart: Requested by dzseki(guest)
+[14:50:54] Stopping aScore
+[14:50:54] Resource 'aScore' changed, reloading and starting
+[14:50:54] Starting aScore
+[14:50:54] aScore restarted successfully
+[14:51:10] ERROR: Resource 'aDx' has been removed while running! Stopping resource.
+[14:51:10] Stopping aDx
+[14:51:10] New resource 'aDx' loaded
+[14:51:10] Resources: 9 loaded, 0 failed
+[14:51:11] start: Requested by dzseki(guest)
+[14:51:11] Starting aDx
+[14:51:19] QUIT: dzseki left the game [Quit]
+[14:51:20] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[14:51:20] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[14:51:25] restart: Requested by dzseki(guest)
+[14:51:25] Stopping aAccount
+[14:51:25] Starting aAccount
+[14:51:25] aAccount restarted successfully
+[14:51:55] restart: Requested by dzseki(guest)
+[14:51:55] Stopping aAccount
+[14:51:55] Starting aAccount
+[14:51:55] aAccount restarted successfully
+[14:52:00] restart: Requested by dzseki(guest)
+[14:52:00] Stopping aNames
+[14:52:00] Resource 'aNames' changed, reloading and starting
+[14:52:00] Starting aNames
+[14:52:00] aNames restarted successfully
+[14:52:03] QUIT: dzseki left the game [Quit]
+[14:52:04] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[14:52:04] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[14:52:33] restart: Requested by dzseki(guest)
+[14:52:33] Stopping aNames
+[14:52:33] Resource 'aNames' changed, reloading and starting
+[14:52:33] Starting aNames
+[14:52:33] aNames restarted successfully
+[14:52:34] QUIT: dzseki left the game [Quit]
+[14:52:34] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[14:52:34] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[14:55:34] QUIT: dzseki left the game [Quit]
+[17:40:10] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[17:40:11] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[17:43:55] New resource 'aLobby' loaded
+[17:43:55] Resources: 10 loaded, 0 failed
+[17:43:57] start: Requested by dzseki(guest)
+[17:43:57] Starting aLobby
+[17:44:31] restart: Requested by dzseki(guest)
+[17:44:31] Stopping aLobby
+[17:44:31] Resource 'aLobby' changed, reloading and starting
+[17:44:31] Starting aLobby
+[17:44:31] aLobby restarted successfully
+[17:44:36] restart: Requested by dzseki(guest)
+[17:44:36] Stopping aLobby
+[17:44:36] Starting aLobby
+[17:44:37] aLobby restarted successfully
+[17:45:02] restart: Requested by dzseki(guest)
+[17:45:02] Stopping aLobby
+[17:45:02] Resource 'aLobby' changed, reloading and starting
+[17:45:02] Starting aLobby
+[17:45:02] aLobby restarted successfully
+[17:49:10] New resource 'aLoader' loaded
+[17:49:10] Resources: 11 loaded, 0 failed
+[17:49:12] start: Requested by dzseki(guest)
+[17:49:12] Starting aLoader
+[17:49:25] start: Requested by dzseki(guest)
+[17:49:27] restart: Requested by dzseki(guest)
+[17:49:27] Stopping aLoader
+[17:49:27] Resource 'aLoader' changed, reloading and starting
+[17:49:27] Starting aLoader
+[17:49:27] aLoader restarted successfully
+[17:51:25] restart: Requested by dzseki(guest)
+[17:51:25] Stopping aLoader
+[17:51:25] Resource 'aLoader' changed, reloading and starting
+[17:51:25] Starting aLoader
+[17:51:25] aLoader restarted successfully
+[17:51:38] restart: Requested by dzseki(guest)
+[17:51:38] Stopping aLoader
+[17:51:38] Resource 'aLoader' changed, reloading and starting
+[17:51:38] Starting aLoader
+[17:51:38] aLoader restarted successfully
+[17:51:54] restart: Requested by dzseki(guest)
+[17:51:54] Stopping aLoader
+[17:51:54] Resource 'aLoader' changed, reloading and starting
+[17:51:54] Starting aLoader
+[17:51:54] aLoader restarted successfully
+[17:52:16] restart: Requested by dzseki(guest)
+[17:52:16] Stopping aLoader
+[17:52:16] Resource 'aLoader' changed, reloading and starting
+[17:52:16] Starting aLoader
+[17:52:16] aLoader restarted successfully
+[17:52:17] restart: Requested by dzseki(guest)
+[17:52:17] Stopping aLoader
+[17:52:17] Resource 'aLoader' changed, reloading and starting
+[17:52:17] Starting aLoader
+[17:52:17] aLoader restarted successfully
+[17:52:29] restart: Requested by dzseki(guest)
+[17:52:29] Stopping aLoader
+[17:52:29] Starting aLoader
+[17:52:29] aLoader restarted successfully
+[18:00:04] restart: Requested by dzseki(guest)
+[18:00:04] Stopping aLoader
+[18:00:04] Resource 'aLoader' changed, reloading and starting
+[18:00:04] Starting aLoader
+[18:00:04] aLoader restarted successfully
+[18:00:35] restart: Requested by dzseki(guest)
+[18:00:35] Stopping aLoader
+[18:00:35] Resource 'aLoader' changed, reloading and starting
+[18:00:35] Starting aLoader
+[18:00:35] aLoader restarted successfully
+[18:00:46] restart: Requested by dzseki(guest)
+[18:00:46] Stopping aLoader
+[18:00:46] Starting aLoader
+[18:00:46] aLoader restarted successfully
+[18:01:04] restart: Requested by dzseki(guest)
+[18:01:04] Stopping aLoader
+[18:01:04] Resource 'aLoader' changed, reloading and starting
+[18:01:04] Starting aLoader
+[18:01:04] aLoader restarted successfully
+[18:01:20] restart: Requested by dzseki(guest)
+[18:01:20] Stopping aLoader
+[18:01:20] Resource 'aLoader' changed, reloading and starting
+[18:01:20] Starting aLoader
+[18:01:20] aLoader restarted successfully
+[18:01:42] restart: Requested by dzseki(guest)
+[18:01:42] Stopping aLoader
+[18:01:42] Resource 'aLoader' changed, reloading and starting
+[18:01:42] Starting aLoader
+[18:01:42] aLoader restarted successfully
+[18:01:48] restart: Requested by dzseki(guest)
+[18:01:48] Stopping aLoader
+[18:01:48] Starting aLoader
+[18:01:48] aLoader restarted successfully
+[18:01:49] restart: Requested by dzseki(guest)
+[18:01:49] Stopping aLoader
+[18:01:49] Resource 'aLoader' changed, reloading and starting
+[18:01:49] Starting aLoader
+[18:01:49] aLoader restarted successfully
+[18:02:01] restart: Requested by dzseki(guest)
+[18:02:01] Stopping aLoader
+[18:02:01] Resource 'aLoader' changed, reloading and starting
+[18:02:01] Starting aLoader
+[18:02:01] aLoader restarted successfully
+[18:02:43] restart: Requested by dzseki(guest)
+[18:02:43] Stopping aLoader
+[18:02:43] Resource 'aLoader' changed, reloading and starting
+[18:02:43] Starting aLoader
+[18:02:43] aLoader restarted successfully
+[18:02:49] restart: Requested by dzseki(guest)
+[18:02:49] Stopping aLoader
+[18:02:49] Resource 'aLoader' changed, reloading and starting
+[18:02:49] Starting aLoader
+[18:02:49] aLoader restarted successfully
+[18:02:50] restart: Requested by dzseki(guest)
+[18:02:50] Stopping aLoader
+[18:02:50] Starting aLoader
+[18:02:50] aLoader restarted successfully
+[18:03:04] restart: Requested by dzseki(guest)
+[18:03:04] Stopping aLoader
+[18:03:04] Resource 'aLoader' changed, reloading and starting
+[18:03:04] Starting aLoader
+[18:03:04] aLoader restarted successfully
+[18:03:23] restart: Requested by dzseki(guest)
+[18:03:23] Stopping aLoader
+[18:03:23] Resource 'aLoader' changed, reloading and starting
+[18:03:23] Starting aLoader
+[18:03:23] aLoader restarted successfully
+[18:03:44] start: Requested by dzseki(guest)
+[18:03:45] start: Requested by dzseki(guest)
+[18:03:46] restart: Requested by dzseki(guest)
+[18:03:46] Stopping aLoader
+[18:03:46] Resource 'aLoader' changed, reloading and starting
+[18:03:46] Starting aLoader
+[18:03:46] aLoader restarted successfully
+[18:04:31] restart: Requested by dzseki(guest)
+[18:04:31] Stopping aLoader
+[18:04:31] Resource 'aLoader' changed, reloading and starting
+[18:04:31] Starting aLoader
+[18:04:31] aLoader restarted successfully
+[18:05:05] restart: Requested by dzseki(guest)
+[18:05:05] Stopping aLoader
+[18:05:05] Resource 'aLoader' changed, reloading and starting
+[18:05:05] Starting aLoader
+[18:05:05] aLoader restarted successfully
+[18:05:19] restart: Requested by dzseki(guest)
+[18:05:19] Stopping aLoader
+[18:05:19] Resource 'aLoader' changed, reloading and starting
+[18:05:19] Starting aLoader
+[18:05:19] aLoader restarted successfully
+[18:52:44] restart: Requested by dzseki(guest)
+[18:52:44] Stopping aLoader
+[18:52:44] Resource 'aLoader' changed, reloading and starting
+[18:52:44] Starting aLoader
+[18:52:44] aLoader restarted successfully
+[18:54:34] restart: Requested by dzseki(guest)
+[18:54:34] Stopping aLoader
+[18:54:34] Resource 'aLoader' changed, reloading and starting
+[18:54:34] Starting aLoader
+[18:54:34] aLoader restarted successfully
+[18:55:29] restart: Requested by dzseki(guest)
+[18:55:29] Stopping aLoader
+[18:55:29] Resource 'aLoader' changed, reloading and starting
+[18:55:29] Starting aLoader
+[18:55:29] aLoader restarted successfully
+[18:55:52] restart: Requested by dzseki(guest)
+[18:55:52] Stopping aLoader
+[18:55:52] Resource 'aLoader' changed, reloading and starting
+[18:55:52] Starting aLoader
+[18:55:52] aLoader restarted successfully
+[18:56:26] restart: Requested by dzseki(guest)
+[18:56:26] Stopping aLoader
+[18:56:26] Resource 'aLoader' changed, reloading and starting
+[18:56:26] Starting aLoader
+[18:56:26] aLoader restarted successfully
+[18:56:41] restart: Requested by dzseki(guest)
+[18:56:41] Stopping aLoader
+[18:56:41] Starting aLoader
+[18:56:41] aLoader restarted successfully
+[18:57:34] restart: Requested by dzseki(guest)
+[18:57:34] Stopping aLoader
+[18:57:34] Resource 'aLoader' changed, reloading and starting
+[18:57:34] Starting aLoader
+[18:57:34] aLoader restarted successfully
+[18:57:47] restart: Requested by dzseki(guest)
+[18:57:47] Stopping aLoader
+[18:57:47] Starting aLoader
+[18:57:47] aLoader restarted successfully
+[18:58:04] restart: Requested by dzseki(guest)
+[18:58:04] Stopping aLoader
+[18:58:04] Resource 'aLoader' changed, reloading and starting
+[18:58:04] Starting aLoader
+[18:58:04] aLoader restarted successfully
+[18:58:14] restart: Requested by dzseki(guest)
+[18:58:14] Stopping aLoader
+[18:58:14] Starting aLoader
+[18:58:14] aLoader restarted successfully
+[18:58:34] restart: Requested by dzseki(guest)
+[18:58:34] Stopping aLoader
+[18:58:34] Resource 'aLoader' changed, reloading and starting
+[18:58:34] Starting aLoader
+[18:58:34] aLoader restarted successfully
+[18:58:40] restart: Requested by dzseki(guest)
+[18:58:40] Stopping aLoader
+[18:58:40] Resource 'aLoader' changed, reloading and starting
+[18:58:40] Starting aLoader
+[18:58:40] aLoader restarted successfully
+[18:59:07] restart: Requested by dzseki(guest)
+[18:59:07] Stopping aLoader
+[18:59:07] Resource 'aLoader' changed, reloading and starting
+[18:59:07] Starting aLoader
+[18:59:07] aLoader restarted successfully
+[19:00:01] restart: Requested by dzseki(guest)
+[19:00:01] Stopping aLoader
+[19:00:01] Resource 'aLoader' changed, reloading and starting
+[19:00:01] Starting aLoader
+[19:00:01] aLoader restarted successfully
+[19:00:03] QUIT: dzseki left the game [Quit]
+[19:00:03] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[19:00:03] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[19:01:09] restart: Requested by dzseki(guest)
+[19:01:09] Stopping aLoader
+[19:01:09] Resource 'aLoader' changed, reloading and starting
+[19:01:09] Starting aLoader
+[19:01:09] aLoader restarted successfully
+[19:01:10] QUIT: dzseki left the game [Quit]
+[19:01:10] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[19:01:11] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[19:01:33] restart: Requested by dzseki(guest)
+[19:01:33] Stopping aLoader
+[19:01:33] Resource 'aLoader' changed, reloading and starting
+[19:01:33] Starting aLoader
+[19:01:33] aLoader restarted successfully
+[19:01:34] QUIT: dzseki left the game [Quit]
+[19:01:35] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[19:01:35] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[19:02:01] restart: Requested by dzseki(guest)
+[19:02:01] Stopping aNames
+[19:02:02] Resource 'aNames' changed, reloading and starting
+[19:02:02] Starting aNames
+[19:02:02] aNames restarted successfully
+[19:02:03] restart: Requested by dzseki(guest)
+[19:02:03] Stopping aLoader
+[19:02:03] Starting aLoader
+[19:02:03] aLoader restarted successfully
+[19:02:04] QUIT: dzseki left the game [Quit]
+[19:02:05] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[19:02:05] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[19:03:44] New resource 'aNick' loaded
+[19:03:44] Resources: 12 loaded, 0 failed
+[19:03:45] start: Requested by dzseki(guest)
+[19:03:45] Starting aNick
+[19:04:05] restart: Requested by dzseki(guest)
+[19:04:05] Stopping aNick
+[19:04:05] Resource 'aNick' changed, reloading and starting
+[19:04:05] Starting aNick
+[19:04:05] aNick restarted successfully
+[19:09:24] QUIT: dzseki left the game [Quit]
+[19:15:05] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[19:15:05] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[19:21:10] New resource 'a_admin' loaded
+[19:21:10] Resources: 13 loaded, 0 failed
+[19:21:11] start: Requested by dzseki(guest)
+[19:21:11] Starting a_admin
+[19:21:11] ERROR: [UI]/a_admin/codeServer.lua:1: exports: Call to non-running server resource (a_mysql) [string "?"]
+[19:21:23] restart: Requested by dzseki(guest)
+[19:21:23] Stopping a_admin
+[19:21:23] Resource 'a_admin' changed, reloading and starting
+[19:21:23] Starting a_admin
+[19:21:23] ERROR: [UI]/a_admin/codeServer.lua:1: exports: Call to non-running server resource (a_mysql) [string "?"]
+[19:21:23] a_admin restarted successfully
+[19:21:25] WARNING: [UI]/a_admin/codeServer.lua:937: Bad argument @ 'dbQuery' [Expected db-connection at argument 1, got nil]
+[19:21:25] WARNING: [UI]/a_admin/codeServer.lua:938: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got boolean]
+[19:21:25] ERROR: [UI]/a_admin/codeServer.lua:939: attempt to get length of local 'result' (a boolean value)
+[19:21:32] SCRIPT: dzseki(guest) set their script debug mode to 3
+[19:21:34] WARNING: [UI]/a_admin/codeServer.lua:937: Bad argument @ 'dbQuery' [Expected db-connection at argument 1, got nil]
+[19:21:34] WARNING: [UI]/a_admin/codeServer.lua:938: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got boolean]
+[19:21:34] ERROR: [UI]/a_admin/codeServer.lua:939: attempt to get length of local 'result' (a boolean value)
+[19:21:46] restart: Requested by dzseki(guest)
+[19:21:46] Stopping a_admin
+[19:21:46] Resource 'a_admin' changed, reloading and starting
+[19:21:46] Starting a_admin
+[19:21:46] ERROR: [UI]/a_admin/codeServer.lua:1: exports: Call to non-running server resource (a_mysql) [string "?"]
+[19:21:46] a_admin restarted successfully
+[19:22:35] restart: Requested by dzseki(guest)
+[19:22:35] Stopping a_admin
+[19:22:35] Starting a_admin
+[19:22:35] ERROR: [UI]/a_admin/codeServer.lua:1: exports: Call to non-running server resource (a_mysql) [string "?"]
+[19:22:35] a_admin restarted successfully
+[19:22:44] restart: Requested by dzseki(guest)
+[19:22:44] Stopping a_admin
+[19:22:44] Resource 'a_admin' changed, reloading and starting
+[19:22:44] Starting a_admin
+[19:22:44] a_admin restarted successfully
+[19:23:37] QUIT: dzseki left the game [Quit]
+[19:58:25] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[19:58:25] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[19:59:06] restart: Requested by dzseki(guest)
+[19:59:06] Stopping aDx
+[19:59:06] Resource 'aDx' changed, reloading and starting
+[19:59:06] Starting aDx
+[19:59:06] aDx restarted successfully
+[19:59:10] restart: Requested by dzseki(guest)
+[19:59:10] Stopping aNames
+[19:59:10] Starting aNames
+[19:59:10] aNames restarted successfully
+[19:59:12] QUIT: dzseki left the game [Quit]
+[19:59:12] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[19:59:12] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[19:59:18] restart: Requested by dzseki(guest)
+[19:59:18] Stopping aAccount
+[19:59:18] Starting aAccount
+[19:59:18] aAccount restarted successfully
+[20:33:17] QUIT: dzseki left the game [Quit]
+[20:33:18] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[20:33:18] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[20:33:49] restart: Requested by dzseki(guest)
+[20:33:49] Stopping aAccount
+[20:33:49] Resource 'aAccount' changed, reloading and starting
+[20:33:49] Starting aAccount
+[20:33:49] aAccount restarted successfully
+[20:33:55] SCRIPT: dzseki(guest) set their script debug mode to 1
+[20:33:59] restart: Requested by dzseki(guest)
+[20:33:59] Stopping aAccount
+[20:33:59] Starting aAccount
+[20:33:59] aAccount restarted successfully
+[20:34:37] restart: Requested by dzseki(guest)
+[20:34:37] Stopping aInfobox
+[20:34:37] Resource 'aInfobox' changed, reloading and starting
+[20:34:37] Starting aInfobox
+[20:34:37] aInfobox restarted successfully
+[20:35:21] restart: Requested by dzseki(guest)
+[20:35:21] Stopping aInfobox
+[20:35:21] Starting aInfobox
+[20:35:21] aInfobox restarted successfully
+[20:35:24] restart: Requested by dzseki(guest)
+[20:35:24] Stopping aAccount
+[20:35:24] Resource 'aAccount' changed, reloading and starting
+[20:35:24] Starting aAccount
+[20:35:24] aAccount restarted successfully
+[20:35:39] restart: Requested by dzseki(guest)
+[20:35:39] Stopping aAccount
+[20:35:39] Resource 'aAccount' changed, reloading and starting
+[20:35:39] Starting aAccount
+[20:35:39] aAccount restarted successfully
+[20:37:37] restart: Requested by dzseki(guest)
+[20:37:37] Stopping aAccount
+[20:37:37] Resource 'aAccount' changed, reloading and starting
+[20:37:37] Starting aAccount
+[20:37:37] aAccount restarted successfully
+[20:38:25] restart: Requested by dzseki(guest)
+[20:38:25] Stopping aAccount
+[20:38:25] Starting aAccount
+[20:38:25] aAccount restarted successfully
+[20:39:12] ERROR: Resource 'aNames' has been removed while running! Stopping resource.
+[20:39:12] Stopping aNames
+[20:39:12] New resource 'aNames' loaded
+[20:39:12] Resources: 13 loaded, 0 failed
+[20:39:17] start: Requested by dzseki(guest)
+[20:39:17] Starting aNames
+[20:39:18] restart: Requested by dzseki(guest)
+[20:39:18] Stopping aAccount
+[20:39:18] Starting aAccount
+[20:39:18] aAccount restarted successfully
+[20:44:39] QUIT: dzseki left the game [Quit]
+[09:04:53] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[09:04:54] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[09:05:23] CHAT: dzseki: asd
+[09:05:53] New resource 'aChat' loaded
+[09:05:53] Resources: 14 loaded, 0 failed
+[09:05:55] start: Requested by dzseki(guest)
+[09:05:55] Starting aChat
+[09:09:21] restart: Requested by dzseki(guest)
+[09:09:21] Stopping aAccount
+[09:09:21] Resource 'aAccount' changed, reloading and starting
+[09:09:21] Starting aAccount
+[09:09:21] aAccount restarted successfully
+[09:09:22] QUIT: dzseki left the game [Quit]
+[09:09:23] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[09:09:23] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[09:10:12] restart: Requested by dzseki(guest)
+[09:10:12] Stopping aChat
+[09:10:12] Resource 'aChat' changed, reloading and starting
+[09:10:12] Starting aChat
+[09:10:12] aChat restarted successfully
+[09:10:19] ERROR: [UI]/a_admin/codeServer.lua:688: exports: Call to non-running server resource (a_core) [string "?"]
+[09:10:20] ERROR: aChat/codeServer.lua:46: attempt to compare number with boolean
+[09:10:44] SCRIPT: dzseki(guest) set their script debug mode to 1
+[09:10:46] ERROR: [UI]/a_admin/codeServer.lua:688: exports: Call to non-running server resource (a_core) [string "?"]
+[09:11:26] restart: Requested by dzseki(guest)
+[09:11:26] Stopping a_admin
+[09:11:26] Starting a_admin
+[09:11:26] a_admin restarted successfully
+[09:12:08] restart: Requested by dzseki(guest)
+[09:12:08] Stopping a_admin
+[09:12:08] Starting a_admin
+[09:12:08] a_admin restarted successfully
+[09:12:10] ERROR: Resource 'a_admin' has been removed while running! Stopping resource.
+[09:12:10] Stopping a_admin
+[09:12:10] New resource 'a_admin' loaded
+[09:12:10] Resources: 14 loaded, 0 failed
+[09:12:13] start: Requested by dzseki(guest)
+[09:12:13] Starting a_admin
+[09:12:17] ERROR: a_admin/codeShared.lua:14: exports: Call to non-running server resource (a_logs) [string "?"]
+[09:13:08] restart: Requested by dzseki(guest)
+[09:13:08] Stopping aChat
+[09:13:08] Resource 'aChat' changed, reloading and starting
+[09:13:08] Starting aChat
+[09:13:08] aChat restarted successfully
+[09:13:49] restart: Requested by dzseki(guest)
+[09:13:49] Stopping aChat
+[09:13:49] Resource 'aChat' changed, reloading and starting
+[09:13:49] Starting aChat
+[09:13:49] aChat restarted successfully
+[09:17:13] ERROR: a_admin/codeServer.lua:731: attempt to concatenate a boolean value
+[09:18:13] ERROR: a_admin/codeServer.lua:731: attempt to concatenate a boolean value
+[09:19:07] restart: Requested by dzseki(guest)
+[09:19:07] Stopping aAccount
+[09:19:07] Resource 'aAccount' changed, reloading and starting
+[09:19:07] Starting aAccount
+[09:19:07] aAccount restarted successfully
+[09:19:08] QUIT: dzseki left the game [Quit]
+[09:19:09] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[09:19:09] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[09:19:26] ERROR: aChat/codeServer.lua:46: attempt to compare number with boolean
+[09:19:27] SCRIPT: dzseki(guest) set their script debug mode to 1
+[09:19:32] ERROR: aChat/codeServer.lua:46: attempt to compare number with boolean
+[09:19:44] restart: Requested by dzseki(guest)
+[09:19:44] Stopping aChat
+[09:19:44] Resource 'aChat' changed, reloading and starting
+[09:19:44] Starting aChat
+[09:19:44] aChat restarted successfully
+[09:19:45] ERROR: aChat/codeServer.lua:59: exports: Call to non-running server resource (a_logs) [string "?"]
+[09:19:53] ERROR: a_admin/codeShared.lua:14: exports: Call to non-running server resource (a_logs) [string "?"]
+[09:20:35] ERROR: aChat/codeServer.lua:59: exports: Call to non-running server resource (a_logs) [string "?"]
+[09:20:57] restart: Requested by dzseki(guest)
+[09:20:57] Stopping aChat
+[09:20:57] Resource 'aChat' changed, reloading and starting
+[09:20:57] Starting aChat
+[09:20:57] aChat restarted successfully
+[09:20:58] ERROR: aChat/codeServer.lua:59: exports: Call to non-running server resource (a_logs) [string "?"]
+[09:21:07] restart: Requested by dzseki(guest)
+[09:21:07] Stopping aChat
+[09:21:07] Resource 'aChat' changed, reloading and starting
+[09:21:07] Starting aChat
+[09:21:07] aChat restarted successfully
+[09:21:08] ERROR: aChat/codeServer.lua:59: exports: Call to non-running server resource (a_logs) [string "?"]
+[09:21:17] restart: Requested by dzseki(guest)
+[09:21:17] Stopping aChat
+[09:21:17] Resource 'aChat' changed, reloading and starting
+[09:21:17] Starting aChat
+[09:21:17] aChat restarted successfully
+[09:21:17] ERROR: aChat/codeServer.lua:59: exports: Call to non-running server resource (a_logs) [string "?"]
+[09:21:20] ERROR: aChat/codeServer.lua:95: exports: Call to non-running server resource (a_lobby) [string "?"]
+[09:21:20] ERROR: aChat/codeServer.lua:95: attempt to concatenate a nil value
+[09:24:36] ERROR: aChat/codeServer.lua:59: exports: Call to non-running server resource (a_logs) [string "?"]
+[09:24:54] restart: Requested by dzseki(guest)
+[09:24:54] Stopping aChat
+[09:24:54] Resource 'aChat' changed, reloading and starting
+[09:24:54] Starting aChat
+[09:24:54] aChat restarted successfully
+[09:24:55] ERROR: aChat/codeServer.lua:59: exports: Call to non-running server resource (a_logs) [string "?"]
+[09:25:08] ERROR: aChat/codeServer.lua:59: exports: Call to non-running server resource (a_logs) [string "?"]
+[09:25:10] ERROR: aChat/codeServer.lua:59: exports: Call to non-running server resource (a_logs) [string "?"]
+[09:25:16] ERROR: aChat/codeServer.lua:59: exports: Call to non-running server resource (a_logs) [string "?"]  [DUP x2]
+[09:25:22] ERROR: aChat/codeServer.lua:95: exports: Call to non-running server resource (a_lobby) [string "?"]
+[09:25:22] ERROR: aChat/codeServer.lua:95: attempt to concatenate a nil value
+[09:25:35] restart: Requested by dzseki(guest)
+[09:25:35] Stopping aChat
+[09:25:35] Resource 'aChat' changed, reloading and starting
+[09:25:35] Starting aChat
+[09:25:35] aChat restarted successfully
+[09:25:36] ERROR: aChat/codeServer.lua:98: exports: Call to non-running server resource (a_logs) [string "?"]
+[09:26:07] restart: Requested by dzseki(guest)
+[09:26:07] Stopping aChat
+[09:26:07] Resource 'aChat' changed, reloading and starting
+[09:26:07] Starting aChat
+[09:26:07] aChat restarted successfully
+[09:26:14] ERROR: aChat/codeServer.lua:98: exports: Call to non-running server resource (a_logs) [string "?"]
+[09:26:20] restart: Requested by dzseki(guest)
+[09:26:20] Stopping aChat
+[09:26:20] Resource 'aChat' changed, reloading and starting
+[09:26:20] Starting aChat
+[09:26:20] aChat restarted successfully
+[09:26:21] ERROR: aChat/codeServer.lua:98: exports: Call to non-running server resource (a_logs) [string "?"]
+[09:26:32] ERROR: aChat/codeServer.lua:59: exports: Call to non-running server resource (a_logs) [string "?"]
+[09:29:16] ERROR: aChat/codeServer.lua:59: exports: Call to non-running server resource (a_logs) [string "?"]
+[09:30:47] QUIT: dzseki left the game [Quit]
+[18:18:47] CONNECT: dzseki connected (IP: 46.107.123.244  Serial: 53987DDB582C0AC8B9CCD506656ACD13  Version: 1.5.9-9.21554.0)
+[18:18:48] JOIN: dzseki joined the game (IP: 46.107.123.244)
+[18:19:14] QUIT: dzseki left the game [Quit]

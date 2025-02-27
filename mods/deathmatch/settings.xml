@@ -1,0 +1,4 @@
+<settings>
+    <setting name="smoke.presetID" value="[4]"></setting>
+    <setting name="*editor_main.mapResourceOrganizationalDirectory" value='[&quot;none&quot;]'></setting>
+</settings>

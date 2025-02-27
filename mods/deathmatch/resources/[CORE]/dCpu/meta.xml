@@ -1,0 +1,6 @@
+<meta>
+    <script src="codeServer.lua" type="server" />
+    <script src="codeClient.lua" type="client" cache="false" />
+    
+    <file src="Roboto-Condensed.otf" />
+</meta>

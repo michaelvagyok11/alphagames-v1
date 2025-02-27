@@ -1,0 +1,44 @@
+[SRK] Konzol log létrehozásának pontos ideje: 2/26/2023, 10:45:24 AM
+
+
+
+
+Not updating game server as auto update was set to 0. Starting Server
+First launch will throw some errors. Ignore them
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+:/home/container$ ./mta-server64 -n -t -u --port ${SERVER_PORT} --httpport ${SERVER_PORT} --maxplayers ${MAX_PLAYERS}
+MTA:BLUE Server for MTA:SA
+
+Please wait...
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9 [64 bit]
+==================================================================
+= Server name      : [DEV] alphaGames - developer server | dc.alphatdma.com
+= Server IP address: auto
+= Server port      : 22420
+= 
+= Log file         : ..e/container/mods/deathmatch/logs/server.log
+= Maximum players  : 10
+= HTTP port        : 22420
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[10:44:58] Compacting accounts database 'internal.db' ...
+[10:44:58] Resources: 4 loaded, 0 failed
+[10:44:58] Compacting database 'registry.db' ...
+[10:44:58] Server password set to 'ciganypina'
+[10:44:58] MODULE: Loaded "MySQL 5.0 database module" (0.50) by "Alberto Alonso <rydencillo@gmail.com>"
+[10:44:58] Starting resources...
+[10:44:59] [CORE]/aMysql/codeServer.lua:13: MySQL connection was successful.
+[10:44:59] MySQL connection successful.
+[10:44:59] WARNING: [CORE]/aStarter/codeServer.lua:8: Access denied @ 'startResource'
+[10:44:59] [CORE]/aStarter/codeServer.lua:9: aAccount STARTED. (0 ms)
+[10:44:59] WARNING: [CORE]/aStarter/codeServer.lua:8: Access denied @ 'startResource'
+[10:44:59] [CORE]/aStarter/codeServer.lua:9: aCore STARTED. (0 ms)
+[10:44:59] Querying MTA master server... success! (Auto detected IP:217.144.54.195)
+[10:44:59] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[10:44:59] Server started and is ready to accept connections!
+[10:44:59] To stop the server, type 'shutdown' or press Ctrl-C
+[10:44:59] Type 'help' for a list of commands.
+shutdown

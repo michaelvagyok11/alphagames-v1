@@ -1,0 +1,18 @@
+<meta>
+    
+    <script src="codeClient.lua" type="client" cache="false" />
+
+    <file src="files/header.png" />
+    <file src="files/header2.png" />
+    <file src="files/v2logo.png" />
+	
+    <file src="files/images/feather.dds" />
+	<file src="files/images/featherTop.dds" />
+	<file src="files/images/corner.dds" />
+
+    <file src="files/fonts/Roboto-Condensed.ttf" />
+    <file src="files/fonts/Roboto-BoldCondensed.ttf" />
+    <file src="files/fonts/Roboto-Thin.ttf" />
+
+    <file src="files/open.wav" />
+</meta>

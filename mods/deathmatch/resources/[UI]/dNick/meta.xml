@@ -1,0 +1,14 @@
+<meta>
+    <script src="codeClient.lua" type="client" cache="false"/>
+    <script src="codeServer.lua" type="server" />
+
+    <file src="files/icons/afk.png" />
+    <file src="files/icons/typing.png" />
+    <file src="files/icons/logo.png" />
+    <file src="files/icons/logo2.png" />
+    <file src="files/icons/target.png" />
+
+    <file src="files/icons/feather.dds" />
+	<file src="files/icons/featherTop.dds" />
+	<file src="files/icons/corner.dds" />
+</meta>

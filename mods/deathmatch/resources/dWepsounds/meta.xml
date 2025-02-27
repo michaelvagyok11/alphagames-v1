@@ -1,0 +1,17 @@
+<meta>
+<script src="codeClient.lua" type="client" cache="false"/>
+<script src="codeConfig.lua" type="client" cache="false"/>
+<file src="files/m4.wav" />
+<file src="files/colt.wav" />
+<file src="files/desi.wav" />
+<file src="files/taser.wav" />
+<file src="files/MP5.wav" />
+<file src="files/kar.wav" />
+<file src="files/sniper.wav" />
+<file src="files/tec.wav" />
+<file src="files/shotgun.wav" />
+<file src="files/br.wav" />
+<file src="files/ak.wav" />
+<file src="files/uzi.wav" />
+<file src="files/barrel.wav" />
+</meta>

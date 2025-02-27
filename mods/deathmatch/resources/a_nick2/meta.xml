@@ -1,0 +1,10 @@
+<meta>
+    <script src="codeClient.lua" type="client" cache="false"/>
+    <script src="codeServer.lua" type="server" />
+	<file src="files/fonts/Roboto.otf" />
+	<file src="files/fonts/FontAwesome.ttf" />
+    <file src="files/icons/afk.png" />
+    <file src="files/icons/typing.png" />
+    <file src="files/icons/logo.png" />
+    <file src="files/icons/logo2.png" />
+</meta>

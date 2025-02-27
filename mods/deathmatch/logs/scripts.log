@@ -1,0 +1,1381 @@
+[23-06-27 13:50:06] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: getElementData(me, "a.PlayerName")
+[23-06-27 13:50:41] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementData(me, "a.PlayerName", !michael.)
+[23-06-27 13:50:54] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementData(me, "a.PlayerName", "!michael.")
+[23-06-27 13:51:13] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementData(me, "a.PlayerName", michael)
+[23-06-27 13:51:21] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: setElementData(me, "a.PlayerName", michael)
+[23-06-27 17:53:21] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: getElementData(me, "a.PlayerName")
+[23-06-27 17:56:10] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementData(me, "a.PlayerName", -)
+[23-06-27 17:56:18] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementData(me, "a.PlayerName", "-")
+[23-06-27 17:57:07] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementData(me, "a.PlayerName", "!michael.")
+[23-06-27 18:41:16] a_core/runcode/codeServer.lua:69: [SRUN] lowerbody executed: 
+[23-06-27 18:41:22] a_core/runcode/codeServer.lua:69: [SRUN] lowerbody executed:   [DUP x2]
+[23-06-27 18:59:47] a_core/runcode/codeServer.lua:149: [CRUN] enemy1337 executed: 
+[23-06-27 18:59:52] a_core/runcode/codeServer.lua:149: [CRUN] enemy1337 executed: getElementPosition(me)
+[23-06-27 19:07:29] a_core/runcode/codeServer.lua:69: [SRUN] enemy1337 executed: 
+[23-06-27 19:08:55] a_core/runcode/codeServer.lua:149: [CRUN] enemy1337 executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-06-27 19:14:50] a_core/runcode/codeServer.lua:149: [CRUN] enemy1337 executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-06-27 19:22:31] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "xp")
+[23-06-27 19:22:32] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: 
+[23-06-27 19:30:22] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: 
+[23-06-27 19:30:29] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.Xp")
+[23-06-27 19:30:30] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.xp")
+[23-06-27 19:30:32] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "axp")
+[23-06-27 19:30:34] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "xp")
+[23-06-27 19:30:37] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "Experience")
+[23-06-27 19:30:49] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.Exp")
+[23-06-27 19:30:51] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.Xp")
+[23-06-27 19:31:06] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.Experience")
+[23-06-27 19:31:22] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(me, "a.Experience", 144680)
+[23-06-27 19:31:32] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(me, "a.Experience", 1337680)
+[23-06-28 13:24:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: 
+[23-06-28 13:26:26] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: 
+[23-06-28 13:26:28] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: 
+[23-06-28 13:26:28] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: 
+[23-06-28 14:12:40] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: 
+[23-06-28 14:12:41] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: 
+[23-06-28 14:13:02] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "adminLevel", 4)
+[23-06-28 14:27:35] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.Experience", 13378)
+[23-06-28 14:27:47] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.Experience", 48178)
+[23-06-28 14:35:22] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementPosition(me, -290, 1321, 54)
+[23-06-28 14:35:28] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementPosition(me, -290, 1321, 54)
+[23-06-28 16:18:13] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.Experience", 291039)
+[23-06-28 16:23:02] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me.vehicle, "a.Nitro", 100)
+[23-06-28 16:23:11] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(vehicle.me, "a.Nitro", 100)
+[23-06-28 16:23:32] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 100)
+[23-06-28 16:23:37] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 200)
+[23-06-28 16:25:45] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 200)
+[23-06-28 16:30:38] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 200)
+[23-06-28 17:15:14] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 200)
+[23-06-28 23:50:38] a_core/runcode/codeServer.lua:69: [SRUN] lowerbody executed: warpPedIntoVehicle(me, getPedOccupiedVehicle(getPlayerFromName("Cula")))
+[23-06-28 23:50:40] a_core/runcode/codeServer.lua:69: [SRUN] lowerbody executed: warpPedIntoVehicle(me, getPedOccupiedVehicle(getPlayerFromName("Cula")))
+[23-06-28 23:50:40] a_core/runcode/codeServer.lua:69: [SRUN] lowerbody executed: 
+[23-06-28 23:50:41] a_core/runcode/codeServer.lua:149: [CRUN] lowerbody executed: 
+[23-06-28 23:50:47] a_core/runcode/codeServer.lua:69: [SRUN] lowerbody executed: 
+[23-06-28 23:51:33] a_core/runcode/codeServer.lua:69: [SRUN] lowerbody executed: 
+[23-06-28 23:51:50] a_core/runcode/codeServer.lua:69: [SRUN] lowerbody executed: warpPedIntoVehicle(me, getPedOccupiedVehicle(getPlayerFromName("Cula")))
+[23-06-29 00:02:04] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: 
+[23-06-29 00:02:15] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: toggleControl(me, "fire", true)
+[23-06-29 00:05:21] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: destroyElement(me.vehicle)
+[23-06-29 00:05:34] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: destroyElement(me.vehicle)
+[23-06-29 00:05:53] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: destroyElement(getPedOccupiedVehicle(me))
+[23-06-29 00:08:26] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: setWeaponProperty(31, 999, "damage", 30000)
+[23-06-29 00:08:31] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: setWeaponProperty(31, 999, "damage", 1000)
+[23-06-29 00:09:58] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: setWeaponProperty(31, 999, "weapon_range", 1000)
+[23-06-29 00:12:41] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: setWeaponProperty(31, 999, "damage", 1)
+[23-06-29 00:12:47] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: setWeaponProperty(31, 999, "damage", 1)
+[23-06-29 00:12:54] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: setWeaponProperty(31, 999, "damage", 200)
+[23-06-29 00:18:02] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: setElementPosition(getPedOccupiedVehicle(me), getElementPosition(me) + 5)
+[23-06-29 00:18:20] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: local x,y,z = getElementPosition(me) setElementPosition(getPedOccupiedVehicle(me), x, y + 2, z)
+[23-06-29 00:18:26] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: local x,y,z = getElementPosition(me) setElementPosition(getPedOccupiedVehicle(me), x, y + 2, z)
+[23-06-29 00:18:26] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: local x,y,z = getElementPosition(me) setElementPosition(getPedOccupiedVehicle(me), x, y - 10, z)
+[23-06-29 00:18:29] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: local x,y,z = getElementPosition(me) setElementPosition(getPedOccupiedVehicle(me), x, y - 5, z)
+[23-06-29 00:24:02] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: local x,y,z = getElementPosition(me) outputChatbox(x,y,z)
+[23-06-29 00:24:24] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: local x,y,z = getElementPosition(me) outputChatbox(x..","..y..","...z)
+[23-06-29 00:24:28] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: local x,y,z = getElementPosition(me) outputChatbox(x..","..y..","..z)
+[23-06-29 00:24:39] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: local x,y,z = getElementPosition(me) outputChatBox(x..","..y..","..z)
+[23-06-29 00:24:51] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: local x,y,z = getElementPosition(me) outputChatBox(x..","..y..","..z)
+[23-06-29 00:28:38] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: toggleControl(me, "fire", true)
+[23-06-29 14:38:41] a_core/runcode/codeServer.lua:69: [SRUN] upperbody executed: destroyElement(getPedOccupiedVehicle(me))
+[23-06-29 14:39:22] a_core/runcode/codeServer.lua:69: [SRUN] upperbody executed: destroyElement(getPedOccupiedVehicle(me))
+[23-06-29 14:49:32] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: setElementData(me, "a.Admin", 10)
+[23-06-29 14:49:34] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: setElementData(me, "a.Admin", 4)
+[23-06-29 14:49:51] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: setElementData(me, "adminLevel", 4)
+[23-06-29 15:13:39] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: getElementData(getPlayerFromName("zsamozsasi", "a.Premium")
+[23-06-29 15:13:46] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: getElementData(getPlayerFromName("zsamozsasi"), "a.Premium")
+[23-06-29 15:13:50] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: getElementData(getPlayerFromName("zsamozsasi"), "a.premium")
+[23-06-29 15:13:52] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: getElementData(getPlayerFromName("zsamozsasi"), "a.Pp")
+[23-06-29 15:13:53] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: getElementData(getPlayerFromName("zsamozsasi"), "a.pp")
+[23-06-29 15:13:57] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: getElementData(getPlayerFromName("zsamozsasi"), "premiumPoints")
+[23-06-29 15:14:00] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: getElementData(getPlayerFromName("zsamozsasi"), "a.Money")
+[23-06-29 15:14:06] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: getElementData(getPlayerFromName("zsamozsasi"), "a.Pp")
+[23-06-29 15:14:09] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: getElementData(getPlayerFromName("zsamozsasi"), "a.Premiumpoints")
+[23-06-29 15:14:12] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: getElementData(getPlayerFromName("zsamozsasi"), "a.PremiumPoints")
+[23-06-29 15:15:45] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: getElementData(getPlayerFromName("zsamozsasi"), "a.Premiumpont")
+[23-06-29 15:33:24] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: setElementData(me, "adminLevel", 5)
+[23-06-29 15:59:45] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: Inventory:Open(true)
+[23-06-29 15:59:50] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: exports.a_inventory:Inventory:Open(true)
+[23-06-29 16:12:28] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: setElementData(me.vehicle, "a.Nitro", 999)
+[23-06-29 16:12:31] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: setElementData(vehicle.me, "a.Nitro", 999)
+[23-06-29 16:12:39] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 999)
+[23-06-29 16:16:55] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 999)
+[23-06-29 16:21:55] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 999)
+[23-06-29 16:22:04] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 999)
+[23-06-29 16:24:32] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-06-29 16:25:59] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-06-29 16:27:02] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 999)
+[23-06-29 16:32:16] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 999)
+[23-06-29 16:35:16] a_core/runcode/codeServer.lua:69: [SRUN] upperbody executed: toggleControl(me, "fire", true)
+[23-06-29 16:35:22] a_core/runcode/codeServer.lua:69: [SRUN] upperbody executed: toggleControl(me, "fire", true)  [DUP x2]
+[23-06-29 16:35:24] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: 
+[23-06-29 16:35:25] a_core/runcode/codeServer.lua:69: [SRUN] upperbody executed: 
+[23-06-29 16:35:31] a_core/runcode/codeServer.lua:69: [SRUN] upperbody executed: 
+[23-06-29 16:35:31] a_core/runcode/codeServer.lua:69: [SRUN] upperbody executed: 
+[23-06-29 16:35:35] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: toggleControl(me, "fire", true)
+[23-06-29 16:35:37] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: toggleControl(me, "fire", false)
+[23-06-29 16:35:43] a_core/runcode/codeServer.lua:149: [CRUN] upperbody executed: toggleControl(me, "fire", true)
+[23-06-29 20:44:27] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: setElementData(me, "a.Gamemode", 1)
+[23-06-29 20:44:37] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: setElementData(me, "a.Gamemode", 4)
+[23-06-29 20:44:59] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: setElementData(me, "a.Gamemode", 0)
+[23-06-29 20:45:14] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: setElementData(me, "a.Gamemode", 1)
+[23-06-29 20:45:17] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: setElementData(me, "a.Gamemode", 2)
+[23-06-29 20:46:13] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: triggerServerEvent("useDetector", me)
+[23-06-29 20:46:19] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: triggerServerEvent("useDetector", me)
+[23-06-29 20:48:17] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.lastDrift", 3237841)
+[23-06-29 20:48:49] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.bestDrift", 3237841)
+[23-06-29 21:12:11] [!NEW]/aDeathmatch/codeServer.lua:3: Elindult egy új DM kör. (Fallen Tree)
+[23-06-29 21:13:20] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: showChat(true)
+[23-06-29 21:13:22] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: showChat(true)
+[23-06-29 21:13:22] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: showChat(false)
+[23-06-29 21:13:51] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: showChat(root, true)
+[23-06-29 21:13:56] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: showChat(root, false)
+[23-06-29 21:13:59] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: showChat(root, true)
+[23-06-29 21:14:05] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: showChat(root, true)  [DUP x3]
+[23-06-29 21:23:25] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementDimension(me, 0)
+[23-06-29 21:23:30] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setPedDimension(me, 0)
+[23-06-29 21:23:33] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementDimension(me, 0)
+[23-06-29 21:23:33] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementDimension(me, 1)
+[23-06-29 21:23:33] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementDimension(me, 0)
+[23-06-29 21:23:38] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementInterior(me, 0)
+[23-06-29 21:27:05] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementPosition(me, 1877.861328125, -1367.0380859375, 14.640625)
+[23-06-29 21:27:22] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementPosition(me, -1346.9033203125, 492.8896484375, 11.202690124512)
+[23-06-29 21:38:49] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "adminLevel", 4)
+[23-06-29 21:56:47] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementPosition(me, -1346.9033203125, 492.8896484375, 11.202690124512)
+[23-06-29 21:57:41] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementPosition(me, 1774, 1302, 120)
+[23-06-29 21:57:56] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementPosition(me, 2103, -103, 2)
+[23-06-29 21:58:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.Gamemode", 4)
+[23-06-29 21:58:14] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.Gamemode", 0)
+[23-06-29 21:58:15] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.Gamemode", 1)
+[23-06-29 21:58:21] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.Gamemode", 4)
+[23-06-29 21:58:36] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementPosition(me, 1774, -1302, 120)
+[23-06-29 22:12:10] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 9999)
+[23-06-29 22:14:54] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 9999)
+[23-06-29 22:19:00] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: destroyElement(getPedOccupiedVehicle(me))
+[23-06-29 22:19:06] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: destroyElement(getPedOccupiedVehicle(me))
+[23-06-29 22:19:07] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: destroyElement(getPedOccupiedVehicle(me))
+[23-06-29 22:19:13] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: destroyElement(getPedOccupiedVehicle(me))
+[23-06-29 23:24:45] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: for k, v in pairs(getElementsByType("player")) do toggleControl(v, "fire", true) end
+[23-06-29 23:27:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElemetData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-06-29 23:27:24] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-06-29 23:29:38] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-06-29 23:34:47] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-06-29 23:36:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-06-29 23:36:43] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-06-29 23:37:03] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-06-29 23:37:19] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-06-29 23:39:02] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: getPlayerSerial(getPlayerFromName("asimov"))
+[23-06-29 23:39:12] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: getPlayerSerial(getPlayerFromName("asimov"))
+[23-06-29 23:40:05] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-06-29 23:41:15] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: for k, v in pairs(getElementsByType("vehicle")) do setElementData(v, "vehicle.backfire", 1) end
+[23-06-29 23:44:59] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-06-29 23:51:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-06-29 23:53:34] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-06-29 23:54:00] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-06-29 23:54:08] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-06-29 23:54:42] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-06-29 23:55:44] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-06-29 23:56:39] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-06-29 23:57:05] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-06-29 23:57:10] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-06-29 23:57:36] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-06-29 23:57:45] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-06-29 23:57:56] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-06-29 23:58:05] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-06-29 23:58:41] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-06-29 23:59:33] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-06-30 00:00:52] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-06-30 00:03:16] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setPedHeadless(me, true)
+[23-06-30 00:03:27] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setPedHeadless(me, true)
+[23-06-30 00:03:57] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setPedHeadless(getPlayerFromName("C.*"), true)
+[23-06-30 00:04:03] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setPedHeadless(getPlayerFromName("C.*"), false)
+[23-06-30 00:04:12] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setPedHeadless(me, false)
+[23-06-30 00:05:01] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-06-30 00:09:32] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-06-30 00:13:47] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: outputConsole(getPlayerSerial(getPlayerFromName("asimov")), me)
+[23-06-30 00:14:52] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-06-30 00:15:51] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: outputConsole(getPlayerSerial(getPlayerFromName("C.*")), me)
+[23-06-30 00:17:21] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: outputChatBox("enemy megtakaritasa 3 nap alatt:" .. 3*15000)
+[23-06-30 00:18:09] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: outputChatBox("enemy megtakaritasa 3 nap alatt:" .. 91*15000)
+[23-06-30 00:18:42] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-06-30 00:19:52] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 11:58:54] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 12:02:34] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 12:05:59] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 12:16:23] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 12:45:26] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.Warns")
+[23-07-01 12:50:26] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Cory"), "a.Warns")
+[23-07-01 13:26:31] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(me, "adminLevel", 4)
+[23-07-01 13:26:53] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 13:36:18] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do local warns = getElementData(v, "a.Warns") outputChatBox(warns) end
+[23-07-01 13:36:46] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do local warns = getElementData(v, "a.Warns") outputChatBox(warns) end
+[23-07-01 14:02:24] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do executeCommandHandler("lobby", v) end
+[23-07-01 14:36:45] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 14:37:47] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 14:40:53] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 14:41:32] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-07-01 14:41:36] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-07-01 14:43:10] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 14:46:19] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 14:48:13] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 14:49:31] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 14:51:14] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 14:53:18] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 14:54:07] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 14:54:40] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 14:56:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 14:58:19] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 14:59:23] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:00:43] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:02:56] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:03:18] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:04:20] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:05:57] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:06:55] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:07:33] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:08:59] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:09:54] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:10:10] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:11:42] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:13:10] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:13:43] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:15:58] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:17:35] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:18:50] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:19:26] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:20:07] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:21:07] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 15:21:54] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 18:09:37] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: getPlayerSerial(getPlayerFromName("TorpidWetbar33"))
+[23-07-01 18:09:44] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: getPlayerSerial(getPlayerFromName("TorpidWetbar33"))
+[23-07-01 18:09:46] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: getPlayerSerial(getPlayerFromName("TorpidWetbar33"))
+[23-07-01 18:09:58] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: serial = getPlayerSerial(getPlayerFromName("TorpidWetbar33")) outputChatBox(serial)
+[23-07-01 18:10:30] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 18:14:15] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 18:17:10] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "adminLevel", 4)
+[23-07-01 18:17:37] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "adminLevel", 3)
+[23-07-01 18:28:02] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.lastDrift", 2300)
+[23-07-01 18:28:08] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.lastDrift", 2300)
+[23-07-01 18:28:08] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.lastDrift", 2300)
+[23-07-01 18:28:14] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.lastDrift", 2300)
+[23-07-01 18:28:16] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.lastDrift", 2300000)
+[23-07-01 18:28:22] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.lastDrift", 2300000)
+[23-07-01 18:28:22] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.lastDrift", 23000001)
+[23-07-01 18:30:01] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: driftEnd(45000)
+[23-07-01 18:30:05] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: driftEnd(45000, 45000)
+[23-07-01 18:30:09] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: exports.a_drift:driftEnd(45000, 45000)
+[23-07-01 18:30:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: exports.a_drift:driftEnd(45000)
+[23-07-01 18:32:10] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("zsamozsasi", "nemtudom", true)
+[23-07-01 18:32:14] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("zsamozsasi"Ö, "nemtudom", true)
+[23-07-01 18:32:17] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("zsamozsasi"), "nemtudom", true)
+[23-07-01 18:34:09] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(localPlayer, "a.driftScore", 99999)
+[23-07-01 18:35:26] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(localPlayer, "a.driftScore", 99999)
+[23-07-01 18:35:32] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(localPlayer, "a.driftScore", 99999)
+[23-07-01 18:35:35] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(localPlayer, "a.driftScore", 99999)
+[23-07-01 18:59:22] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 19:03:14] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 19:08:30] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 19:13:55] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 19:15:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 19:20:26] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 19:24:17] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 19:26:28] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 19:27:54] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 19:38:45] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 19:42:35] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 19:46:57] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 19:55:26] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 19:57:07] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 20:00:54] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 20:05:17] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setRainLevel(1)
+[23-07-01 20:05:26] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-01 20:05:37] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setTime(23, 00)
+[23-07-01 20:05:40] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setTime(03, 00)
+[23-07-01 20:05:48] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setWeather(11)
+[23-07-01 20:05:49] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setWeather(10)
+[23-07-01 20:05:50] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setWeather(11)
+[23-07-01 20:07:52] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setRainLevel(0.5)
+[23-07-01 20:17:27] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: getElementData(getPlayerFromName("AtyaJoint"), "a.premiumPont")
+[23-07-01 20:17:30] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("AtyaJoint"), "a.premiumPont")
+[23-07-01 20:17:37] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("AtyaJoint"), "a.premiumPont")
+[23-07-01 20:17:41] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("AtyaJoint"), "a.Premiumpont")
+[23-07-01 20:17:45] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("AtyaJoint"), "a.Money")
+[23-07-01 20:20:26] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: getElementData(getPlayerFromName("sm_rider"), "a.premiumPont")
+[23-07-01 20:20:31] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("sm_rider"), "a.Money")
+[23-07-01 20:20:38] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("sm_rider"), "a.Premiumpont")
+[23-07-01 20:24:45] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Maffiozo"), "a.Premiumpont")
+[23-07-01 20:24:53] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Maffiozo"), "a.Money")
+[23-07-01 20:34:25] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setRainLevel(0)
+[23-07-01 20:34:48] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: getElementData(getPlayerFromName("sm_rider"), "a.premiumPont")
+[23-07-01 20:34:52] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Maffiozo"), "a.Money")
+[23-07-01 20:34:57] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Maffiozo"), "a.Premiumpont")
+[23-07-01 20:34:59] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("sm_rider"), "a.Premiumpont")
+[23-07-01 20:39:05] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Maffiozo"), "a.Premiumpont")
+[23-07-01 20:39:10] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("frici"), "a.Premiumpont")
+[23-07-01 20:39:51] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("frici"), "a.Premiumpont")
+[23-07-01 20:39:52] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Maffiozo"), "a.Premiumpont")
+[23-07-01 20:40:26] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("fekaa"), "a.Premiumpont")
+[23-07-01 20:40:32] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Maffiozo"), "a.Premiumpont")
+[23-07-01 20:40:37] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("azyse"), "a.Premiumpont")
+[23-07-01 20:40:38] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Maffiozo"), "a.Premiumpont")
+[23-07-01 20:40:44] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Maffiozo"), "a.Premiumpont")
+[23-07-01 20:41:35] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Maffiozo"), "a.Premiumpont")
+[23-07-01 20:41:41] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Maffiozo"), "a.Premiumpont")
+[23-07-01 20:41:51] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Maffiozo"), "a.Premiumpont")
+[23-07-01 20:42:01] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Maffiozo"), "a.Premiumpont")
+[23-07-01 20:42:04] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Maffiozo"), "a.Premiumpont")
+[23-07-01 20:42:20] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Maffiozo"), "a.Premiumpont")
+[23-07-01 20:42:20] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Maffiozo"), "a.Premiumpont")
+[23-07-01 20:42:39] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Maffiozo"), "a.Premiumpont")
+[23-07-01 20:42:42] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("frici"), "a.Premiumpont")
+[23-07-02 12:09:58] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: 
+[23-07-02 12:09:59] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: s
+[23-07-02 12:10:04] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "adminLevel", 4)
+[23-07-02 12:10:06] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "adminLevel", 5)
+[23-07-02 12:10:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "adminLevel", 4)
+[23-07-02 12:16:34] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("sm_rider"), "a.Premiumpont")
+[23-07-02 12:17:04] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("sm_rider"), "a.Premiumpont")
+[23-07-02 12:21:11] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("sm_rider"), "a.Experience", 20737)
+[23-07-02 12:21:21] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("sm_rider"), "a.Experience", 20737)
+[23-07-02 12:22:31] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("sm_rider"), "a.Experience", tonumber(20737))
+[23-07-02 13:06:56] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: setElementData(getPlayerFromName("sm_rider"), "a.Experience", tonumber(61989))
+[23-07-02 15:19:51] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: getElementData(getPlayerFromName("sm_rider"), "a.Premiumpont")
+[23-07-02 15:20:47] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: getElementData(getPlayerFromName("sm_rider"), "a.accID")
+[23-07-02 15:23:47] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 15:31:15] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 15:33:40] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 15:40:48] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 15:40:54] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 16:10:20] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: getElementData(me, "a.PlayerGroup")
+[23-07-02 16:17:51] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 16:32:05] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 16:34:07] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 16:36:07] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: for k, v in pairs(getElementsByType("vehicle")) do setElementData(v, "vehicle.backfire", 1) end
+[23-07-02 16:49:05] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 16:52:35] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 16:57:08] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: destroyElement(getPedOccupiedVehicle(me))
+[23-07-02 17:30:26] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 18:28:41] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 19:46:57] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 19:51:00] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 19:52:08] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 19:53:50] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 19:54:14] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 19:54:31] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 19:55:10] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 19:55:44] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 19:55:58] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 19:56:19] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 19:58:38] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 19:59:46] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 20:01:10] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 20:02:34] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 20:03:47] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 20:14:58] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 20:17:02] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 20:40:06] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("[cP]toby???"), "a.Experience", 304892)
+[23-07-02 20:40:12] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("[cP]toby???"), "a.Experience", 304892)
+[23-07-02 20:41:08] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("drew"), "a.Experience", 34362)
+[23-07-02 20:41:11] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("drew"), "a.Experience", 74362)
+[23-07-02 21:09:20] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 21:09:50] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 21:11:21] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do executeCommandHandler("reconnect", v) end
+[23-07-02 21:11:35] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do executeCommandHandler("reconnect", v) end
+[23-07-02 21:12:09] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do redirectPlayer(v, "217.144.54.193", 22473) end
+[23-07-02 21:15:51] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do setElementData(v, "a.PlayerGroup", 0) end
+[23-07-02 21:15:59] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do setElementData(v, "a.PlayerGroup", 0) end
+[23-07-02 21:16:04] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do setElementData(v, "a.PlayerGroup", tonumber(0)) end
+[23-07-02 21:20:59] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-02 21:22:47] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-02 21:23:10] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: fixVehicle(me)
+[23-07-02 21:23:14] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: repairVehicle(me)
+[23-07-02 21:23:18] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: repairVehicle(me)
+[23-07-02 21:23:20] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: repairVehicle(me)
+[23-07-02 21:23:25] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: repairVehicle(me)
+[23-07-02 21:23:25] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: 
+[23-07-02 21:23:35] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: repairVehicle(me)
+[23-07-02 21:23:40] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: repairVehicle(me)
+[23-07-02 21:23:43] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: fixVehicle(me)
+[23-07-02 21:23:57] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: fixVehicle(me.vehicle)
+[23-07-02 21:24:04] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: fixVehicle(getPedOccupiedVehicle(me))
+[23-07-02 21:27:24] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 21:27:55] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 21:47:29] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-02 21:52:27] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-02 21:54:41] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-02 21:56:22] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-02 21:57:33] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-02 22:01:15] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-02 22:03:49] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-02 22:04:24] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-02 22:09:34] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-02 22:26:24] [!NEW]/aDeathmatch/codeServer.lua:3: Elindult egy új DM kör. (Los Santos Gyár)
+[23-07-02 22:29:11] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-02 22:39:38] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 22:42:13] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 22:44:59] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-02 22:57:19] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do killPlayer(v) end
+[23-07-02 22:57:29] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-02 22:58:29] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do redirectPlayer(v, "217.144.54.193", 22473) end
+[23-07-02 23:00:23] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-02 23:01:09] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPedOccupiedVehicle(me), "a.Nitro", 99999)
+[23-07-02 23:35:08] a_core/runcode/codeServer.lua:69: [SRUN] boto executed: setPedWalkStyle(me, 0)
+[23-07-02 23:59:03] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: setElementData(getPlayerFromName("brownib"), "a.Gamemode", 1)
+[23-07-03 00:19:36] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-03 00:21:06] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-03 00:23:29] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-03 00:47:03] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: outputChatBox("#E48F8F► Kupon: #9BE48F Rendszer #FFFFFFgenerált egy kuponkódot, amit be tudsz váltani a #8FC3E4/coupon a7JskLw2err8sA #FFFFFFparancs használatával.", root, 255, 255, 255, true)
+[23-07-03 00:47:23] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: code = generateString(10)
+[23-07-03 00:48:11] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: outputChatBox("#E48F8F► Kupon: #9BE48F brownib #FFFFFFgenerált egy kuponkódot, amit be tudsz váltani a #8FC3E4/coupon lMmGBRmru8 #FFFFFFparancs használatával.", root, 255, 255, 255, true)
+[23-07-03 00:48:16] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: outputChatBox("#E48F8F► Kupon: #9BE48F brownib #FFFFFFgenerált egy kuponkódot, amit be tudsz váltani a #8FC3E4/coupon REYkvUoqNn #FFFFFFparancs használatával.", root, 255, 255, 255, true)
+[23-07-03 00:48:21] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: outputChatBox("#E48F8F► Kupon: #9BE48F brownib #FFFFFFgenerált egy kuponkódot, amit be tudsz váltani a #8FC3E4/coupon DMuMeOyiN4 #FFFFFFparancs használatával.", root, 255, 255, 255, true)
+[23-07-03 00:48:25] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: outputChatBox("#E48F8F► Kupon: #9BE48F brownib #FFFFFFgenerált egy kuponkódot, amit be tudsz váltani a #8FC3E4/coupon fWLrtCzTSI #FFFFFFparancs használatával.", root, 255, 255, 255, true)
+[23-07-03 00:48:54] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: outputChatBox("#E48F8F► Kupon: #9BE48F brownib #FFFFFFgenerált egy kuponkódot, amit be tudsz váltani a #8FC3E4/coupon fALrtZzTSXl #FFFFFFparancs használatával.", root, 255, 255, 255, true)
+[23-07-03 00:49:30] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: outputChatBox("#E48F8F► Kupon: #9BE48F brownib #FFFFFFgenerált egy kuponkódot, amit be tudsz váltani a #8FC3E4/coupon fALrtZzTSXl #FFFFFFparancs használatával.", root, 255, 255, 255, true)
+[23-07-03 00:49:30] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: outputChatBox("#E48F8F► Kupon: #9BE48F brownib #FFFFFFgenerált egy kuponkódot, amit be tudsz váltani a #8FC3E4/coupon fALrtZzTSXl #FFFFFFparancs használatával.", root, 255, 255, 255, true)
+[23-07-03 00:49:36] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: outputChatBox("#E48F8F► Kupon: #9BE48F brownib #FFFFFFgenerált egy kuponkódot, amit be tudsz váltani a #8FC3E4/coupon fALrtZzTSXl #FFFFFFparancs használatával.", root, 255, 255, 255, true)
+[23-07-03 00:55:43] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: print("asd")
+[23-07-03 01:07:04] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: print("asd")
+[23-07-03 01:07:43] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: print("asd")
+[23-07-03 01:08:09] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: print("asd")
+[23-07-03 01:09:57] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: print("asd")
+[23-07-03 01:10:11] a_core/runcode/codeServer.lua:149: [CRUN] boto executed: print("asd")
+[23-07-03 01:18:39] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-03 01:19:51] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-03 01:20:07] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-03 01:20:35] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-03 01:21:14] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-03 21:10:48] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-03 21:13:27] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-03 22:56:09] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-03 22:58:21] a_core/runcode/codeServer.lua:149: [CRUN] enemy1337zsirdiszno executed: setPedAnimation( me, "CAR", "Sit_relaxed" )
+[23-07-03 22:58:36] a_core/runcode/codeServer.lua:149: [CRUN] enemy1337zsirdiszno executed: setPedAnimation( me, "Attractors", "Stepsit_loop" )
+[23-07-03 22:58:44] a_core/runcode/codeServer.lua:149: [CRUN] enemy1337zsirdiszno executed: setPedAnimation( me, "BEACH", "ParkSit_W_loop" )
+[23-07-03 22:58:52] a_core/runcode/codeServer.lua:149: [CRUN] enemy1337zsirdiszno executed: setPedAnimation( me, "ped", "SEAT_idle" )
+[23-07-03 22:59:01] a_core/runcode/codeServer.lua:149: [CRUN] enemy1337zsirdiszno executed: stopAnimation()
+[23-07-03 22:59:17] a_core/runcode/codeServer.lua:149: [CRUN] enemy1337zsirdiszno executed: setPedAnimation()
+[23-07-03 22:59:17] a_core/runcode/codeServer.lua:149: [CRUN] enemy1337zsirdiszno executed: setPedAnimation(me)
+[23-07-03 22:59:23] a_core/runcode/codeServer.lua:149: [CRUN] enemy1337zsirdiszno executed: setPedAnimation()
+[23-07-03 22:59:23] a_core/runcode/codeServer.lua:149: [CRUN] enemy1337zsirdiszno executed: setPedAnimation( me, "ped", "SEAT_idle" )
+[23-07-03 22:59:28] a_core/runcode/codeServer.lua:149: [CRUN] enemy1337zsirdiszno executed: setPedAnimation()
+[23-07-03 22:59:30] a_core/runcode/codeServer.lua:149: [CRUN] enemy1337zsirdiszno executed: setPedAnimation(me)
+[23-07-03 22:59:48] a_core/runcode/codeServer.lua:149: [CRUN] enemy1337zsirdiszno executed: setPedAnimation( me, "FOOD", "FF_Sit_Look" )
+[23-07-03 23:01:07] a_core/runcode/codeServer.lua:149: [CRUN] enemy1337zsirdiszno executed: setPedAnimation(me)
+[23-07-03 23:43:57] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-03 23:46:49] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-03 23:49:04] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: setPlayerName(me, "kamagraember")
+[23-07-03 23:54:42] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-03 23:55:08] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-04 00:03:04] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: setServerPassword("dagadtgecienemy")
+[23-07-04 00:03:35] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: for k, v in pairs(getElementsByType("player")) do if v ~= v then kickPlayer(v) end end
+[23-07-04 00:04:08] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setServerPassword()
+[23-07-04 00:04:14] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setServerPassword()
+[23-07-04 00:04:22] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setServerPassword()
+[23-07-04 00:04:26] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setServerPassword()  [DUP x3]
+[23-07-04 00:04:30] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: for k, v in pairs(getElementsByType("player")) do if v ~then kickPlayer(v) end end
+[23-07-04 20:17:53] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-04 20:20:14] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-04 20:39:24] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-04 21:06:12] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-04 21:13:43] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-05 15:24:04] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: 
+[23-07-05 15:24:10] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: 
+[23-07-05 15:24:33] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.adminLevel", 5)
+[23-07-05 15:24:39] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.adminLevel", 5)
+[23-07-05 15:24:42] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: 
+[23-07-05 15:25:26] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: 
+[23-07-05 15:25:39] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: 
+[23-07-05 15:25:40] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: a
+[23-07-05 15:25:40] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: aa
+[23-07-05 15:25:40] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: aaa
+[23-07-05 15:25:41] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: aa
+[23-07-05 15:25:46] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(me, "a.adminLevel", 5)
+[23-07-05 15:26:43] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: 
+[23-07-05 15:29:26] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: 
+[23-07-05 15:29:32] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: 
+[23-07-05 15:29:32] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: outputChatBox("")
+[23-07-05 15:29:38] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: outputChatBox("")  [DUP x2]
+[23-07-05 15:29:38] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.adminLevel", 5)
+[23-07-05 15:29:42] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "adminLevel", 5)
+[23-07-06 22:57:16] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setVehicleDamageProof(me.vehicle)
+[23-07-06 22:57:28] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setVehicleDamageProof(me.vehicle)
+[23-07-06 22:57:44] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setVehicleDamageProof(me.vehicle)
+[23-07-06 22:57:53] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setVehicleDamageProof(getPedOccupiedVehicle(me))
+[23-07-06 22:57:57] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setVehicleDamageProof(getPedOccupiedVehicle(me), true)
+[23-07-06 22:58:05] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setVehicleDamageProof(getPedOccupiedVehicle(me), false)
+[23-07-06 22:58:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setVehicleDamageProof(getPedOccupiedVehicle(me), true)
+[23-07-06 22:59:30] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setVehicleDamageProof(getPedOccupiedVehicle(me), false)
+[23-07-06 23:00:07] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setVehicleDamageProof(getPedOccupiedVehicle(me), true)
+[23-07-06 23:37:02] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: outputChatBox("local agyhalott = getPlayerFromName("Tomesz.") if getElementData(agyhalott, "isPlayerChatting") then kickPlayer( end")")
+[23-07-06 23:37:08] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: outputChatBox("local agyhalott = getPlayerFromName("Tomesz.") if getElementData(agyhalott, "isPlayerChatting") then kickPlayer( end")")
+[23-07-06 23:37:31] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: outputChatBox("local agyhalott = getPlayerFromName("Tomesz."); if getElementData(agyhalott, "isPlayerChatting") then kickPlayer(agyhalott) end")
+[23-07-06 23:37:50] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: outputChatBox("local agyhalott = getPlayerFromName("Tomesz."); if getElementData(agyhalott, "isPlayerChatting") then kickPlayer(agyhalott) end")
+[23-07-06 23:38:47] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: outputChatBox("local agyhalott = getPlayerFromName("Tomesz.") if getElementData(agyhalott, "isPlayerChatting") then kickPlayer(agyhalott) end ")
+[23-07-06 23:38:50] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: outputChatBox("local agyhalott = getPlayerFromName("Tomesz.") if getElementData(agyhalott, "isPlayerChatting") then kickPlayer(agyhalott) end ")
+[23-07-06 23:58:35] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do executeCommandHandler(v, "tomoka") end
+[23-07-06 23:58:40] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do executeCommandHandler("tomoka", v) end
+[23-07-06 23:58:54] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do executeCommandHandler("tomoka", v) end
+[23-07-06 23:59:00] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do executeCommandHandler("tomoka", v) end  [DUP x4]
+[23-07-06 23:59:37] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do executeCommandHandler("tomoka", v) end
+[23-07-07 00:03:38] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "adminLevel", 5)
+[23-07-07 00:05:47] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: toggleControl("fire",me)
+[23-07-07 00:05:57] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: toggleControl("fire", false)
+[23-07-07 00:05:58] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: toggleControl("fire", true)
+[23-07-07 00:15:08] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: toggleControl("fire", true)
+[23-07-07 00:33:32] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: toggleControl("fire", true)
+[23-07-07 00:34:44] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getVehicleModel(getPedOccupiedVehicle(me))
+[23-07-07 00:36:35] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getVehicleModel(getPedOccupiedVehicle(me))
+[23-07-07 00:48:25] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setVehicleDamageProof(getPedOccupiedVehicle(me), true)
+[23-07-07 00:48:29] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setVehicleDamageProof(getPedOccupiedVehicle(me), false)
+[23-07-07 00:49:05] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do setVehicleDamageProof(v, true)
+[23-07-07 00:49:14] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do setVehicleDamageProof(v, true)
+[23-07-07 00:49:19] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do setVehicleDamageProof(getPedOccupiedVehicle(v), true)
+[23-07-07 00:49:22] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do setVehicleDamageProof(getPedOccupiedVehicle(v), true)
+[23-07-07 00:50:04] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("vehicle")) do setVehicleDamageProof(v, true)
+[23-07-07 00:51:25] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setVehicleDamageProof(getPedOccupiedVehicle(me), true)cd
+[23-07-07 00:55:28] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setVehicleDamageProof(getPedOccupiedVehicle(me), true)
+[23-07-07 00:55:58] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setVehicleDamageProof(getPedOccupiedVehicle(me), false)
+[23-07-10 16:11:04] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(me, "a.Gamemode", 2)
+[23-07-10 16:11:15] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(me, "a.Gamemode", 3)
+[23-07-10 16:11:17] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(me, "a.Gamemode", 4)
+[23-07-10 16:13:11] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("nagybalint_02"), "a.Gamemode", 4)
+[23-07-10 16:13:18] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("nagybalint02"), "a.Gamemode", 4)
+[23-07-10 16:20:51] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-10 16:21:54] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-07-10 16:38:00] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-07-10 16:38:26] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-07-10 17:07:04] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: blowVehicle(getPlayerFromName("Arma"))
+[23-07-10 17:07:06] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: blowVehicle(getPlayerFromName("Arma"), true)
+[23-07-10 17:07:47] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: blowVehicle(getPedOccupiedVehicle(getPlayerFromName("Arma")), true)
+[23-07-10 21:38:28] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition();createExplosion(x, y, z, 10)
+[23-07-10 21:38:33] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition() createExplosion(x, y, z, 10)
+[23-07-10 21:38:50] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 10)
+[23-07-10 21:38:55] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 10)
+[23-07-10 21:38:56] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 10)  [DUP x2]
+[23-07-10 21:38:56] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 10)
+[23-07-10 21:38:56] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 10)
+[23-07-10 21:38:57] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 10)
+[23-07-10 21:38:57] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 10)
+[23-07-10 21:38:57] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 10)
+[23-07-10 21:39:00] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 10)  [DUP x5]
+[23-07-10 21:39:16] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 10)
+[23-07-10 21:39:17] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 10)  [DUP x3]
+[23-07-10 21:39:17] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 10)
+[23-07-10 21:39:22] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 10)  [DUP x3]
+[23-07-10 21:39:37] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 10)
+[23-07-10 21:39:40] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 10)  [DUP x6]
+[23-07-10 21:39:58] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 10)
+[23-07-10 21:40:03] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 10)  [DUP x9]
+[23-07-10 21:40:15] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 8)
+[23-07-10 21:40:18] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 8)  [DUP x8]
+[23-07-10 21:40:19] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 8)
+[23-07-10 21:40:20] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 8)  [DUP x3]
+[23-07-10 21:40:20] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 8)
+[23-07-10 21:40:40] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: for i = 0, 300 do local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 8) end
+[23-07-10 21:40:44] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: for i = 0, 300 do local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 8) end
+[23-07-10 21:40:48] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: for i = 0, 300 do local x, y, z = getElementPosition(getPlayerFromName("stuart")) createExplosion(x, y, z, 8) end  [DUP x4]
+[23-07-10 21:41:44] a_core/runcode/codeServer.lua:149: [CRUN] mosojfej executed: for k, v in pairs(getElementsByType("player")) do local x,y,z=getElementPosition(v) createProjectile(v, 7) end
+[23-07-10 21:41:51] a_core/runcode/codeServer.lua:149: [CRUN] mosojfej executed: for k, v in pairs(getElementsByType("player")) do local x,y,z=getElementPosition(v) createProjectile(x, y, z, 7) end
+[23-07-10 21:42:49] a_core/runcode/codeServer.lua:149: [CRUN] mosojfej executed: for k, v in pairs(getElementsByType("player")) do local x,y,z=getElementPosition(v) createProjectile(me, 19, x, y, z, 1 v 0, 0, 0, 1, 1, 1, 1) end
+[23-07-10 21:42:53] a_core/runcode/codeServer.lua:149: [CRUN] mosojfej executed: for k, v in pairs(getElementsByType("player")) do local x,y,z=getElementPosition(v) createProjectile(me, 19, x, y, z, 1 v, 0, 0, 0, 1, 1, 1, 1) end
+[23-07-10 21:43:00] a_core/runcode/codeServer.lua:149: [CRUN] mosojfej executed: for k, v in pairs(getElementsByType("player")) do local x,y,z=getElementPosition(v) createProjectile(me, 19, x, y, z, ,1 v, 0, 0, 0, 1, 1, 1, 1) end
+[23-07-10 21:43:05] a_core/runcode/codeServer.lua:149: [CRUN] mosojfej executed: for k, v in pairs(getElementsByType("player")) do local x,y,z=getElementPosition(v) createProjectile(me, 19, x, y, z, 1 v, 0, 0, 0, 1, 1, 1, 1) end
+[23-07-10 21:43:15] a_core/runcode/codeServer.lua:149: [CRUN] mosojfej executed: for k, v in pairs(getElementsByType("player")) do local x,y,z=getElementPosition(v) createProjectile(me, 19, x, y, z, 1, v, 0, 0, 0, 1, 1, 1, 1) end
+[23-07-16 16:16:57] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: getElementModel(getPlayerFromName("Roli."))
+[23-07-16 16:17:02] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: getElementModel(getPlayerFromName("Roli."))
+[23-07-16 16:17:02] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementModel(getPlayerFromName("Roli."))
+[23-07-16 16:18:04] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("Tsongor"), "a.Gamemode", 2)
+[23-07-16 16:18:06] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("Tsongor"), "a.Gamemode", 3)
+[23-07-16 16:18:08] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("Tsongor"), "a.Gamemode", 1)
+[23-07-16 16:18:44] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("Tsongor"), "a.Experience", 100000)
+[23-07-16 16:19:41] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("Tsongor"), "a.Experience", got)
+[23-07-16 16:22:39] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("Tsongor"), "a.Experience", 99999)
+[23-07-16 16:22:46] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("Tsongor"), "a.Experience", tonumber(100000))
+[23-07-16 16:23:30] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("Tsongor"), "a.Experience", tonumber(100000))
+[23-07-16 16:23:36] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("Tsongor"), "a.Experience", tonumber(100000))
+[23-07-16 16:23:39] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("Tsongor"), "a.Experience", tonumber(99))
+[23-07-16 16:23:42] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("Tsongor"), "a.Experience", tonumber(999999))
+[23-07-16 16:23:45] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("Tsongor"), "a.Experience", tonumber(999999999))
+[23-07-16 16:27:10] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Tsongor"), "a.Experience")
+[23-07-16 16:49:39] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.tdmaEventKills")
+[23-07-16 16:51:31] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.tdmaEventKills")
+[23-07-16 16:53:10] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.tdmaEventKills")
+[23-07-16 16:53:16] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.tdmaEventKills")
+[23-07-16 16:53:19] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.tdmaEventKills")
+[23-07-16 16:56:31] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.tdmaEventKills")
+[23-07-16 16:57:15] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "adminLevel")
+[23-07-16 16:57:16] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.tdmaEventKills")
+[23-07-16 16:58:01] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.tdmaEventKills")
+[23-07-16 16:58:24] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.tdmaEventKills")
+[23-07-16 16:58:42] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.eventKills")
+[23-07-16 16:59:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.eventKills")
+[23-07-16 17:00:16] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.eventKills")
+[23-07-16 17:08:09] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.eventKills")
+[23-07-16 17:08:59] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.eventKills")
+[23-07-16 17:10:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.eventKills")
+[23-07-16 17:12:58] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.eventKills")
+[23-07-16 17:13:11] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.eventKills")
+[23-07-16 17:13:17] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.eventKills")
+[23-07-16 17:17:11] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: executeCommandHandler("eventkills", getPlayerFromName("Roli."))
+[23-07-16 17:17:18] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: executeCommandHandler("eventkills", getPlayerFromName("Roli."))
+[23-07-16 17:17:43] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: executeCommandHandler("eventkills", getPlayerFromName("Roli."))
+[23-07-16 17:19:00] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: executeCommandHandler("eventkills", getPlayerFromName("Roli."))
+[23-07-16 17:19:18] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: executeCommandHandler("eventkills")
+[23-07-16 17:19:28] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: executeCommandHandler(getPlayerFromName("Roli."), "eventkills")
+[23-07-16 17:32:57] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: clearChatBox()
+[23-07-16 17:43:53] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementPosition(me, -2176.59765625, 964.828125, 80)
+[23-07-16 17:44:00] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementPosition(me, -2219.4384765625, 1043.015625, 80.0078125)
+[23-07-16 17:44:18] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementPosition(me, 1526.1640625, -1707.45703125, 13.3828125)
+[23-07-16 17:44:52] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementPosition(me, -71, 140, 13.3828125)
+[23-07-16 17:47:36] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(me)
+[23-07-16 17:47:40] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: me.dimension(me)
+[23-07-16 17:47:44] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(me)
+[23-07-16 17:54:20] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementPosition(me, 1543.4326171875, -1667.947265625, 5.890625)
+[23-07-16 18:22:19] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Pingu", "a.eventKills")
+[23-07-16 18:22:23] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Pingu"), "a.eventKills")
+[23-07-16 18:22:39] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("Pingu"), "a.eventKills", tonumber(67))
+[23-07-16 18:22:45] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("Pingu"), "a.eventKills", tonumber(67))
+[23-07-16 18:23:40] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("Pingu"), "a.eventKills", tonumber(67))
+[23-07-16 18:29:22] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(me, "a.eventKills", tonumber(54))
+[23-07-16 18:29:26] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(me, "a.eventKills", tonumber(54))
+[23-07-16 18:31:39] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(me)
+[23-07-16 18:31:43] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(me)
+[23-07-16 18:33:52] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementDimension(getPlayerFromName("7w7'toby~top"), 0)
+[23-07-16 18:33:58] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementDimension(me, 0)
+[23-07-16 18:40:09] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementPositiom(me, 0, 0, 0)
+[23-07-16 18:40:13] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementPosition(me, 0, 0, 0)
+[23-07-16 18:40:23] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementDimension(me, 0)
+[23-07-16 18:40:37] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: getElementDimension(getPlayerFromName("7w7'toby~top"))
+[23-07-16 18:40:41] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: getElementDimension(getPlayerFromName("7w7'toby~top"))
+[23-07-16 18:40:41] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("7w7'toby~top"))
+[23-07-18 22:20:42] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setPedAnimation(me, "camera", "camcrch_idleloop", true, false, false)
+[23-07-18 22:20:48] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setPedAnimation(me, "camera", "camcrch_idleloop", true, false, false)
+[23-07-18 22:23:47] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setPedAnimation ( me )
+[23-07-19 18:58:05] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getPlayerFromName("novero")
+[23-07-19 18:58:17] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("novero"), "accountId")
+[23-07-19 18:58:19] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("novero"), "accID")
+[23-07-19 18:58:23] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("novero"), "visibleName")
+[23-07-19 18:58:47] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("novero"), "a.accID")
+[23-07-19 19:10:15] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: createExplosion(1160, -1341, 494)
+[23-07-19 19:10:29] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: createExplosion(1160, -1341, 494, 0)
+[23-07-19 19:10:35] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: createExplosion(1160, -1341, 494, 0)
+[23-07-19 19:10:35] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: createExplosion(1160, -1341, 494, 0)
+[23-07-19 19:10:49] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for i = 0, 10 do createExplosion(1160, -1341, 494, 0) end
+[23-07-21 23:55:39] a_core/runcode/codeServer.lua:149: [CRUN] [Cv]brownib executed: setElementData(me, "adminLevel", 6)
+[23-07-21 23:56:42] a_core/runcode/codeServer.lua:149: [CRUN] [Cv]brownib executed: setElementData(me, "a.Gamemode", 0)
+[23-07-21 23:56:54] a_core/runcode/codeServer.lua:149: [CRUN] [Cv]brownib executed: setElementData(me, "a.Gamemode", 1)
+[23-07-21 23:56:55] a_core/runcode/codeServer.lua:149: [CRUN] [Cv]brownib executed: setElementData(me, "a.Gamemode", 2)
+[23-07-21 23:56:56] a_core/runcode/codeServer.lua:149: [CRUN] [Cv]brownib executed: setElementData(me, "a.Gamemode", 3)
+[23-07-21 23:56:57] a_core/runcode/codeServer.lua:149: [CRUN] [Cv]brownib executed: setElementData(me, "a.Gamemode", 4)
+[23-07-22 00:08:49] a_core/runcode/codeServer.lua:149: [CRUN] [Cv]brownib executed: warpPlayerIntoVehicle(me, getPedOccupiedVehicle(getPlayerFromName("Escooka")), 2)
+[23-07-22 00:08:53] a_core/runcode/codeServer.lua:149: [CRUN] [Cv]brownib executed: warpPlayerIntoVehicle(me, getPedOccupiedVehicle(getPlayerFromName("Escooka")), 1)
+[23-07-22 00:08:56] a_core/runcode/codeServer.lua:149: [CRUN] [Cv]brownib executed: warpPedIntoVehicle(me, getPedOccupiedVehicle(getPlayerFromName("Escooka")), 1)
+[23-07-22 00:09:09] a_core/runcode/codeServer.lua:69: [SRUN] [Cv]brownib executed: warpPedIntoVehicle(me, getPedOccupiedVehicle(getPlayerFromName("Escooka")), 1)
+[23-07-22 00:12:59] a_core/runcode/codeServer.lua:69: [SRUN] [Cv]brownib executed: warpPedIntoVehicle(me, getPedOccupiedVehicle(getPlayerFromName("Escooka")), 1)
+[23-07-22 00:17:13] a_core/runcode/codeServer.lua:69: [SRUN] [Cv]brownib executed: warpPedIntoVehicle(me, getPedOccupiedVehicle(getPlayerFromName("Escooka")), 1)
+[23-07-22 00:23:56] a_core/runcode/codeServer.lua:69: [SRUN] [Cv]brownib executed: warpPedIntoVehicle(me, getPedOccupiedVehicle(getPlayerFromName("Escooka")), 1)
+[23-07-22 00:29:50] a_core/runcode/codeServer.lua:69: [SRUN] [Cv]brownib executed: warpPedIntoVehicle(getPlayerFromName("sssss"), getPedOccupiedVehicle(getPlayerFromName("Escooka")), 1)
+[23-07-22 00:37:51] a_core/runcode/codeServer.lua:69: [SRUN] [Cv]brownib executed: warpPedIntoVehicle(me, getPedOccupiedVehicle(getPlayerFromName("Escooka")), 1)
+[23-07-22 00:38:03] a_core/runcode/codeServer.lua:69: [SRUN] [Cv]brownib executed: warpPedIntoVehicle(getPlayerFromName("k9"), getPedOccupiedVehicle(getPlayerFromName("Escooka")), 2)
+[23-07-22 00:38:07] a_core/runcode/codeServer.lua:69: [SRUN] [Cv]brownib executed: warpPedIntoVehicle(getPlayerFromName("k9"), getPedOccupiedVehicle(getPlayerFromName("Escooka")), 3)
+[23-07-22 00:38:08] a_core/runcode/codeServer.lua:69: [SRUN] [Cv]brownib executed: warpPedIntoVehicle(getPlayerFromName("k9"), getPedOccupiedVehicle(getPlayerFromName("Escooka")), 4)
+[23-07-22 00:38:10] a_core/runcode/codeServer.lua:69: [SRUN] [Cv]brownib executed: warpPedIntoVehicle(getPlayerFromName("k9"), getPedOccupiedVehicle(getPlayerFromName("Escooka")), 2)
+[23-07-22 00:38:27] a_core/runcode/codeServer.lua:69: [SRUN] [Cv]brownib executed: warpPedIntoVehicle(me, getPedOccupiedVehicle(getPlayerFromName("k9")), 2)
+[23-07-22 00:38:29] a_core/runcode/codeServer.lua:69: [SRUN] [Cv]brownib executed: warpPedIntoVehicle(me, getPedOccupiedVehicle(getPlayerFromName("k9")), 1)
+[23-07-24 22:04:54] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: getElementData(me, "a.PlayerName")
+[23-07-25 03:36:31] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: toggleControl("fire", true)
+[23-07-26 23:45:06] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: getElementData(me, "a.DMTeam")
+[23-07-26 23:56:41] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: getElementData(me, "a.DMTeam")
+[23-07-27 02:59:36] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: setElementData(me, "a.HPTeam", 2)
+[23-07-27 02:59:46] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: setElementData(me, "a.HPTeam", 2)
+[23-07-27 17:29:16] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: getElementData(me, "a.IsInInterior")
+[23-07-28 00:15:52] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: setElementDimension(me, 1)
+[23-07-28 00:16:25] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: setElementDimension(me, 1)
+[23-07-28 00:47:59] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: getElementData(me, "a.VIP")
+[23-07-28 13:12:30] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: getElementDat(me, "adminLevel")
+[23-07-28 13:12:38] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: getElementData(me, "adminLevel)
+[23-07-28 13:12:41] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: getElementData(me, "adminLevel")
+[23-07-28 13:27:18] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: toggleControl("fire", me)
+[23-07-28 13:27:48] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: toggleControl("me,"fire", true)
+[23-07-28 13:28:02] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: toggleControl(me, "fire", true)
+[23-07-28 13:28:14] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: toggleControl(me, "action", true)
+[23-07-28 14:31:22] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: setElementDimension(me, 1)
+[23-07-28 14:31:28] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: setElementDimension(me, 2)
+[23-07-31 23:23:39] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: setElementDimension(me, 0)
+[23-07-31 23:33:03] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: setPedAnimation(me, "misc", "seat_talk_01", true, false, false)
+[23-07-31 23:33:33] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: setPedAnimation(me, misc, seat_talk_01, true, false, false)
+[23-07-31 23:33:40] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: setPedAnimation(me, misc, seat_talk_01)
+[23-07-31 23:33:50] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setPedAnimation(me, misc, seat_talk_01)
+[23-07-31 23:34:28] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setPedAnimation(sourcePlayer, misc, seat_talk_01)
+[23-07-31 23:34:33] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setPedAnimation(localPlayer, misc, seat_talk_01)
+[23-07-31 23:36:15] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setPedAnimation(localPlayer, misc, seat_talk_01)
+[23-08-01 17:25:20] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-01 18:48:51] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: setElementData(me, "adminLevel", 11)
+[23-08-01 18:48:55] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: setElementData(me, "adminLevel", 6)
+[23-08-01 18:48:57] a_core/runcode/codeServer.lua:69: [SRUN] mosojfej executed: setElementData(me, "adminLevel", 8)
+[23-08-02 11:53:33] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "visibleName")
+[23-08-02 12:18:59] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: srun local vehicle = getPedOccupiedVehicle(me); destroyElement(vehicle)
+[23-08-02 12:21:02] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: srun local vehicle = getPedOccupiedVehicle(me); destroyElement(vehicle)
+[23-08-02 12:21:05] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: srun local vehicle = getPedOccupiedVehicle(me); destroyElement(vehicle)
+[23-08-02 12:21:05] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: 
+[23-08-02 12:21:08] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: srun local vehicle = getPedOccupiedVehicle(me); destroyElement(vehicle)
+[23-08-02 12:21:14] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: 
+[23-08-02 12:21:16] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: srun local vehicle = getPedOccupiedVehicle(getPlayerFromName("brownib")); destroyElement(vehicle)
+[23-08-02 12:21:26] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: srun local vehicle = getPedOccupiedVehicle(getPlayerFromName("brownib")) destroyElement(vehicle)
+[23-08-02 12:21:30] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: srun local vehicle = getPedOccupiedVehicle(getPlayerFromName("brownib")) destroyElement(vehicle)
+[23-08-02 12:21:30] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: local vehicle = getPedOccupiedVehicle(getPlayerFromName("brownib")) destroyElement(vehicle)
+[23-08-02 12:31:39] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-02 13:41:59] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: toggleAllControls(getPlayerFromName("brownib"), true)
+[23-08-02 13:42:08] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: toggleAllControls(getPlayerFromName("brownib"), true)
+[23-08-02 13:42:15] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: toggleAllControls(getPlayerFromName("brownib"), true)
+[23-08-02 13:42:26] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: toggleAllControls(getPlayerFromName("brownib"), true, true)
+[23-08-02 17:03:42] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(me, "a.premiumPoints")
+[23-08-02 17:03:49] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("brownib"), "a.premiumPoints")
+[23-08-02 17:03:51] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("brownib"), "a.premiumPoint")
+[23-08-02 17:03:54] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("brownib"), "a.Premiumpont")
+[23-08-02 18:03:10] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setPedAnimation(getPlayerFromName("brownib"), "gymnasium", "gymshadowbox")
+[23-08-02 18:03:17] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setPedAnimation(getPlayerFromName("brownib"))
+[23-08-02 18:03:21] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setPedAnimation(getPlayerFromName("brownib"), "gymnasium", "gymshadowbox")
+[23-08-02 18:03:33] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setPedAnimation(getPlayerFromName("brownib"))
+[23-08-02 18:06:11] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setPedAnimation(getPlayerFromName("brownib"), "gymnasium", "gymshadowbox")
+[23-08-02 18:06:16] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setPedAnimation(getPlayerFromName("brownib"))
+[23-08-02 18:10:22] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: outputChatBox("aaaa")
+[23-08-02 19:08:05] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: createObject(13051, -1392, -1956, 88)
+[23-08-02 19:08:35] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: a
+[23-08-02 19:16:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementDimension(getPlayerFromName("brownib"), 0)
+[23-08-02 19:41:00] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("brownib"), "adminLevel2)
+[23-08-02 19:41:04] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("brownib"), "adminLevel")
+[23-08-02 20:22:28] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do msg(v) end
+[23-08-02 20:22:32] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do msg(v, 2asd) end
+[23-08-02 20:22:34] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do msg(v, "asd") end
+[23-08-02 20:31:39] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do outputChatBox(v) end
+[23-08-02 20:31:45] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do outputChatBox(v) end
+[23-08-02 20:31:56] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do outputChatBox((v)) end
+[23-08-02 20:32:08] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("player")) do outputChatBox(tonumber(v)) end
+[23-08-02 22:29:51] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-02 22:34:30] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-02 22:35:52] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-02 22:36:10] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-02 22:42:57] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-02 22:45:54] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-02 22:48:26] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-02 22:50:08] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-02 22:59:31] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-02 23:02:05] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-02 23:14:20] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-02 23:25:43] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-02 23:26:19] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-02 23:27:39] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-02 23:29:26] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-02 23:30:02] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-03 09:11:28] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-03 09:21:45] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.Protected", true)
+[23-08-03 09:21:51] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.Protected", true)
+[23-08-03 09:27:45] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.Protected", true)
+[23-08-03 09:27:53] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: outputChatBox("asd")
+[23-08-03 09:40:38] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-03 09:41:05] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-03 09:43:35] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-03 09:44:03] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-03 09:44:49] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-03 10:13:20] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "adminLevel", 8)
+[23-08-03 10:28:11] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib")
+[23-08-03 10:28:13] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib"))
+[23-08-03 10:29:16] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib"))
+[23-08-03 10:29:21] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-03 10:29:39] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementPosition(getPlayerFromName("brownib"), 1820, -1312, 115)
+[23-08-03 10:29:51] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementPosition(getPlayerFromName("brownib"), 1820, -1312, 115)
+[23-08-03 10:30:45] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-03 10:30:50] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib"))
+[23-08-03 10:32:37] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib"))
+[23-08-03 10:44:49] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-03 10:45:44] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-03 11:08:31] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-03 11:08:51] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-03 11:21:13] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-03 11:21:38] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-03 11:21:49] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-03 11:21:51] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-03 11:21:51] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-03 11:21:52] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-03 11:21:58] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-03 11:21:58] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-03 11:21:58] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-03 11:35:54] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("zoli"), "a.Protected")
+[23-08-03 11:35:59] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("brownib"), "a.Protected")
+[23-08-03 11:36:03] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("zoli"), "a.Protected")
+[23-08-03 11:36:03] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("brownib"), "a.Protected")
+[23-08-03 11:36:03] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("brownib"), "a.Protected")
+[23-08-03 11:36:11] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("brownib"), "a.Protected")
+[23-08-03 11:38:32] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("scottwaye"), "a.Protected")
+[23-08-03 11:38:42] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("zoli"), "a.Protected")
+[23-08-03 11:45:59] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("scottwaye"), "a.Protected")
+[23-08-03 11:46:00] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("zoli"), "a.Protected")
+[23-08-03 11:49:25] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("zoli"), "a.Protected")
+[23-08-03 11:49:27] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("scottwaye"), "a.Protected")
+[23-08-03 12:05:40] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("scottwaye"), "a.Protected")
+[23-08-03 12:05:41] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("zoli"), "a.Protected")
+[23-08-03 12:15:18] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-03 12:26:45] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: destroyElement(getPedOccupiedVehicle(getPlayerFromName("brownib")))
+[23-08-03 12:28:25] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: destroyElement(getPedOccupiedVehicle(getPlayerFromName("zoli")))
+[23-08-03 12:28:29] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: destroyElement(getPedOccupiedVehicle(getPlayerFromName("Roli.")))
+[23-08-03 12:31:42] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: destroyElement(getPedOccupiedVehicle(getPlayerFromName("Roli.")))
+[23-08-03 13:04:51] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("vehicle")) do destroyElement(v) end
+[23-08-03 13:08:14] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: toggleAllControls(getPlayerFromName("brownib"), true)
+[23-08-03 13:08:16] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: toggleAllControls(getPlayerFromName("brownib"), true)
+[23-08-03 13:09:00] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: toggleAllControls(getPlayerFromName("brownib"), true)
+[23-08-03 13:09:21] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.Protected", true)
+[23-08-03 13:09:23] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.Protected", true)
+[23-08-03 13:09:27] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: toggleAllControls(getPlayerFromName("brownib"), true)
+[23-08-03 13:09:28] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.Protected", true)
+[23-08-03 13:10:08] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "invulnerable", true)
+[23-08-03 13:10:14] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "invulnerable", true)
+[23-08-03 13:10:20] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "invulnerable", true)
+[23-08-03 13:10:24] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "invulnerable", true)
+[23-08-03 13:10:24] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "invulnerable", true)
+[23-08-03 13:10:48] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "invulnerable", true)
+[23-08-03 13:10:51] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: toggleAllControls(getPlayerFromName("brownib"), true)
+[23-08-03 14:07:31] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-03 14:10:48] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-03 17:32:58] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-03 20:56:14] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "adminLevel", 8)
+[23-08-03 21:03:59] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 09:03:42] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 09:50:10] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementInterior(getPlayerFromName("brownib"), 15)
+[23-08-04 09:51:08] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 09:51:11] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib"))
+[23-08-04 09:51:16] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementDimension(getPlayerFromName("brownib"), 0)
+[23-08-04 09:52:32] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementDimension(getPlayerFromName("zoli"), 0)
+[23-08-04 09:52:38] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementInterior(getPlayerFromName("zoli"), 15)
+[23-08-04 09:52:59] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementInterior(getPlayerFromName("zoli"), 15)
+[23-08-04 09:53:00] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementDimension(getPlayerFromName("zoli"), 0)
+[23-08-04 09:53:03] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementDimension(getPlayerFromName("zoli"), 0)
+[23-08-04 09:53:06] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementInterior(getPlayerFromName("zoli"), 15)
+[23-08-04 09:53:48] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementInterior(getPlayerFromName("zoli"), 0)
+[23-08-04 09:53:50] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementDimension(getPlayerFromName("zoli"), 0)
+[23-08-04 09:53:57] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementDimension(getPlayerFromName("brownib"), 0)
+[23-08-04 09:54:01] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementinterior(getPlayerFromName("brownib"), 0)
+[23-08-04 09:54:04] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementInterior(getPlayerFromName("brownib"), 0)
+[23-08-04 09:59:50] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib"))
+[23-08-04 09:59:53] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementDimension(getPlayerFromName("brownib"))
+[23-08-04 10:00:00] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 10:02:52] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementDimension(getPlayerFromName("brownib"))
+[23-08-04 10:02:53] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib"))
+[23-08-04 10:02:54] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementDimension(getPlayerFromName("brownib"))
+[23-08-04 10:02:58] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 10:06:44] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 10:11:31] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 10:22:28] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 10:34:37] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("IDEJ"), "a.Protected")
+[23-08-04 10:34:43] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("IDEJ"), "a.Protected")
+[23-08-04 10:35:15] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("IDEJ"), "a.Protected")
+[23-08-04 10:36:53] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("IDEJ"), "a.Protected")
+[23-08-04 10:36:59] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("IDEJ"), "a.Protected")  [DUP x2]
+[23-08-04 10:51:08] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("brownib"), "a.eventKills")
+[23-08-04 10:51:15] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.eventKills", 198)
+[23-08-04 10:55:14] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 10:56:07] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementInterior(getPlayerFromName("brownib"), 12)
+[23-08-04 10:56:11] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 10:56:39] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("brownib"), "a.Gamemode")
+[23-08-04 10:57:46] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 10:57:52] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 10:58:02] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 10:58:39] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementInterior(getPlayerFromName("brownib"), 11)
+[23-08-04 10:58:41] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementInterior(getPlayerFromName("brownib"), 10)
+[23-08-04 10:58:42] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementInterior(getPlayerFromName("brownib"), 0)
+[23-08-04 10:58:44] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementInterior(getPlayerFromName("brownib"), 1)
+[23-08-04 10:58:48] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 10:59:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementInterior(getPlayerFromName("brownib"), 0)
+[23-08-04 10:59:24] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementInterior(getPlayerFromName("brownib"), 1)
+[23-08-04 10:59:28] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 11:02:01] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 11:02:07] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 11:02:37] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("brownib"), "a.Gamemode")
+[23-08-04 11:02:52] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.Gamemode", nil)
+[23-08-04 11:02:55] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.Gamemode", nil1)
+[23-08-04 11:02:57] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.Gamemode", "asd")
+[23-08-04 11:03:03] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.Gamemode", nil)
+[23-08-04 11:04:52] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.Gamemode", "asd")
+[23-08-04 11:04:52] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.Gamemode", nil)
+[23-08-04 11:04:56] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 11:05:51] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.Gamemode", "asd")
+[23-08-04 11:05:52] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.Gamemode", nil)
+[23-08-04 11:05:53] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 11:06:06] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.Gamemode", "asd")
+[23-08-04 11:06:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.Gamemode", nil)
+[23-08-04 11:06:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 11:06:16] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 11:16:53] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 11:23:55] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 11:29:29] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 11:32:17] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 11:34:21] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 11:41:11] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 11:48:37] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 12:07:38] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 12:23:22] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: clearChatBox()
+[23-08-04 12:57:05] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 12:59:27] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 13:01:50] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("[TRK]Crimeter1"), "a.Experience", 69000)
+[23-08-04 13:01:59] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("[TRK]Crimeter1"), "a.Experience", tonumber(69000))
+[23-08-04 13:02:19] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("[TRK]Crimeter1"), "a.Experience", tonumber(69000000000))
+[23-08-04 13:02:35] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("[TRK]Crimeter1"), "a.Experience", 99999999999999999999)
+[23-08-04 13:02:40] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("[TRK]Crimeter1"), "a.Experience", 99999999999999999)
+[23-08-04 13:02:44] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("[TRK]Crimeter1"), "a.Experience", 99999999999999999)
+[23-08-04 13:02:44] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("[TRK]Crimeter1"), "a.Experience", 9999999999999999)
+[23-08-04 13:03:34] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("[TRK]Crimeter1"), "a.Experience", 69000)
+[23-08-04 13:15:17] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 13:19:15] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 13:20:51] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 13:29:49] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 14:27:44] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 14:37:29] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 14:50:40] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: createObject(4729, 249.0234375, 1815.794921875, 4.7109375, 0, 0, 270
+[23-08-04 14:50:46] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: createObject(4729, 249.0234375, 1815.794921875, 4.7109375, 0, 0, 270
+[23-08-04 14:50:47] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: createObject(4729, 249.0234375, 1815.794921875, 4.7109375, 0, 0, 270
+[23-08-04 14:50:51] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: createObject(4729, 249.0234375, 1815.794921875, 4.7109375, 0, 0, 270  [DUP x2]
+[23-08-04 14:50:51] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: createObject(4729, 249.0234375, 1815.794921875, 4.7109375, 0, 0, 270)
+[23-08-04 15:09:42] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: getElementData(me, "isInLobby")
+[23-08-04 15:17:44] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: getElementData(me, "isInLobby")
+[23-08-04 18:34:43] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: triggerClientEvent(root, "lobbyMusicPlay", root)
+[23-08-04 19:20:22] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 19:21:04] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 19:25:17] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 20:01:28] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "a.Protected")
+[23-08-04 20:01:41] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementData(getPlayerFromName("Roli."), "a.Protected", false)
+[23-08-04 20:02:03] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "a.Protected")
+[23-08-04 20:04:42] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "a.Protected")
+[23-08-04 20:04:56] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "a.Protected")
+[23-08-04 20:07:01] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 20:07:20] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "a.Protected")
+[23-08-04 20:12:05] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "a.Gamemode")
+[23-08-04 20:12:28] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 20:30:50] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 20:33:03] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: local vehicle = createVehicle(520, 1886.580078125, -1387.03515625, 13.5703125);warpPedIntoVehicle(getPlayerFromName("leevi"), vehicle)
+[23-08-04 20:33:54] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: local vehicle = createVehicle(520, 1886.580078125, -1387.03515625, 13.5703125);warpPedIntoVehicle(getPlayerFromName("zoli"), vehicle)
+[23-08-04 20:37:37] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: local vehicle = createVehicle(520, 1886.580078125, -1387.03515625, 13.5703125)
+[23-08-04 20:38:10] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib"))
+[23-08-04 20:38:18] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: local vehicle = createVehicle(520, 1886.580078125, -1387.03515625, 13.5703125); setElementDimension(vehicle, 2)
+[23-08-04 20:38:33] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: local vehicle = createVehicle(520, 1886.580078125, -1387.03515625, 13.5703125); setElementDimension(vehicle, 2)
+[23-08-04 20:38:56] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: local vehicle = createVehicle(520, 1886.580078125, -1387.03515625, 13.5703125);setElementDimension(vehicle, 2);warpPedIntoVehicle(getPlayerFromName("leevi"), vehicle)
+[23-08-04 20:39:14] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: local vehicle = createVehicle(520, 1870.71875, -1384.8671875, 13.525644302368);setElementDimension(vehicle, 2);warpPedIntoVehicle(getPlayerFromName("leevi"), vehicle)
+[23-08-04 21:13:53] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 21:14:17] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 21:15:34] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 21:15:50] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 21:37:11] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 21:38:58] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 21:39:26] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 21:41:58] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 21:43:00] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 21:51:31] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 21:56:50] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:00:19] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:00:37] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:00:59] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:01:29] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:02:23] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:04:50] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:08:49] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:12:50] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:13:23] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:13:46] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:16:37] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:17:08] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:17:22] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:19:23] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:19:44] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:20:29] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:20:42] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:22:07] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:24:01] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:24:50] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:28:46] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 22:41:49] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getPedModel(getPlayerFromName("AAron"))
+[23-08-04 22:41:53] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementModel(getPlayerFromName("AAron"))
+[23-08-04 23:00:50] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:02:40] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:03:28] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:06:16] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:07:08] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:07:52] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:08:03] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:08:39] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:09:30] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:10:14] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:12:03] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:13:16] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:14:07] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:14:32] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:15:17] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:16:04] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:16:27] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:17:01] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:18:16] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:22:59] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:23:32] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:26:31] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:26:44] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:27:07] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:27:21] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:28:06] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-04 23:31:22] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 23:31:36] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementInterior(getPlayerFromName("brownib"), 1)
+[23-08-04 23:32:32] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementDimension(getPlayerFromName("brownib"), 0)
+[23-08-04 23:32:33] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementDimension(getPlayerFromName("brownib"), 1)
+[23-08-04 23:32:35] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setElementDimension(getPlayerFromName("brownib"), 4)
+[23-08-04 23:35:43] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-04 23:35:55] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib"))
+[23-08-04 23:36:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib"))
+[23-08-04 23:51:41] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-04 23:51:48] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-04 23:51:54] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-04 23:51:54] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-04 23:52:01] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-04 23:52:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-04 23:52:18] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)  [DUP x2]
+[23-08-04 23:52:18] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)  [DUP x2]
+[23-08-04 23:52:21] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-04 23:52:23] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-04 23:52:32] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-04 23:52:33] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-04 23:52:37] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-04 23:52:43] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)  [DUP x2]
+[23-08-04 23:52:44] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-05 00:02:00] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib"))
+[23-08-05 00:02:01] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-05 00:03:17] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-05 00:14:07] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-05 00:14:08] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib"))
+[23-08-05 00:14:46] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("brownib"), "a.Gamemode")
+[23-08-05 00:16:47] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("brownib"), "a.Gamemode")
+[23-08-05 00:16:48] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib"))
+[23-08-05 00:16:50] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-05 00:17:14] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-05 00:17:15] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib"))
+[23-08-05 00:28:55] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib"))
+[23-08-05 00:28:56] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-05 09:41:35] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getVehicleModel(getPedOccupiedVehicle(getPlayerFromName("brownib")))
+[23-08-05 10:01:43] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: destroyElemet(getPedOccupiedVehicle(getPlayerFromName("brownib")))
+[23-08-05 10:01:46] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: destroyElement(getPedOccupiedVehicle(getPlayerFromName("brownib")))
+[23-08-05 10:01:52] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: destroyElement(getPedOccupiedVehicle(getPlayerFromName("brownib")))  [DUP x2]
+[23-08-05 10:02:15] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: destroyElement(getPedOccupiedVehicle(getPlayerFromName("brownib")))
+[23-08-05 10:03:29] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: destroyElement(getPedOccupiedVehicle(getPlayerFromName("brownib")))
+[23-08-05 10:30:15] a_core/runcode/codeServer.lua:149: [CRUN] brownibteszt executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-05 10:31:32] a_core/runcode/codeServer.lua:149: [CRUN] brownibteszt executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-05 11:52:10] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-05 11:54:28] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-05 12:08:36] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-05 12:24:39] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-05 14:17:10] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-05 14:17:49] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-05 14:20:20] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-05 14:33:51] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in pairs(getElementsByType("vehicle")) do destroyElement(v) end
+[23-08-05 15:20:56] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: toggleAllControl(getPlayerFromName("brownib"), true)(
+[23-08-05 15:20:57] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: toggleAllControl(getPlayerFromName("brownib"), true)
+[23-08-05 15:21:01] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: toggleAllControls(getPlayerFromName("brownib"), true)
+[23-08-05 15:35:14] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setVehicleModel(getPedOccupiedVehicle(getPlayerFromName("brownib")), 580)
+[23-08-05 15:52:57] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: getVehicleOccupants(getPedOccupiedVehicle(getPlayerFromName("brownib")), 580)
+[23-08-05 15:53:01] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: getVehicleOccupants(getPedOccupiedVehicle(getPlayerFromName("brownib")))
+[23-08-05 15:53:06] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getVehicleOccupants(getPedOccupiedVehicle(getPlayerFromName("brownib")))
+[23-08-05 16:09:36] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-05 16:27:07] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-05 18:02:52] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: for k,v in ipairs(getElementsByType("vehicle)) do local getVehicles = getVehicleOccupants(v) print(getVehicles) end
+[23-08-05 18:03:01] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: for k,v in ipairs(getElementsByType("vehicle)) do local getVehicles = getVehicleOccupants(v); print(getVehicles) end
+[23-08-05 18:03:20] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: for k,v in ipairs(getElementsByType("vehicle")) do local getVehicles = getVehicleOccupants(v); print(getVehicles) end
+[23-08-05 18:03:26] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: for k,v in ipairs(getElementsByType("vehicle")) do local getVehicles = getVehicleOccupants(v); print(getVehiclev) end
+[23-08-05 18:03:28] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: for k,v in ipairs(getElementsByType("vehicle")) do local getVehicles = getVehicleOccupants(v); print(v) end
+[23-08-05 18:03:34] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: for k,v in ipairs(getElementsByType("vehicle")) do local getVehicles = getVehicleOccupants(v); print(getVehiclev) end
+[23-08-05 18:03:36] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: for k,v in ipairs(getElementsByType("vehicle")) do local getVehicles = getVehicleOccupants(v); print(getVehicles) end
+[23-08-05 18:03:46] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: for k,v in ipairs(getElementsByType("vehicle")) do local getVehicles = getVehicleOccupants(v); print(tonumber(getVehicles)) end
+[23-08-05 18:03:52] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: for k,v in ipairs(getElementsByType("vehicle")) do local getVehicles = getVehicleOccupants(v); print(getVehicles) end
+[23-08-05 18:22:38] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in ipairs(getElementsByType("vehicle")) do end
+[23-08-05 18:22:47] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in ipairs(getElementsByType("vehicle")) do print(v) end
+[23-08-05 18:35:07] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: clearChatBox()
+[23-08-05 19:07:26] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-05 19:08:41] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-05 19:25:45] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: setElementInterior(me, 1)
+[23-08-05 22:04:05] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-05 22:04:09] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib"))
+[23-08-05 22:06:27] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementDimension(getPlayerFromName("brownib"))
+[23-08-05 22:06:28] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementInterior(getPlayerFromName("brownib"))
+[23-08-05 22:07:18] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: createObject(3643, 1879.1201171875, -1384.41796875, 13.573223114014)
+[23-08-05 22:07:46] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: object = createObject(3643, 1879.1201171875, -1384.41796875, 13.573223114014); setElementDimension(object, 2)
+[23-08-05 22:26:29] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: object = createObject(3643, 1883.4921875, -1385.568359375, 23.070316314697); setElementDimension(object, 2)
+[23-08-05 22:26:39] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: object = createObject(3674, 1883.4921875, -1385.568359375, 23.070316314697); setElementDimension(object, 2)
+[23-08-05 22:50:30] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementPosition(me, 1879.1201171875, -1384.41796875, 13.573223114014)
+[23-08-05 22:51:27] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: print("")
+[23-08-05 22:51:31] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: print("asd")
+[23-08-05 22:54:03] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("brownib"), "isInLobby")
+[23-08-06 00:02:32] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: obj = createObject(3674, 1808.783203125, -1406.650390625, 34.893341064453); setElementDimension(obj, 2)
+[23-08-06 00:12:07] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementPosition(me, 1877.861328125, -1367.0380859375, 14.640625)
+[23-08-06 00:12:19] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementPosition(me, 1877.861328125, -1367.0380859375, 14.640625)
+[23-08-06 00:12:23] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementPosition(me, 1877.861328125, -1367.0380859375, 14.640625)
+[23-08-06 00:12:29] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementPosition(me, 1877.861328125, -1367.0380859375, 14.640625)
+[23-08-06 00:13:52] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementPosition(me, 1774.8502197266, -1302.1939697266, 120.26425170898)
+[23-08-06 00:15:50] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementPosition(me, 1877.861328125, -1367.0380859375, 14.640625)
+[23-08-06 00:17:59] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementPosition(me, 12235.9580078125, 1677.66015625, 1008.359375)
+[23-08-06 00:18:05] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementPosition(me, 12235.9580078125, 1677.66015625, 1008.359375)  [DUP x2]
+[23-08-06 00:18:13] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementPosition(me, 12235.9580078125, 1677.66015625, 1008.359375)
+[23-08-06 00:18:26] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementPosition(me, 2235.9580078125, 1677.66015625, 1008.359375)
+[23-08-06 00:25:46] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementModel(getPlayerFromName("!michael."))
+[23-08-06 10:29:31] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-06 10:30:40] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-06 13:14:20] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib")), "a.Warns", 0)
+[23-08-06 13:16:47] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: clearChatBox()
+[23-08-06 13:16:50] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: clearChatbox()
+[23-08-06 13:26:00] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: exports.aAdmin:mutePlayer()
+[23-08-06 13:26:10] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: exports.aAdmin:mutePlayer(getPlayerFromName("brownib"))
+[23-08-06 13:26:25] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: exports.aAdmin:mutePlayer(getPlayerFromName("brownib"), "mute")
+[23-08-06 13:26:36] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: exports.aAdmin:mutePlayer(false, "mute")
+[23-08-06 13:26:41] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: exports.aAdmin:mutePlayer(false, "mute")
+[23-08-06 13:26:45] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: exports.aAdmin:mutePlayer(false, "mute")
+[23-08-06 13:26:48] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: exports.aAdmin:mutePlayer(getPlayerFromName("brownib"), "mute")
+[23-08-06 13:26:55] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: exports.aAdmin:mutePlayer(getPlayerFromName("brownib"), "mute")
+[23-08-06 13:26:55] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: exports.aAdmin:mutePlayer(getPlayerFromName("brownib"), "mute")
+[23-08-06 13:27:21] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: exports.aAdmin:mutePlayer(getPlayerFromName("brownib"), "mute", getPlayerFromName("brownib"), 30)
+[23-08-06 13:27:50] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: exports.aAdmin:mutePlayer(getPlayerFromName("brownib"), "mute", getPlayerFromName("brownib"), 30, "asd)
+[23-08-06 13:27:51] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: exports.aAdmin:mutePlayer(getPlayerFromName("brownib"), "mute", getPlayerFromName("brownib"), 30, "asd")
+[23-08-06 13:27:53] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: exports.aAdmin:mutePlayer(getPlayerFromName("brownib"), "mute", getPlayerFromName("brownib"), 30, "asd")
+[23-08-06 14:07:48] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-06 14:14:14] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: clearChatBox()
+[23-08-06 15:23:06] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 15:23:11] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 15:23:18] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 15:23:24] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 15:24:04] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 15:24:31] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 15:24:33] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 15:24:33] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 15:24:46] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 15:24:48] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 16:00:29] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setCameraGoggleEffect(getPlayerFromName("brownib"), "normal", true)
+[23-08-06 16:00:33] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setCameraGoggleEffect(getPlayerFromName("brownib"), "nightvision", true)
+[23-08-06 16:00:38] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setCameraGoggleEffect(getPlayerFromName("brownib"), "nightvision", true)
+[23-08-06 16:00:38] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setCameraGoggleEffect(getPlayerFromName("brownib"), "nightvision", false)
+[23-08-06 16:00:40] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setCameraGoggleEffect(getPlayerFromName("brownib"), "nightvision", true)
+[23-08-06 17:20:49] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: destroyElement(getPedOccupiedVehicle(getPlayerFromName("brownib")))
+[23-08-06 17:43:23] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 17:43:27] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 17:43:38] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 17:43:46] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 18:28:23] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 18:28:46] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: giveWeapon(getPlayerFromName("brownib"), 38, 9999)
+[23-08-06 18:28:50] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: givePedWeapon(getPlayerFromName("brownib"), 38, 9999)
+[23-08-06 18:28:56] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: givePedWeapon(getPlayerFromName("brownib"), 38, 9999)
+[23-08-06 18:28:58] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: giveWeapon(getPlayerFromName("brownib"), 38, 9999)
+[23-08-06 18:29:00] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: givePedWeapon(getPlayerFromName("brownib"), 38, 9999, true)
+[23-08-06 18:29:05] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: giveWeapon(getPlayerFromName("brownib"), 38, 9999, true)
+[23-08-06 18:29:18] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: toggleAllControls(getPlayerFromName("brownib"), true)
+[23-08-06 19:49:32] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.ClanSyntax", "AAA")
+[23-08-06 19:49:38] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.ClanSyntax", "AAA")
+[23-08-06 19:49:38] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.ClanSyntax", "AAA")
+[23-08-06 19:50:25] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.PlayerGroup", 1)
+[23-08-06 19:50:28] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.PlayerGroup", 1)
+[23-08-06 19:50:51] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.ClanSyntax", "AAA")
+[23-08-06 19:51:05] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.ClanHex", "#32b3ef")
+[23-08-06 19:51:17] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.ClanHex", "32b3ef")
+[23-08-06 19:51:27] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.ClanSyntax", "tesztklan")
+[23-08-06 19:52:25] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.ClanSyntax", "000000000000000000000000000000000000000000000000000000000000000000000000000000")
+[23-08-06 19:52:38] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.ClanSyntax", "")
+[23-08-06 19:53:12] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementData(getPlayerFromName("brownib"), "a.ClanSyntax", "alphaGames")
+[23-08-06 19:53:37] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 20:13:06] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 20:13:07] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 20:13:29] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 20:24:49] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 20:25:31] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 20:25:37] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 20:25:37] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 20:40:27] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 20:40:29] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 20:40:35] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)  [DUP x2]
+[23-08-06 20:40:35] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)  [DUP x2]
+[23-08-06 20:40:35] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 20:41:17] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 20:41:19] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 20:41:25] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 20:45:10] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 20:45:14] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 20:55:56] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementHealth(getPlayerFromName("ROli."), "a.ClanSyntax", "alphaGames")
+[23-08-06 20:56:04] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: setElementHealth(getPlayerFromName("Roli."), 0)
+[23-08-06 20:58:54] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 20:58:57] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 21:02:57] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 21:02:57] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 21:04:30] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 21:04:33] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 21:04:38] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 21:04:44] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 21:04:44] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", true)
+[23-08-06 21:04:45] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: setWorldSpecialPropertyEnabled("aircars", false)
+[23-08-06 21:24:20] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-06 21:25:15] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-06 21:25:51] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-06 21:26:39] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-06 22:01:08] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Ily"), "a.Gamemode")
+[23-08-06 22:01:32] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Ily"), "a.Invulnerable")
+[23-08-06 22:01:36] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Ily"), "a.Invulnerable2")
+[23-08-06 22:01:45] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "a.Invulnerable")
+[23-08-06 22:01:48] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "nvulnerable")
+[23-08-06 22:01:50] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "invulnerable")
+[23-08-06 22:01:51] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "a.invulnerable")
+[23-08-06 22:02:53] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getAllElementData(getPlayerFromName("Roli."))
+[23-08-06 22:03:03] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: asd = getAllElementData(getPlayerFromName("Roli.")) print(asd)
+[23-08-06 22:03:09] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: asd = getAllElementData(getPlayerFromName("Roli.")) print(asd)
+[23-08-06 22:03:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: asd = getAllElementData(getPlayerFromName("Roli.")) print(unpack(asd))
+[23-08-06 22:04:57] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: clearConsole()
+[23-08-06 22:05:00] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: clearConsole
+[23-08-06 22:05:08] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: clearChatBox
+[23-08-06 22:05:09] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: clearChatBox()
+[23-08-06 22:06:23] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "isInLobby")
+[23-08-06 22:07:02] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "isInLobby")
+[23-08-06 22:07:08] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "isInLobby")
+[23-08-06 22:08:12] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "isInLobby")
+[23-08-06 22:08:21] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Ily"), "isInLobby")
+[23-08-06 22:09:32] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Ily"), "a.Protected")
+[23-08-06 22:09:38] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Ily"), "a.Protected")  [DUP x2]
+[23-08-06 22:09:39] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Ily"), "a.Protected")
+[23-08-06 22:09:43] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Ily"), "a.Protected")
+[23-08-06 22:09:43] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "a.Protected")
+[23-08-06 22:09:49] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "a.Protected")  [DUP x4]
+[23-08-06 22:09:49] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "a.Protected")
+[23-08-06 22:09:55] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "a.Protected")  [DUP x2]
+[23-08-06 22:10:25] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "a.Protected")
+[23-08-06 22:10:31] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "a.Protected")
+[23-08-06 22:10:31] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "a.Protected")
+[23-08-06 22:10:37] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("Roli."), "a.Protected")  [DUP x3]
+[23-08-06 22:13:42] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in ipairs(getElementsByType("player")) do setElementData(v, "isInLobby", true) end
+[23-08-06 22:14:03] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in ipairs(getElementsByType("player")) do setElementData(v, "a.Gamemode", 0) end
+[23-08-06 22:14:11] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in ipairs(getElementsByType("player")) do setElementData(v, "a.Gamemode", 1) end
+[23-08-06 22:14:13] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in ipairs(getElementsByType("player")) do setElementData(v, "a.Gamemode", 2) end
+[23-08-06 22:14:20] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in ipairs(getElementsByType("player")) do setElementData(v, "a.Gamemode", 0) end
+[23-08-06 22:14:22] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in ipairs(getElementsByType("player")) do setElementData(v, "a.Gamemode", nil) end
+[23-08-06 22:30:46] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("brownib"), "a.Gamemode2)
+[23-08-06 22:30:48] a_core/runcode/codeServer.lua:149: [CRUN] brownib executed: getElementData(getPlayerFromName("brownib"), "a.Gamemode")
+[23-08-07 02:59:10] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-07 03:13:13] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: getElementData(me, "a.Premiumpont")
+[23-08-07 03:13:19] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: getElementData(me, "a.Premiumpont")
+[23-08-07 03:13:22] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: getElementData(me, "a.Premiumpont")
+[23-08-07 03:13:27] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: getElementData(me, "a.Premiumpoint")
+[23-08-07 03:13:43] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: getElementData(me, "a.Premiumpoint")
+[23-08-07 03:13:48] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: getElementData(me, "a.Premiumpont")
+[23-08-07 03:29:56] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-07 03:34:14] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: iprint("fasz")
+[23-08-07 06:15:04] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-07 06:26:06] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-07 06:27:53] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-07 06:29:55] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-07 06:33:43] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-07 10:30:04] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-07 10:45:07] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-07 10:45:57] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-07 10:46:22] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-07 10:48:17] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-07 10:56:11] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-07 10:56:45] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-07 11:23:23] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in ipairs(getElementsByType("palyer")) do exports.a_inventory:giveItem(v, 58, 5, false, false, false, false, "faszhuszar.net", false) end
+[23-08-07 11:23:32] a_core/runcode/codeServer.lua:69: [SRUN] brownib executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 58, 5, false, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:50:38] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: exports.a_inventory
+[23-08-07 19:51:00] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: exports.a_inventory:giveItem(getPlayerFromName("[emp]fejes"), 42, 9999, false, false, false, "faszhuszar.net", false)
+[23-08-07 19:51:08] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: exports.a_inventory:giveItem(getPlayerFromName("[emp]fejes"), 55, 9999, false, false, false, "faszhuszar.net", false)
+[23-08-07 19:51:20] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: exports.a_inventory:giveItem(getPlayerFromName("[emp]fejes"), 56, 9999, false, false, false, "faszhuszar.net", false)
+[23-08-07 19:51:23] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: exports.a_inventory:giveItem(getPlayerFromName("[emp]fejes"), 57, 9999, false, false, false, "faszhuszar.net", false)
+[23-08-07 19:51:25] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: exports.a_inventory:giveItem(getPlayerFromName("[emp]fejes"), 54, 9999, false, false, false, "faszhuszar.net", false)
+[23-08-07 19:52:42] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(getPlayerFromName(v, 42, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:52:48] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(getPlayerFromName(v, 42, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:52:50] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(getPlayerFromName(v, 42, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:52:56] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(getPlayerFromName(v, 42, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:52:57] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(getPlayerFromName(v, 42, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:53:03] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(getPlayerFromName(v, 42, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:53:04] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(getPlayerFromName(v, 54, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:53:11] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 42, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:53:15] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 42, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:53:18] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 42, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:53:21] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 42, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:53:24] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 54, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:53:28] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 54, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:53:31] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 54, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:53:34] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 54, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:53:37] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 55, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:53:41] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 55, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:53:44] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 55, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:53:47] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 55, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:53:50] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 55, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:53:54] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 56, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:53:57] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 56, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:54:00] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 56, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:54:03] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 56, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:54:06] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 56, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:54:09] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 53, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:54:13] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 53, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:54:16] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 53, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:54:19] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 53, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:54:22] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 53, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:54:26] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 54, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:54:29] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 54, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:54:32] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 54, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:54:35] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 54, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:54:38] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do exports.a_inventory:giveItem(v, 54, 99999, false, false, false, "faszhuszar.net", false) end
+[23-08-07 19:54:40] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do setElementData(v, "a.Premiumpoints", 9999999999) end
+[23-08-07 19:54:43] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do setElementData(v, "a.premiumPoints", 9999999999) end
+[23-08-07 19:54:45] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do setElementData(v, "a.Premium", 9999999999) end
+[23-08-07 19:54:47] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do setElementData(v, "a.Premiumpoint", 9999999999) end
+[23-08-07 19:55:02] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do setElementData(v, "a.Premiumpont", 9999999999) end
+[23-08-07 19:55:13] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do setElementData(v, "a.Premiumpont", 9999999999) end
+[23-08-07 19:55:21] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do setElementData(v, "a.Premiumpont", 9999999999) end
+[23-08-07 19:55:23] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do setElementData(v, "a.Premiumpont", 999999999999) end
+[23-08-07 19:55:27] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do setElementData(v, "a.Money", 999999999999) end
+[23-08-07 19:55:33] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: for k, v in ipairs(getElementsByType("player")) do setElementData(v, "adminLevel", 8) end
+[23-08-07 21:10:48] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: banPlayer(getPlayerFromName("PoisedVegetables94"))
+[23-08-07 21:13:35] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: banPlayer(getPlayerFromName("FruitKiller4531"))
+[23-08-07 21:14:38] a_core/runcode/codeServer.lua:69: [SRUN] dezsobence executed: addBan(false, false, 3D82FF283A595A642B458F2967567EB4, me, "anyad halott", 0)
+[23-08-07 23:39:20] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: banPlayer(getPlayerFromName("[hP]toby'L]"))
+[23-08-07 23:40:18] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: banPlayer(getPlayerFromName("[[hP]kezly]"))
+[23-08-07 23:43:44] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: banPlayer(getPlayerFromName("Knew"))
+[23-08-07 23:44:57] a_core/runcode/codeServer.lua:69: [SRUN] Console executed: banPlayer(getPlayerFromName("[gK]Picsa"))
+[23-08-11 04:25:38] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-11 04:26:57] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-13 06:04:45] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: setElementData(me, "typing", true)
+[23-08-13 06:04:51] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: setElementData(me, "typing", true)  [DUP x3]
+[23-08-13 06:09:52] a_core/runcode/codeServer.lua:149: [CRUN] !michael. executed: setElementData(me, "typing", false)
+[23-08-14 00:20:53] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementData(getPlayerFromName("!michael."), "a.Premiumpont", 20000)
+[23-08-14 00:21:03] a_core/runcode/codeServer.lua:69: [SRUN] !michael. executed: setElementData(getPlayerFromName("!michael."), "a.Premiumpont", 25000)
+[23-08-16 00:05:41] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-16 00:08:41] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-16 00:12:48] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-16 01:51:00] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-16 04:55:44] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-16 05:01:26] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-22 03:30:14] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-22 03:31:00] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-22 03:35:31] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-22 03:37:22] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-22 03:38:14] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-23 02:45:08] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-08-23 12:36:55] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-05 23:26:50] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-08 23:08:12] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-14 19:50:44] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-15 23:08:14] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-15 23:11:04] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-15 23:14:42] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-15 23:21:56] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-16 00:29:20] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-16 00:32:46] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-19 11:47:59] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-19 11:57:17] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-19 11:57:23] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-19 11:58:56] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-19 12:09:02] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-19 22:33:33] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-19 22:36:20] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-19 22:36:55] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-22 21:26:45] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-22 21:27:31] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-23 19:27:00] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-23 19:28:08] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-30 11:12:36] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-10-30 11:17:00] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-11-04 11:23:30] [DGS Security] Abnormal Detected at 'plugin/BasicShape/circle.fx' of player 'atex'
+[23-11-04 17:53:57] [brownib]/a_inventory/sourceS.lua:13: MySQL connection was succesful.
+[23-11-07 17:56:25] [DGS Security] Abnormal Detected at 'html/media.html' of player 'viktor'
+[23-11-07 17:57:25] [DGS Security] Abnormal Detected at 'html/media.html' of player 'viktor'

@@ -1,0 +1,7 @@
+<meta>
+    <script src="codeServer.lua" type="server"/>
+    <script src="codeClient.lua" type="client" cache="false"/>
+
+    <export function="createDCLog" type="shared" />
+    <min_mta_version server="1.5.4-9.11413" client="1.5.4-9.11413" />
+</meta>

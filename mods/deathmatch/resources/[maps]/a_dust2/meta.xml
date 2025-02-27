@@ -1,0 +1,12 @@
+<meta>
+
+    <map src="sth-dust2.map" dimension="0" />
+
+    <file src="dust2.col" />
+    <file src="dust2.txd" />
+    <file src="dust2.dff" />
+
+    <script src="replacing.lua" type="client" cache="false" />
+    <script src="replacing2.lua" type="server" />
+
+</meta>

@@ -1,0 +1,45 @@
+<map edf:definitions="stealth,editor_main">
+    <camera posX="140.746185" posY="2572.062988" posZ="212.423172" targetX="86.985321" targetY="2489.713379" targetZ="194.303513"/>
+    <object id="object (CE_farmland03) (1)" model="13051" interior="0" dimension="0" posX="99.097023010254" posY="2490.6818847656" posZ="206.07730102539" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (garages1_LAn) (1)" model="4199" interior="0" dimension="0" posX="105.69081115723" posY="2553.0236816406" posZ="200.44638061523" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (1)" interior="0" posX="105.69278717041" posY="2547.099609375" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (2)" interior="0" posX="107.84146118164" posY="2547.0869140625" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (3)" interior="0" posX="109.50649261475" posY="2547.0776367188" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (4)" interior="0" posX="104.41329956055" posY="2547.7939453125" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (5)" interior="0" posX="106.67432403564" posY="2547.7978515625" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (6)" interior="0" posX="108.68215942383" posY="2547.7727050781" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (7)" interior="0" posX="109.78089904785" posY="2548.5910644531" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (8)" interior="0" posX="107.97149658203" posY="2548.6379394531" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (9)" interior="0" posX="105.39019012451" posY="2548.8032226563" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (10)" interior="0" posX="103.81525421143" posY="2550.1477050781" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (11)" interior="0" posX="106.59055328369" posY="2549.83203125" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (12)" interior="0" posX="108.72080993652" posY="2549.4995117188" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (13)" interior="0" posX="110.44735717773" posY="2549.6166992188" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (14)" interior="0" posX="109.17288970947" posY="2550.6137695313" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (15)" interior="0" posX="107.48947143555" posY="2550.6123046875" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (16)" interior="0" posX="105.33264923096" posY="2550.9848632813" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (17)" interior="0" posX="104.86367034912" posY="2552.3347167969" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (18)" interior="0" posX="107.33609771729" posY="2552.0378417969" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (19)" interior="0" posX="109.62533569336" posY="2551.4716796875" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <spyspawn id="spyspawn (20)" interior="0" posX="107.9547958374" posY="2553.064453125" posZ="204.35983276367" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (garages1_LAn) (2)" model="4199" interior="0" dimension="0" posX="76.437057495117" posY="2465.3120117188" posZ="207.36373901367" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (1)" interior="0" posX="77.392570495605" posY="2467.654296875" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (2)" interior="0" posX="78.734146118164" posY="2467.6784667969" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (3)" interior="0" posX="79.912208557129" posY="2467.7177734375" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (4)" interior="0" posX="80.972816467285" posY="2467.6791992188" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (5)" interior="0" posX="76.244293212891" posY="2468.4709472656" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (6)" interior="0" posX="77.640411376953" posY="2468.5590820313" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (7)" interior="0" posX="78.973587036133" posY="2468.6218261719" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (8)" interior="0" posX="80.141586303711" posY="2468.5954589844" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (9)" interior="0" posX="81.268112182617" posY="2468.6674804688" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (10)" interior="0" posX="76.04842376709" posY="2469.5717773438" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (11)" interior="0" posX="77.592292785645" posY="2469.595703125" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (12)" interior="0" posX="78.703010559082" posY="2469.6574707031" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (13)" interior="0" posX="79.864891052246" posY="2469.623046875" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (14)" interior="0" posX="80.83780670166" posY="2469.7487792969" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (15)" interior="0" posX="76.301826477051" posY="2470.7016601563" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (16)" interior="0" posX="77.720878601074" posY="2470.6437988281" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (17)" interior="0" posX="78.816764831543" posY="2470.6401367188" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (18)" interior="0" posX="80.141754150391" posY="2470.6843261719" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+    <mercenaryspawn id="mercenaryspawn (19)" interior="0" posX="81.215324401855" posY="2470.7734375" posZ="211.37718200684" rotX="0" rotY="0" rotZ="0" />
+</map>

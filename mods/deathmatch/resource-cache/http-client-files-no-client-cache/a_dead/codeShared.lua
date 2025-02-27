@@ -1,0 +1,1 @@
+deathTime = 1000*5 -- 5 sec

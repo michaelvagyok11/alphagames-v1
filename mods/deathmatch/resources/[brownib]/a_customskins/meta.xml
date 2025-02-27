@@ -1,0 +1,29 @@
+<meta>
+    
+    <script src="sourceC.lua" type="client" cache="false" />
+    <script src="sourceS.lua" type="server" />
+    
+    <min_mta_version server="1.3.4-0.00000" client="1.5.6-9.18728"></min_mta_version>
+
+    <file src="mods/180.txd" />
+    <file src="mods/180.alphaGames" />
+
+    <file src="mods/279.txd" />
+    <file src="mods/279.alphaGames" />
+
+    <file src="mods/291.txd" />
+    <file src="mods/291.alphaGames" />
+
+    <file src="mods/292.txd" />
+    <file src="mods/292.alphaGames" />
+
+    <file src="mods/293.txd" />
+    <file src="mods/293.alphaGames" />
+
+    <file src="mods/120.txd" />
+    <file src="mods/120.alphaGames" />
+
+    <file src="mods/121.txd" />
+    <file src="mods/121.alphaGames" />
+
+</meta>

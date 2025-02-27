@@ -1,0 +1,6 @@
+﻿txd = engineLoadTXD ( "xmastree.txd" )
+engineImportTXD ( txd, 2267 )
+dff = engineLoadDFF ( "xmastree.dff" )
+engineReplaceModel ( dff, 2267 )
+engineSetModelLODDistance(2267, 500)
+setOcclusionsEnabled(false)

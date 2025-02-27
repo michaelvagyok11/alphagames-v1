@@ -1,0 +1,36 @@
+accessibleVehs = { --** MODEL ID, NAME, PRICE TO UNLOCK
+    {445, "BMW M5 E60", 1500},
+    {602, "Nissan 240SX", 2500},
+    {562, "Nissan Skyline R33", 4000},
+    {411, "Ford GT", 8000},
+    {559, "Chevrolet Corvette C8", 6000},
+    {540, "Subaru Impreza", 7500},
+    {480, "BMW M4", 10000},
+    {542, "Toyota Corolla AE86", 12000},
+    {421, "Mercedes-Benz C63", 10000},
+    {559, "Toyota Supra", 15000},
+    {560, "Mitsubishi EVO X", 13000},
+    {558, "BMW M3 E46", 14000},
+    {405, "Audi RS3", 15000},
+    {566, "BMW M5 F10", 20000},
+
+    -- ** Új járművek ** --
+
+    {579, "Mercedes-Benz G-Class W463", 10000},
+    {547, "Mercedes-Benz GT 63 S", 8000},
+    {549, "BMW M8 Competition", 6000},
+    {466, "Alfa Romeo Giulia", 8000},
+
+    {604, "Audi A8 D4", 5000},
+    {496, "Volkswagen Golf VII", 8000},
+    {401, "Ford Focus RS Mk2", 6000},
+    {541, "Chevrolet Camaro ZL1", 8000},
+    {507, "Mercedes Benz W220", 5000},
+    {587, "Nissan GT-R", 8000},
+    {505, "Audi Q7 Mk1", 5000},
+    {479, "Mercedes Benz 190E", 5000},
+    {580, "BMW 7 Series e65", 5000},
+    {451, "Lamborghini Huracán", 8000},
+    {550, "Mercedes-Benz S-Class W223", 25000},
+    {551, "BMW M5 F90", 25000},
+}

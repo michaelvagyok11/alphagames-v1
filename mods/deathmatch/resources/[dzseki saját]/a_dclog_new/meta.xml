@@ -1,0 +1,9 @@
+<meta>
+    
+    <min_mta_version client="1.5.9" server="1.5.9" />
+    
+    <script src="webhookS.lua" />
+    
+    <export function="sendDiscordMessage" type="shared" />
+    
+</meta>

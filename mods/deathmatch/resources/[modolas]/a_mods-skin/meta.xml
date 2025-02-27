@@ -1,0 +1,310 @@
+<meta>
+    <script src="codeClient.lua" type="client" cache="false"/>
+    <script src="codeShared.lua" type="shared" cache="false"/>
+    <script src="codeServer.lua" type="server"  />  
+
+    <file src="mods/men/1.txd" />
+    <file src="mods/men/1.dff" />
+
+    <file src="mods/men/misi.txd" />
+    <file src="mods/men/misi.dff" />
+
+    <file src="mods/men/misi2.txd" />
+    <file src="mods/men/misi2.dff" />
+
+    <file src="mods/men/8.txd" />
+    <file src="mods/men/8.dff" />
+
+    <file src="mods/men/12.txd" />
+    <file src="mods/men/12.dff" />
+    
+    <file src="mods/men/14.txd" />
+    <file src="mods/men/14.dff" />
+
+    <file src="mods/men/15.txd" />
+    <file src="mods/men/15.dff" />
+    
+    <file src="mods/men/16.txd" />
+    <file src="mods/men/16.dff" />
+
+    <file src="mods/men/147.txd" />
+    <file src="mods/men/147.dff" />
+
+    <file src="mods/men/153.txd" />
+    <file src="mods/men/153.dff" />
+
+    <file src="mods/men/159.txd" />
+    <file src="mods/men/159.dff" />
+
+    <file src="mods/men/17.txd" />
+    <file src="mods/men/17.dff" />
+    
+    <file src="mods/men/18.txd" />
+    <file src="mods/men/18.dff" />
+    
+    <file src="mods/men/20.txd" />
+    <file src="mods/men/20.dff" />
+    
+    <file src="mods/men/21.txd" />
+    <file src="mods/men/21.dff" />
+
+    <file src="mods/men/22.txd" />
+    <file src="mods/men/22.dff" />
+
+    <file src="mods/men/23.txd" />
+    <file src="mods/men/23.dff" />
+    
+    <file src="mods/men/24.txd" />
+    <file src="mods/men/24.dff" />
+    
+    <file src="mods/men/27.txd" />
+    <file src="mods/men/27.dff" />
+    
+    <file src="mods/men/28.txd" />
+    <file src="mods/men/28.dff" />
+
+    <file src="mods/men/29.txd" />
+    <file src="mods/men/29.dff" />
+
+    <file src="mods/men/30.txd" />
+    <file src="mods/men/30.dff" />
+
+    <file src="mods/men/31.txd" />
+    <file src="mods/men/31.dff" />
+    
+    <file src="mods/men/32.txd" />
+    <file src="mods/men/32.dff" />
+    
+    <file src="mods/men/33.txd" />
+    <file src="mods/men/33.dff" />
+    
+    <file src="mods/men/34.txd" />
+    <file src="mods/men/34.dff" />
+    
+    <file src="mods/men/35.txd" />
+    <file src="mods/men/35.dff" />
+    
+    <file src="mods/men/37.txd" />
+    <file src="mods/men/37.dff" />
+    
+    <file src="mods/men/38.txd" />
+    <file src="mods/men/38.dff" />
+    
+    <file src="mods/men/39.txd" />
+    <file src="mods/men/39.dff" />
+    
+    <file src="mods/men/40.txd" />
+    <file src="mods/men/40.dff" />
+    
+    <file src="mods/men/41.txd" />
+    <file src="mods/men/41.dff" />
+    
+
+    <file src="mods/men/43.txd" />
+    <file src="mods/men/43.dff" />
+
+    <file src="mods/men/44.txd" />
+    <file src="mods/men/44.dff" />
+    
+    <file src="mods/men/46.txd" />
+    <file src="mods/men/46.dff" />
+
+    <file src="mods/men/47.txd" />
+    <file src="mods/men/47.dff" />
+
+    <file src="mods/men/49.txd" />
+    <file src="mods/men/49.dff" />
+
+    <file src="mods/men/50.txd" />
+    <file src="mods/men/50.dff" />
+
+    <file src="mods/men/51.txd" />
+    <file src="mods/men/51.dff" />
+    
+    <file src="mods/men/52.txd" />
+    <file src="mods/men/52.dff" />
+
+    <file src="mods/men/53.txd" />
+    <file src="mods/men/53.dff" />
+
+    <file src="mods/men/54.txd" />
+    <file src="mods/men/54.dff" />
+
+    <file src="mods/men/55.txd" />
+    <file src="mods/men/55.dff" />
+
+    <file src="mods/men/56.txd" />
+    <file src="mods/men/56.dff" />
+
+    <file src="mods/men/57.txd" />
+    <file src="mods/men/57.dff" />
+
+    <file src="mods/men/58.txd" />
+    <file src="mods/men/58.dff" />
+
+    <file src="mods/men/59.txd" />
+    <file src="mods/men/59.dff" />
+
+    <file src="mods/men/60.txd" />
+    <file src="mods/men/60.dff" />
+
+    <file src="mods/men/61.txd" />
+    <file src="mods/men/61.dff" />
+
+    <file src="mods/men/62.txd" />
+    <file src="mods/men/62.dff" />
+
+    <file src="mods/men/63.txd" />
+    <file src="mods/men/63.dff" />
+
+    <file src="mods/men/64.txd" />
+    <file src="mods/men/64.dff" />
+
+    <file src="mods/men/66.txd" />
+    <file src="mods/men/66.dff" />
+
+    <file src="mods/men/67.txd" />
+    <file src="mods/men/67.dff" />
+
+    <file src="mods/men/69.txd" />
+    <file src="mods/men/69.dff" />
+
+    <file src="mods/men/70.txd" />
+    <file src="mods/men/70.dff" />
+
+    <file src="mods/men/71.txd" />
+    <file src="mods/men/71.dff" />
+
+    <file src="mods/men/72.txd" />
+    <file src="mods/men/72.dff" />
+
+    <file src="mods/men/73.txd" />
+    <file src="mods/men/73.dff" />
+
+    <file src="mods/men/75.txd" />
+    <file src="mods/men/75.dff" />
+
+    <file src="mods/men/76.txd" />
+    <file src="mods/men/76.dff" />
+
+    <file src="mods/men/77.txd" />
+    <file src="mods/men/77.dff" />
+
+    <file src="mods/men/78.txd" />
+    <file src="mods/men/78.dff" />
+
+    <file src="mods/women/11.txd" />
+    <file src="mods/women/11.dff" />
+
+    <file src="mods/women/13.txd" />
+    <file src="mods/women/13.dff" />
+
+    <file src="mods/women/19.txd" />
+    <file src="mods/women/19.dff" />
+
+    <file src="mods/women/25.txd" />
+    <file src="mods/women/25.dff" />
+
+    <file src="mods/women/26.txd" />
+    <file src="mods/women/26.dff" />
+
+    <file src="mods/women/36.txd" />
+    <file src="mods/women/36.dff" />
+
+    <file src="mods/women/45.txd" />
+    <file src="mods/women/45.dff" />
+
+    <file src="mods/women/48.txd" />
+    <file src="mods/women/48.dff" />
+
+    <file src="mods/women/68.txd" />
+    <file src="mods/women/68.dff" />
+
+    <file src="mods/women/79.txd" />
+    <file src="mods/women/79.dff" />
+
+    <file src="mods/men/79.txd" />
+    <file src="mods/men/79.dff" />
+
+    <file src="mods/men/80.txd" />
+    <file src="mods/men/80.dff" />
+
+    <file src="mods/men/81.txd" />
+    <file src="mods/men/81.dff" />
+
+    <file src="mods/men/82.txd" />
+    <file src="mods/men/82.dff" />
+
+    <file src="mods/men/83.txd" />
+    <file src="mods/men/83.dff" />
+
+    <file src="mods/men/84.txd" />
+    <file src="mods/men/84.dff" />
+
+    <file src="mods/men/85.txd" />
+    <file src="mods/men/85.dff" />
+
+    <file src="mods/men/87.txd" />
+    <file src="mods/men/87.dff" />
+
+    <file src="mods/men/88.txd" />
+    <file src="mods/men/88.dff" />
+
+    <file src="mods/men/89.txd" />
+    <file src="mods/men/89.dff" />
+
+    <file src="mods/men/90.txd" />
+    <file src="mods/men/90.dff" />
+
+    <file src="mods/men/91.txd" />
+    <file src="mods/men/91.dff" />
+
+    <file src="mods/men/92.txd" />
+    <file src="mods/men/92.dff" />
+
+    <file src="mods/men/93.txd" />
+    <file src="mods/men/93.dff" />
+
+    <file src="mods/men/94.txd" />
+    <file src="mods/men/94.dff" />
+
+    <file src="mods/men/95.txd" />
+    <file src="mods/men/95.dff" />
+
+    <file src="mods/men/96.txd" />
+    <file src="mods/men/96.dff" />
+
+    <file src="mods/men/300.txd" />
+    <file src="mods/men/300.dff" />
+
+    <file src="mods/men/301.txd" />
+    <file src="mods/men/301.dff" />
+
+    <file src="mods/men/303.txd" />
+    <file src="mods/men/303.dff" />
+
+    <file src="mods/women/roli.txd" />
+    <file src="mods/women/roli.dff" />
+
+    <file src="mods/women/198.txd" />
+    <file src="mods/women/198.dff" />
+
+    <file src="mods/women/199.txd" />
+    <file src="mods/women/199.dff" />
+
+    <file src="mods/men/drew.txd" />
+    <file src="mods/men/drew.dff" />
+
+    <file src="mods/men/105.txd" />
+    <file src="mods/men/105.dff" />
+
+    <file src="mods/men/106.txd" />
+    <file src="mods/men/106.dff" />
+    
+    <file src="mods/men/304.txd" />
+    <file src="mods/men/304.dff" />
+
+    <file src="mods/men/305.txd" />
+    <file src="mods/men/305.dff" />
+
+</meta>

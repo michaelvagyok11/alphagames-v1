@@ -1,0 +1,19 @@
+<meta>
+    <script src="codeClient.lua" type="client" cache="false" />
+    <script src="codeServer.lua" type="server" />
+    <script src="codeShared.lua" type="shared" cache="false"/>
+    
+    <export function="getTipTable" type="shared" />
+
+    <file src="files/fonts/Roboto-Condensed.otf" />
+    <file src="files/fonts/Roboto-BoldCondensed.otf" />
+
+    <file src="files/icons/logo.png" />
+    <file src="files/icons/mark.png" />
+
+    <file src="files/icons/coins/putincoin.png" />
+    <file src="files/icons/coins/zelenskycoin.png" />
+
+    <file src="files/sounds/alert.mp3" />
+    <file src="files/sounds/firework.mp3" />
+</meta>

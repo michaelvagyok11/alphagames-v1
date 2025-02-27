@@ -1,0 +1,10 @@
+<meta>
+    <script src="sourceC.lua" type="client" cache="false" />
+    <script src="sourceG.lua" type="shared" cache="false" />
+    <script src="sourceS.lua" type="server" />
+
+    <file src="files/Poppins-Light.ttf" />
+	<file src="files/Poppins-Regular.ttf" />
+	<file src="files/Poppins-SemiBold.ttf" />
+
+</meta>

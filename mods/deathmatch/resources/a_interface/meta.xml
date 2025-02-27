@@ -1,0 +1,81 @@
+<meta>
+    <script src="hud/codeClient.lua" type="client" cache="false" />
+    
+    <!-- <script src="score/codeClient.lua" type="client" cache="false" /> -->
+
+    <script src="infobox/codeClient.lua" type="client" cache="false" />
+    <script src="infobox/codeServer.lua" type="server" />
+
+
+    <script src="level/codeServer.lua" type="server" />
+
+    <file src="files/fonts/Roboto-Condensed.ttf" />
+    <file src="files/fonts/Roboto-BoldCondensed.ttf" />
+    <file src="files/fonts/Roboto-Thin.ttf" />
+    <file src="files/Roboto-Condensed.otf" />
+    <file src="files/circle.fx" />
+
+    <file src="files/icons/health.png" />
+    <file src="files/icons/shield.png" />
+    <file src="files/icons/xp.png" />
+    <file src="files/icons/logo.png" />
+    <file src="files/icons/head.png" />
+
+    <file src="files/icons/infobox/success.png" />
+    <file src="files/icons/infobox/error.png" />
+    <file src="files/icons/infobox/info.png" />
+    <file src="files/icons/infobox/warning.png" />
+
+    <file src="files/sounds/success.mp3" />
+    <file src="files/sounds/error.mp3" />
+    <file src="files/sounds/info.mp3" />
+    <file src="files/sounds/warning.mp3" />
+
+    <export function="makeNotification" type="shared" />
+    <export function="giveExperience" type="server" />
+
+    <file src="files/weapons/0.png" />
+    <file src="files/weapons/1.png" />
+    <file src="files/weapons/2.png" />
+    <file src="files/weapons/3.png" />
+    <file src="files/weapons/4.png" />
+    <file src="files/weapons/5.png" />
+    <file src="files/weapons/6.png" />
+    <file src="files/weapons/7.png" />
+    <file src="files/weapons/8.png" />
+    <file src="files/weapons/9.png" />
+    <file src="files/weapons/10.png" />
+    <file src="files/weapons/11.png" />
+    <file src="files/weapons/12.png" />
+    <file src="files/weapons/13.png" />
+    <file src="files/weapons/14.png" />
+    <file src="files/weapons/15.png" />
+    <file src="files/weapons/16.png" />
+    <file src="files/weapons/17.png" />
+    <file src="files/weapons/18.png" />
+    <file src="files/weapons/22.png" />
+    <file src="files/weapons/23.png" />
+    <file src="files/weapons/24.png" />
+    <file src="files/weapons/25.png" />
+    <file src="files/weapons/26.png" />
+    <file src="files/weapons/27.png" />
+    <file src="files/weapons/28.png" />
+    <file src="files/weapons/29.png" />
+    <file src="files/weapons/30.png" />
+    <file src="files/weapons/31.png" />
+    <file src="files/weapons/32.png" />
+    <file src="files/weapons/33.png" />
+    <file src="files/weapons/34.png" />
+    <file src="files/weapons/35.png" />
+    <file src="files/weapons/36.png" />
+    <file src="files/weapons/37.png" />
+    <file src="files/weapons/38.png" />
+    <file src="files/weapons/39.png" />
+    <file src="files/weapons/40.png" />
+    <file src="files/weapons/41.png" />
+    <file src="files/weapons/42.png" />
+    <file src="files/weapons/43.png" />
+    <file src="files/weapons/44.png" />
+    <file src="files/weapons/45.png" />
+    <file src="files/weapons/46.png" />
+</meta>

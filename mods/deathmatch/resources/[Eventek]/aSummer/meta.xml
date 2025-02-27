@@ -1,0 +1,37 @@
+<Meta>
+    <min_mta_version client="1.5.9" server="1.5.9" />
+    
+    <script type="shared" cache="false" src="sourceG.lua" />
+    <script type="client" cache="false" src="sourceC.lua" />
+    
+    <export type="client" function="tryToStartSummerOpening" />
+    
+    <file src="files/BebasNeueRegular.otf" />
+    
+    <file src="files/1.png" />
+    <file src="files/2.png" />
+    <file src="files/3.png" />
+    <file src="files/4.png" />
+    <file src="files/bg.png" />
+    <file src="files/ear.png" />
+    <file src="files/body.png" />
+    <file src="files/eye.png" />
+    <file src="files/eyebg.png" />
+    <file src="files/eyeshut.png" />
+    <file src="files/head.png" />
+    <file src="files/ibg.png" />
+    <file src="files/itemHover.png" />
+    <file src="files/mouth.png" />
+    <file src="files/mouth2.png" />
+    <file src="files/shadow_body.png" />
+    <file src="files/shadow_ear.png" />
+    <file src="files/shadow_head.png" />
+    <file src="files/win.png" />
+    <file src="files/zzz.png" />
+    
+    <file src="files/music.mp3" />
+    <file src="files/music2.mp3" />
+    <file src="files/snore.mp3" />
+    <file src="files/spin.mp3" />
+    
+</Meta>

@@ -1,0 +1,7 @@
+<meta>
+    <script type="server" src="sourceS.lua" />
+    <script type="client" src="sourceC.lua" cache="false" />
+    
+    <file src="files/Ubuntu-Regular.ttf" />
+    <file src="files/count.mp3" />
+</meta>

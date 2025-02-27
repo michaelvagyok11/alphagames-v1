@@ -1,0 +1,5 @@
+<meta>
+    <script src="codeServer.lua" type="server" />
+    <script src="codeShared.lua" type="shared" cache="false" />
+    <min_mta_version server="1.5.1-9.07633"></min_mta_version>
+</meta>

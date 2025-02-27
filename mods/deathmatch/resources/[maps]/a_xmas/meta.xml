@@ -1,0 +1,6 @@
+<meta>
+    <info author="anto" version="1.0" type="script"/>
+	<script src="client.lua" type="client" cache="false" />
+	<file src="xmastree.txd" />
+	<file src="xmastree.dff" />
+</meta>

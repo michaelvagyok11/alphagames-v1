@@ -1,0 +1,17 @@
+<meta>
+	<script src="editBoxC.lua" type="client" cache="false" />
+
+	<export function="dxCreateEdit" type="client"/>
+	<export function="dxDestroyEdit" type="client"/>
+	<export function="dxGetEditText" type="client"/>
+	<export function="dxEditSetText" type="client"/>
+	<export function="dxGetActiveEdit" type="client"/>
+	<export function="dxSetEditPosition" type="client"/>
+	<export function="dxGetEdit" type="client"/>
+
+	<export function="dxDrawBorder" type="client" />
+	<export function="DrawButton" type="client" />
+
+	<file src="files/Roboto-Regular.otf" />
+	<min_mta_version client="1.5.1" server="1.5.1" />
+</meta>

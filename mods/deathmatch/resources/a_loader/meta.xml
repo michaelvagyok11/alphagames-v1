@@ -1,0 +1,9 @@
+<meta>
+    <script src="codeClient.lua" type="client" cache="false" />
+    
+    <file src="files/img/loading.png" />
+    <file src="files/sound/music.mp3" />
+    <file src="files/fonts/Roboto-BoldCondensed.ttf" />
+
+    <export function="createLoadingScreen" type="client" />
+</meta>

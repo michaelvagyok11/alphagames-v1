@@ -1,0 +1,21 @@
+function loadMod(path, model)
+	engineImportTXD(engineLoadTXD("files/" .. path .. ".txd"), model)
+	engineReplaceModel(engineLoadDFF("files/" .. path .. ".dff"), model)
+end
+
+loadMod("ak", 355)
+loadMod("m4", 356)
+loadMod("glock", 346)
+loadMod("desert", 348)
+loadMod("katana", 339)
+loadMod("uzi", 352)
+loadMod("p90", 353)
+loadMod("sawnoff", 350)
+loadMod("spaz", 351)
+loadMod("silenced", 347)
+loadMod("sniper", 358)
+loadMod("tec9", 372)
+loadMod("knife", 335)
+loadMod("shotgun", 349)
+loadMod("rifle", 357)
+

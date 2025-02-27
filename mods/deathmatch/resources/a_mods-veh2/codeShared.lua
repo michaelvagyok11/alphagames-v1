@@ -1,0 +1,16 @@
+vehicleMods = { -- **MODEL ID // FILENAME // GAMEMODE ID: 2-freeroam, 3-drift, 0-mind2
+    {602, "alpha", 0},
+    {507, "elegant", 0},
+    {579, "huntley", 0},
+    {411, "infernus", 0},
+    {400, "landstalker", 0},
+    {426, "premier", 0},
+    {547, "primo", 0},
+    {405, "sentinel", 0},
+    {580, "stafford", 0},
+    {560, "sultan", 0},
+    {421, "washing", 0},
+    {494, "494", 0},
+    {506, "supergt", 0},
+    {490, "fbiranch", 0},
+}

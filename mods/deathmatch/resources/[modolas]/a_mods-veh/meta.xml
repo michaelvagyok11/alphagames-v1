@@ -1,0 +1,141 @@
+<meta>
+
+	<download_priority_group>-4</download_priority_group>
+
+	<script type="client" src="sourceC.lua" cache = "false" />
+	<script type="server" src="sourceS.lua" />
+	<script type="shared" src="sourceG.lua" cache = "false" />
+
+    <export function="getVehicleDatasById" type="shared" />
+    <export function="getCustomIdByModel" type="client" />
+
+	<min_mta_version client="1.5.7" server="1.5.7" />
+
+
+	<file src="mods/m5f90.txd" />
+	<file src="mods/m5f90.alphaGames" />
+
+	<file src="mods/huntley.txd" />
+	<file src="mods/huntley.alphaGames" />
+
+	<file src="mods/sunrise.txd" />
+	<file src="mods/sunrise.alphaGames" />
+
+	<file src="mods/primo.txd" />
+	<file src="mods/primo.alphaGames" />
+
+	<file src="mods/alpha.txd" />
+	<file src="mods/alpha.alphaGames" />
+
+	<file src="mods/admiral.txd" />
+	<file src="mods/admiral.alphaGames" />
+
+	<file src="mods/infernus.txd" />
+	<file src="mods/infernus.alphaGames" />
+
+	<file src="mods/jester.txd" />
+	<file src="mods/jester.alphaGames" />
+
+	<file src="mods/vincent.txd" />
+	<file src="mods/vincent.alphaGames" />
+
+	<file src="mods/comet.txd" />
+	<file src="mods/comet.alphaGames" />
+
+	<file src="mods/clover.txd" />
+	<file src="mods/clover.alphaGames" />
+
+	<file src="mods/zr350.txd" />
+	<file src="mods/zr350.alphaGames" />
+
+	<file src="mods/washington.txd" />
+	<file src="mods/washington.alphaGames" />
+
+	<file src="mods/flash.txd" />
+	<file src="mods/flash.alphaGames" />
+
+	<file src="mods/copcarvg.txd" />
+	<file src="mods/copcarvg.alphaGames" />
+
+	<file src="mods/copcarla.txd" />
+	<file src="mods/copcarla.alphaGames" />
+
+	<file src="mods/copcarsf.txd" />
+	<file src="mods/copcarsf.alphaGames" />
+
+	<file src="mods/copcarru.txd" />
+	<file src="mods/copcarru.alphaGames" />
+
+	<file src="mods/willard.txd" />
+	<file src="mods/willard.alphaGames" />
+
+	<file src="mods/club.txd" />
+	<file src="mods/club.alphaGames" />
+
+	<file src="mods/hermes.txd" />
+	<file src="mods/hermes.alphaGames" />
+
+	<file src="mods/490.txd" />
+	<file src="mods/490.alphaGames" />
+
+	<file src="mods/550.txd" />
+	<file src="mods/550.alphaGames" />
+	
+	<file src="mods/502.txd" />
+	<file src="mods/502.alphaGames" />
+
+	<file src="mods/sentinel.txd" />
+	<file src="mods/sentinel.alphaGames" />
+
+	<file src="mods/tahoma.txd" />
+	<file src="mods/tahoma.alphaGames" />
+
+	<file src="mods/fbirancher.txd" />
+	<file src="mods/fbirancher.alphaGames" />
+
+	<file src="mods/tampa.txd" />
+	<file src="mods/tampa.alphaGames" />
+
+	<file src="mods/premier.txd" />
+	<file src="mods/premier.alphaGames" />
+
+	<file src="mods/glendale.txd" />
+	<file src="mods/glendale.alphaGames" />
+
+	<file src="mods/604.txd" />
+	<file src="mods/604.alphaGames" />
+
+	<file src="mods/blistac.txd" />
+	<file src="mods/blistac.alphaGames" />
+	
+	<file src="mods/bravura.txd" />
+	<file src="mods/bravura.alphaGames" />
+
+	<file src="mods/bullet.txd" />
+	<file src="mods/bullet.alphaGames" />
+
+	<file src="mods/elegant.txd" />
+	<file src="mods/elegant.alphaGames" />
+
+	<file src="mods/elegy.txd" />
+	<file src="mods/elegy.alphaGames" />
+
+	<file src="mods/euros.txd" />
+	<file src="mods/euros.alphaGames" />
+
+	<file src="mods/regina.txd" />
+	<file src="mods/regina.alphaGames" />
+
+	<file src="mods/stafford.txd" />
+	<file src="mods/stafford.alphaGames" />
+
+	<file src="mods/turismo.txd" />
+	<file src="mods/turismo.alphaGames" />
+
+	<file src="mods/audiq7.txd" />
+	<file src="mods/audiq7.alphaGames" />
+
+	<file src="mods/ervin-egyedi.txd" />
+	<file src="mods/ervin-egyedi.alphaGames" />
+
+</meta>

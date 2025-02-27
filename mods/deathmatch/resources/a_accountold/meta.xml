@@ -1,0 +1,16 @@
+<meta>
+	<!-- Codes -->
+	<script src="codeServer.lua" type="server" />
+	<script src="codeClient.lua" type="client" />
+	
+	<!-- Fonts -->
+	<file src="files/fonts/font.ttf" />
+	<file src="files/fonts/font2.ttf" />
+
+	<!-- Pictures -->
+	<file src="files/username.png" />
+	<file src="files/password.png" />
+	<file src="files/correct.png" />
+	<file src="files/email.png" />
+	<file src="files/nickname.png" />
+</meta>

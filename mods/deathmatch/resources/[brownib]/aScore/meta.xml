@@ -1,0 +1,12 @@
+<meta>
+    
+    <script src="codeClient.lua" type="client" cache="false" />
+
+    <file src="files/header.png" />
+    <file src="files/header2.png" />
+
+    <file src="files/fonts/Roboto-Condensed.ttf" />
+    <file src="files/fonts/Roboto-BoldCondensed.ttf" />
+    <file src="files/fonts/Roboto-Thin.ttf" />
+    <file src="Rubik-Medium.ttf" />
+</meta>

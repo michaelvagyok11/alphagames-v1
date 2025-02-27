@@ -1,0 +1,21 @@
+<meta>
+    <script src="codeClient.lua" type="client" cache="false" />
+    <file src="mods/wheel_gn1.dff" />
+    <file src="mods/wheel.txd" />
+    <file src="mods/wheel_gn2.dff" />
+    <file src="mods/wheel_gn3.dff" />
+    <file src="mods/wheel_gn4.dff" />
+    <file src="mods/wheel_gn5.dff" />
+    <file src="mods/wheel_lr1.dff" />
+    <file src="mods/wheel_lr2.dff" />
+    <file src="mods/wheel_lr3.dff" />
+    <file src="mods/wheel_lr4.dff" />
+    <file src="mods/wheel_lr5.dff" />
+    <file src="mods/wheel_or1.dff" />
+    <file src="mods/wheel_sr1.dff" />
+    <file src="mods/wheel_sr2.dff" />
+    <file src="mods/wheel_sr3.dff" />
+    <file src="mods/wheel_sr4.dff" />
+    <file src="mods/wheel_sr5.dff" />
+    <file src="mods/wheel_sr6.dff" />
+</meta>

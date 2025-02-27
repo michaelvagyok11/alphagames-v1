@@ -1,0 +1,10 @@
+<meta>
+    <script src="codeServer.lua" type="server"></script>
+    <script src="codeClient.lua" type="client" validate="false" cache="false"></script>
+
+    <file src="files/fonts/Roboto-BoldCondensed.ttf" />
+    <file src="files/fonts/Roboto-Condensed.ttf" />
+    <file src="files/fonts/Roboto-Thin.ttf" />
+
+    <file src="files/img/copy.png" />
+</meta>

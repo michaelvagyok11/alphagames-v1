@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This document was created with Syntext Serna Free. -->
+<meta>
+    <script src="replacing.lua" type="client" cache="false" />
+    <script src="replacing2.lua" type="server" />
+    <file src="awp_india.col" />
+    <file src="awp_india.txd" />
+    <file src="awp_india.dff" />
+    <oop>true</oop>
+    <info gamemodes="csrw" type="map" name="awp_india" author="Luc1FeR, to CSRW by Jacob" version="1.0.0"></info>
+    <map src="awpindia.map" dimension="0"></map>
+    <settings>
+        <setting name="#maxplayers" value="[ 32 ]"></setting>
+        <setting name="#useLODs" value="[ true ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#camera" value='[ [ [ &quot;0&quot;, &quot;0&quot;, &quot;0&quot; ], [ &quot;0&quot;, &quot;0&quot;, &quot;0&quot; ] ] ]'></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#weather" value="[ 4 ]"></setting>
+        <setting name="#time" value="17:31"></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

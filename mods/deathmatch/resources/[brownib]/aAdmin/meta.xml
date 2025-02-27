@@ -1,0 +1,17 @@
+<meta>
+    <script src="sourceC.lua" type="client" cache="false" />
+    <script src="sourceG.lua" type="shared" cache="false" />
+    <script src="sourceS.lua" type="server" />
+
+    <script src="adminPanelC.lua" type="client" cache="false" />
+    <script src="flyC.lua" type="client" cache="false" />
+
+    <export function="getAdminSyntax" type="shared" />
+    <export function="mutePlayer" type="server" />
+
+    <file src="files/fonts/Roboto-Condensed.ttf" />    
+    <file src="files/fonts/Roboto-BoldCondensed.ttf" />    
+    <file src="files/fonts/Roboto-Thin.ttf" />    
+    <file src="files/epanel.mp3" />   
+    <file src="files/error.mp3" />
+</meta>
